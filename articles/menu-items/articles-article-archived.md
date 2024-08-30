@@ -181,7 +181,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
 
 {{safesubst:Chunk4x:Help_screen_Menus_Item_toolbar/en}}
 
-## Quick Tips
+## Tips
 
 - The Archived Articles layout allows you to access old or outdated
   articles that you don't want to remove entirely from the site.

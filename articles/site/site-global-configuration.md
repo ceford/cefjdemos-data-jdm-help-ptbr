@@ -415,7 +415,7 @@ Screenshot above.
 - **Toggle Inline Help**. Show help text below some options.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Most of these settings can be set once and then left alone.
 - If major modifications need to be made, then consider taking the site

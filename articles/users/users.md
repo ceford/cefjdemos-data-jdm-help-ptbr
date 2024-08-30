@@ -143,7 +143,7 @@ alt="Users batch subscreen" />
     the changes. A message **"Batch process completed successfully."**
     will show.
 
-## Quick Tips
+## Tips
 
 - Click on the name of a user to edit the user's properties.
 - Click on the icon in the Enabled column to toggle between Enabled and
