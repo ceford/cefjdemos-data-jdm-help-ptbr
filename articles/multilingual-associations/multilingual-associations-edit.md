@@ -1,139 +1,42 @@
-<!-- Filename: Help4.x:Multilingual_Associations:_Edit / Display title:   Associações multilíngues: Editar -->
+<!-- Filename: Help4.x:Multilingual_Associations:_Edit  / Display title: Associações Multilíngues: Editar -->
 
 ## Descrição
 
-Usado para adicionar ou editar associações entre as linguagens mostradas
-em um site multilíngue.
+A página *Multilingual Associations: Edit Associations* mostra um item de Referência e um item de Destino lado a lado em telas mais largas e empilhados em telas estreitas. O modo lado a lado permite alinhar a referência e o destino para facilitar a tradução.
 
-## Como acessar
+Os campos na Referência e no Destino são os mesmos que os do formulário de edição para um único item, mas o layout é ajustado para a largura restrita da coluna.
 
-Para adicionar uma associação:
+### Elementos Comuns
 
-- **Componentes → associações multilíngues**
-  1.  selecione o **tipo do item**.
-  2.  selecione a **Linguagem**.
-  3.  Selecione uma linguagem de destino na coluna **Não associado**.
+Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
-Para editar uma associação:
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
 
-- **Componentes → associações multilíngues**
-  1.  selecione o **tipo do item**.
-  2.  selecione a **linguagem**.
-  3.  Selecione uma linguagem de destino na coluna **associado**.
+## Como Acessar
 
-## Captura da tela
+* Selecione **Componentes → Associações Multilíngues** no menu do Administrador.
+  * Selecione um **Tipo de Item** na lista suspensa *- Selecionar Tipo de Item -*.
+  * Selecione **Idioma** na lista suspensa *- Selecionar Idioma -*. Este 
+    se torna o idioma de Referência.
+* Para editar uma Associação: Selecione um idioma de Destino na coluna **Associado**.
+* Para adicionar uma Associação: Selecione um idioma de Destino na coluna **Não Associado**.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Assocations-Edit-screen-pt-br.png"
-class="new"
-title="File:Help-4x-Components-Assocations-Edit-screen-pt-br.png">800px</a>
+## Captura de Tela
 
-A tela para edição das associações multilíngues mostra o conteúdo do
-item na origem e no destino lado a lado. Cada uma é uma janela rolável
-com as opções do item abaixo da área para edição do texto.
+![Itens de Referência e Alvo lado a lado](../../../pt/images/multilingual-associations/multilingual-associations-edit.png)
 
-## Campos do formulário
+Neste exemplo, os itens são Artigos. Cada um é uma janela rolável com as opções de item abaixo da área de edição de texto (não mostrada).
 
-As telas dependem do item selecionado, então acesse:
+## Campos do Formulário
 
-### Content
+Os campos do formulário são aqueles do tipo de item selecionado, portanto não são abordados aqui.
 
-- Artigos
-- Categorias para
-  artigos
-- <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_Edit/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Contacts: Edit/pt-br (page does not exist)">Contatos</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_Edit_Category/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Contacts: Edit Category/pt-br (page does not exist)">Categorias
-  para contatos</a>
-- Menus
-- News
-  Feeds
-- News Feeds
-  Categories
+## Barra de Ferramentas
 
-### Images and Links
+- **Salvar Referência** Salva a Referência e permanece na tela atual.
+- **Salvar Alvo** Salva o Alvo e permanece na tela atual.
+- **Copiar Referência para Alvo** Copia todos os campos de referência para os campos de alvo.
+- **Fechar** Fecha a tela atual e retorna à tela anterior sem salvar as modificações que você possa ter feito.
 
-- Articles
+*Traduzido por openai.com*
 
-### Options
-
-- Articles
-- Articles
-  Categories
-- Contacts
-  Categories
-- News
-  Feeds
-- News Feeds
-  Categories
-
-### Publishing
-
-- Articles
-- Articles
-  Categories
-- Contacts
-- Contacts
-  Categories
-- News
-  Feeds
-- News Feeds
-  Categories
-
-### Associations
-
-- Articles
-- Articles
-  Categories
-- Contacts
-- Contacts
-  Categories
-- News
-  Feeds
-- News Feeds
-  Categories
-
-### Configure Edit Screen
-
-- Articles
-
-### Permissions
-
-- Articles
-- Articles
-  Categories
-- Contacts
-  Categories
-- News Feeds
-  Categories
-
-### Miscellaneous Information
-
-- Contacts
-
-### Display
-
-- Contacts
-
-### Form
-
-- Contacts
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save Reference**. Saves the Reference and stays in the current
-  screen.
-- **Save Target**. Saves the Target and stays in the current screen.
-- **Copy Reference to Target**. Copies all the fields to the target
-  fields.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.

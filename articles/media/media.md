@@ -1,103 +1,73 @@
-<!-- Filename: Help4.x:Media / Display title:   Mídia -->
+<!-- Filename: Help4.x:Media  / Display title: Mídia -->
 
 ## Descrição
 
-O gerenciador para mídia é uma ferramenta para gerenciar os arquivos na
-pasta \[joomlaroot\]https://docs.joomla.org/images/ e outras pastas
-locais definidas pelo usuário. As ferramentas disponíveis incluem:
+O componente de Mídia é uma ferramenta para gerenciar arquivos na pasta de imagens e
+outras pastas locais definidas pelo usuário. As ações disponíveis incluem:
 
-- enviar (carregar) uma nova imagem (ou documento)
-- excluir uma imagem existente
-- renomear uma imagem
-- editar uma imagem
-- obter um link de imagem
-- criar uma nova pasta.
+- Fazer upload de uma nova imagem (ou documento)
+- Excluir uma imagem existente
+- Renomear uma imagem
+- Editar uma imagem
+- Obter um link de uma imagem
+- Criar uma nova pasta
+
+### Elementos Comuns
+
+Alguns aspectos desta página são abordados em artigos de Ajuda separados:
+
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
 
 ## Como acessar
 
-- **Painel inicial → Site → Mídia**.
+- **Painel Inicial → Site → Mídia**.
 
-## Captura da tela
+## Captura de Tela
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Media-screen-pt-br.png"
-class="new" title="File:Help-4x-Media-screen-pt-br.png">800px</a>
+![Mídia](../../../ptbr/images/midia/midia.png)
 
-## Área para exibição da imagem
+## Área de Exibição de Imagens
 
 ### Local
 
-Esta área mostra a estrutura das pastas locais do seu site, por padrão a
-pasta **images**. [Dica rápida](#quicktips)
+Esta área mostra a estrutura das pastas do site local, por padrão 
+a pasta *imagens*.
 
-A pasta atualmente selecionada também é mostrada na **trilha da
-navegação** acima da área para exibição da imagem.
+A pasta atualmente selecionada é mostrada nos *Breadcrumbs* acima da
+área de exibição de imagens.
 
-### Barra superior
+### Barra Superior
 
-- **Caixa de seleção**. Marcar/desmarcar todas as imagens. Após
-  selecionar, você pode desmarcar imagens individuamente.
-- **Trilha da navegação**. Selecione um item na trilha da navegação para
-  voltar na hierarquia das pastas.
-- **Pesquisar**. Insira alguma parte do nome de uma imagem na caixa para
-  pesquisad. O filtro funciona progressivamente - por exemplo, inserir a
-  letra "k" na caixa para pesquisas reduzirá instantaneamente as imagens
-  mostradas para aquelas que contêm a letra "k".
-- **Ícones da lupa**. Reduzir/aumentar o tamanho visível das imagens em
-  miniatura.
-- **Ícones para visualização em lista ou visualização em miniaturas**.
-  Alterna entre as visualizações em miniaturas e em lista - o ícone muda
-  de acordo.
-- **Ícone das informações**. Mostra informações sobre tudo o que está
-  selecionado. Se uma imagem for selecionada, o nome do arquivo, o
-  caminho da pasta, o tamanho e várias outras propriedades serão
-  mostradas. Selecione para abrir ou fechar o painel das informações.
+- **Checkbox** Seleciona ou desseleciona todas as imagens. Após a seleção, imagens individuais podem ser desselecionadas.
+- **Breadcrumbs** Selecione um item dos breadcrumbs para voltar na hierarquia de pastas.
+- **Pesquisa**. Digite uma parte do nome de uma imagem na caixa de pesquisa. O filtro funciona progressivamente - por exemplo, ao digitar a letra `k` na caixa de pesquisa, as imagens exibidas serão imediatamente reduzidas para aquelas contendo a letra `k`.
+- **Ícones de Lupa** Diminuem ou aumentam o tamanho visível das imagens em miniatura.
+- **Ícones de Lista ou Miniatura** Alterna entre as visualizações de Miniatura e Lista - o ícone muda de acordo.
+- **Ícone de Informação** Exibe informações sobre o que está selecionado. Se uma imagem está selecionada, mostrará o nome do arquivo, caminho da pasta, tamanho e várias outras propriedades. Selecione para abrir ou fechar o painel de Informação.
 
 ### Ações
 
-Passe o mouse sobre uma imagem e selecione o botão do menu rotulado com
-3 pontos. 6 ícones aparecem oferecendo as seguintes ações:
+Passe o mouse sobre uma imagem e selecione o botão de menu rotulado com uma elipse (...).
+Seis ícones aparecerão oferecendo as seguintes ações:
 
-1.  **Pré-visualização**. Selecione o ícone da lupa - a imagem é
-    mostrada em tamanho real em uma caixa de diálogo.
-2.  **Editar**. Selecione o ícone do lápis para abrir a janela para
-    editar mídia. Permite cortar, redimensionar ou girar a imagem.
-3.  **Baixar**. Selecione o ícone para baixar - seu computador
-    responderá perguntando o que você deseja fazer com o arquivo. Ou
-    pode simplesmente salvá-lo ou abri-lo em um aplicativo para
-    visualização das imagens.
-4.  **Obter um link compartilhável**. Selecione o ícone de link para
-    obter um link, para a imagem, que você pode usar para compartilhar.
-    Uma caixa de diálogo permite copiar o link para a área de
-    transferência para colar em um e-mail ou documento.
-5.  **Renomear**. Selecione o ícone para renomear para abrir uma caixa
-    de diálogo que permite renomear a imagem.
-6.  **Excluir**. Selecione o ícone da lixeira para excluir a imagem.
-    Você será solicitado a confirmar. Uma vez excluído, ele se foi para
-    sempre! Também pode ser usado para excluir uma pasta.
+1.  **Pré-visualizar** Selecione o ícone de lupa - a imagem será exibida em tamanho real em um diálogo.
+2.  **Editar** Selecione o ícone de lápis para abrir a janela de Edição de Mídia. Permite cortar, redimensionar ou rotacionar a imagem.
+3.  **Baixar** Selecione o ícone de download - seu computador responderá perguntando o que você quer fazer com o download. Ou pode simplesmente salvar ou abrir em um aplicativo de exibição de imagens.
+4.  **Obter um link para compartilhamento** Selecione o ícone de link para obter um link da imagem para ser usado para compartilhamento. Um diálogo permite copiar o link para a área de transferência para colar em um email ou documento.
+5.  **Renomear** Selecione o ícone de renomear para abrir um diálogo que permite renomear a imagem.
+6.  **Excluir** Selecione o ícone de lixeira para excluir a imagem. Será solicitado uma confirmação. Uma vez excluída, ela desaparece para sempre! Pode também ser usado para excluir uma pasta.
 
-## Barra das ferramentas
-
-No topo da página você verá a barra das ferramentas mostrada na [captura
-da tela](#screenshot) acima.
-
-- **Enviar**. Abre a janela para enviar (carregar) imagens.
-- **Crie uma nova pasta**. Abre uma caixa de diálogo para solicitar um
-  nome para a nova pasta. A nova pasta é criada na pasta atualmente
-  selecionada.
-- **Excluir**. Exclui as imagens selecionadas.
-- **Opções**. Abre as
-- **Ajuda**. Abre esta tela de ajuda.
-
-## Dicas rápidas
+## Dicas
 
 - Se você deseja manter imagens e documentos em pastas locais separadas:
-  1.  crie uma pasta na raiz do seu site, digamos **files** por exemplo
-  2.  vá para o plugin Sistema de arquivos -
-      Local
-      e adicione **files** em **Selecionar diretórios**.
-  3.  De volta ao componente para mídia, você verá *images* e *files*
-      como itens separados no painel local.
-- O tamanho máximo da mídia para envio pode ser alterado para um valor
-  diferente de "10 MB" nas
-- Você pode enviar ou excluir vários arquivos ao mesmo tempo.
+  1.  crie uma pasta na raiz do seu site, digamos **arquivos**
+  2.  vá para o plugin Filesystem - Local e adicione **arquivos** 
+      em **Selecionar diretórios**.
+  3.  De volta ao componente de Mídia, você verá *imagens* e *arquivos* como
+      itens separados no painel Local.
+- O tamanho máximo de upload de mídia pode ser alterado para um valor diferente de
+  `10 MB` nas Opções de Mídia.
+- Você pode carregar ou excluir vários arquivos ao mesmo tempo.
+
+*Traduzido por openai.com*
+

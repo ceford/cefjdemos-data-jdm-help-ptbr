@@ -1,245 +1,118 @@
-<!-- Filename: Help4.x:Banners:_Edit / Display title: Banners: Editar -->
+<!-- Filename: Help4.x:Banners:_Edit  / Display title: Banners: Editar -->
 
 ## Descrição
 
-Usado para adicionar ou editar banners que podem ser mostrados em seu
-site Joomla!. Lembre-se de criar pelo menos um cliente do
-banner
-e uma categoria do
-banner
-antes de criar quaisquer banners.
+Usado para adicionar ou editar banners que podem ser exibidos no seu site Joomla!
+Lembre-se de criar pelo menos um Cliente de Banner e uma Categoria de Banner
+antes de criar qualquer Banner.
 
-## Como acessar
+### Elementos Comuns
 
-Para "**adicionar**" um novo banner ou "**editar**" um banner existente,
-navegue até o Gerenciador para
-banners:
+Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
-- Selecione **Componentes → Banners → Novo** para criar um novo
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
+* [A Aba de Publicação](jdocmanual?article=help/common-elements/edit-publishing).
+* [O Popup de Histórico de Versão](jdocmanual?article=help/common-elements/edit-version-history).
+
+## Como Acessar
+
+No menu do Administrador:
+- Selecione **Componentes → Banners** para ir para a página de lista de Banners.
+- Selecione o botão **Novo** na Barra de Ferramentas para criar um novo Banner.
+- Selecione um **nome** de Banner na coluna *Nome* para editar um Banner existente.
+
+## Captura de Tela
+
+Um banner pode ser uma imagem clicável ou algum código personalizado. O Tipo de Imagem é exibido na captura de tela abaixo. O tipo personalizado possui a caixa de seleção de imagens substituída por uma área de texto para código.
+
+![Aba de edição de detalhes de banners](../../../ptbr/images/banners/banners-edit-details-tab.png)
+
+## Campos do Formulário
+
+- **Nome** O nome do Banner. Este é o nome que será exibido
+  na coluna *Nome* da lista de Banners.
+- **Alias** O nome interno do item. Normalmente, você pode deixar este
+  campo em branco e o Joomla preencherá um valor padrão derivado do Nome,
+  mas em letras minúsculas e com traços em vez de espaços.
+
+## Aba de Detalhes
+
+### Painel Esquerdo
+
+- **Tipo** O tipo de banner a ser exibido. As opções são um arquivo de imagem ou
+  código HTML personalizado.
+  - **Imagem** Arquivo de imagem a ser exibido para o banner. Clique no botão *Selecionar*
+    para procurar e selecionar o arquivo de imagem a ser usado. Utilize a página de Mídia
+    para carregar arquivos de imagem do Banner no seu site. Imagens para Banners
+    têm que estar no diretório /images/banners/.
+    - **Largura** A largura fixa para redimensionar a imagem do banner. Deixe
+      este campo vazio se quiser usar a largura real do arquivo de imagem do banner.
+    - **Altura** A altura fixa para redimensionar a imagem do banner. Deixe
+      este campo vazio se quiser usar a altura real do arquivo de imagem do banner.
+    - **Texto Alternativo** Texto a ser exibido no lugar da imagem do banner
+      caso a imagem não possa ser exibida.
+    - **Texto Alternativo** Texto alternativo para a imagem do Banner.
+  - **Personalizado** Selecione Personalizado se quiser inserir um código personalizado para
+    seu banner.
+    - **Código Personalizado** Use {CLICKURL} e {NAME} para mesclar os valores 'URL de Clique'
+      e 'Nome' respectivamente no seu código personalizado. Por exemplo:<br>
+      `<a href=`&#34;`{CLICKURL}"><img src=`&#34;`insira URL para a imagem" alt="{NAME}" title="{NAME}"></a>`.
+      Outra opção é inserir um código HTML personalizado. Por exemplo:<br>
+      `<div class="suaclasse"><a href=`&#34;`https://seudominio.com"><img src=`&#34;`caminhodasuimagem"></a></div>`
+- **URL de Clique** A URL para navegar quando o Usuário clica no
+  Banner.
+- **Descrição** Insira uma descrição para o Banner.
+
+### Painel Direito
+
+- **Status** O status de publicação do item.
+- **Fixado** Se o Banner está ou não *fixado*. Se
+  um ou mais Banners em uma Categoria forem designados como *fixos*, eles terão
+  prioridade sobre Banners que não são fixos.
+    - Por exemplo, se dois Banners em uma Categoria estão fixados e um terceiro Banner
+    não está fixado, o terceiro Banner não será exibido se a configuração do módulo de exibição
+    do Banner estiver como *Fixado, Aleatório* ou *Fixado, Ordem*. Somente os
+    dois Banners fixados serão exibidos. Se os banners fixados tiverem um número fixo
+    de impressões, uma vez que essas impressões se esgotem, os banners fixados não
+    serão mais exibidos, e os banners não fixados começarão
+    a ser exibidos automaticamente.
+- **Idioma** Idioma do item.
+- **Nota da Versão** Campo opcional para identificar esta versão do item
+  na janela de Histórico de Versão do item.
+
+### Aba de Detalhes do Banner
+
+![Aba de detalhes da edição de banners](../../../ptbr/images/banners/banners-edit-banner-details-tab.png)
+
+- **Máx. Impressões** O número de Impressões adquiridas para este
+  Banner. Impressões são o número de vezes que um Banner será exibido
+  em uma página. Marque a caixa de seleção 'Ilimitado' se for permitido um número ilimitado de
+  Impressões.
+- **Total de Impressões** O número de vezes que este Banner foi
+  exibido em uma página web para um usuário. Nenhuma entrada é permitida. Você pode redefinir
+  este número para 0 pressionando o botão 'Redefinir Impressões'.
+- **Total de Cliques** O número de vezes que este Banner foi clicado. Nenhuma
+  entrada é permitida. Você pode redefinir este número para 0 pressionando o
+  botão *Redefinir cliques*.
+- **Cliente** O Cliente para este Banner. Selecione um na lista suspensa
+  de Clientes existentes.
+- **Tipo de Compra:** O tipo de compra do banner. Isto é usado para
+  indicar como o cliente do banner adquiriu o tempo de exibição para o
   banner.
-- Selecione **Components → Banners** e acione o nome do banner para
-  "**editar**" um banner existente.
+- **Rastrear Impressões** Se deve ou não rastrear o número de vezes que
+  o banner é exibido para os visitantes do site.
+- **Rastrear Cliques** Se deve ou não rastrear o número de vezes que
+  o banner é clicado pelos visitantes do site.
 
-## Captura da tela
+## Dicas
 
-Um banner pode ser uma imagem acionável ou algum código personalizado. O
-tipo da imagem é mostrado na captura da tela abaixo. O tipo
-personalizado tem a caixa para seleção da imagem substituída por uma
-área para texto código.
+- Os banners são colocados em páginas específicas ao adicionar Módulos do tipo *Banners* usando a lista de Módulos.
+- Se você tem uma série de Banners que gostaria de exibir em uma ou mais páginas de forma aleatória:
+  1. Crie os Banners que deseja incluir, certificando-se de que eles tenham o mesmo Cliente e Categoria.
+  2. Crie um Módulo de Banner para esse Cliente e Categoria e, na Atribuição de Menu, escolha as Seleções de Menu para o módulo exibir.
+  3. No Módulo de Banner, configure o valor *Randomise* para *Sticky, Randomise*.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png"
-class="new"
-title="File:Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png">800px</a>
+  Com essas configurações, os diferentes Banners para esse Cliente e Categoria serão exibidos nas páginas selecionadas de forma aleatória.
 
-## Campos do formulário
+*Traduzido por openai.com*
 
-- **Nome**: O nome do banner. Este é o nome que será mostrado na coluna
-  *Nome* do
-- **Alias**: O nome interno do item. Normalmente, você pode deixar em
-  branco e o Joomla preencherá um valor padrão de título em letras
-  minúsculas e com traços em vez de espaços. Saiba
-  mais.
-
-### Aba (guia) Detalhes
-
-#### Painel esquerdo
-
-- **Type**: O tipo do banner a ser mostrado. As opções são um arquivo de
-  imagem ou código HTML personalizado.
-  - **Imagem**: Arquivo da imagem a ser mostrada no banner. Clique no
-    botão *Selecionar* para navegar e selecionar o arquivo da imagem a
-    ser usada. Use a página
-    Mídia
-    para enviar arquivos de imagem para banners ao seu site. As imagens
-    para os banners devem estar no diretório
-    https://docs.joomla.org/images/banners/.
-    - **Largura**: A largura fixa para redimensionar a imagem do banner.
-      Deixe em branco se quiser usar a largura real do arquivo da imagem
-      do banner.
-    - **Altura**: A altura fixa para redimensionar a imagem do banner.
-      Deixe em branco se quiser usar a altura real do arquivo da imagem
-      do banner.
-    - **Texto alternativo**: Texto a ser mostrado no lugar da imagem do
-      banner caso a imagem não possa ser mostrada.
-    - **Texto alternativo**: Texto alternativo para a imagem do banner.
-  - **Personalizado**: Selecione "Personalizado" se desejar inserir um
-    código personalizado para seu banner.
-    - **Código personalizado**: Use {CLICKURL} e {NAME} para mesclar os
-      valores "URL ao acionar" e "Nome", respectivamente, em seu código
-      personalizado. Por exemplo:
-      [![`{NAME}`](insira%20o%20URL%20da%20imagem "{NAME}")](%7BCLICKURL%7D).
-      Outra opção é inserir um código HTML personalizado. Por exemplo:
-      ![](caminhodasuaimagem)
-- **URL ao acionar**: O URL que será acionado quando o usuário acionar o
-  banner.
-- **Description**. Enter a description for the Banner.
-
-#### Painel direito
-
-- **Estado**: O estado de publicação do item.
-- **Fixado**: *(Sim ou não)* Se o banner está "fixado" ou não. Se um ou
-  mais banners em uma categoria forem designados como "fixados", eles
-  terão prioridade sobre os banners que não forem fixos.
-
-*Por exemplo, se dois banners em uma categoria estiverem fixados e um
-terceiro banner não estiver, o terceiro banner não será mostrado se a
-configuração do módulo para exibição do banner for "Fixado, aleatório"
-ou "Fixado, ordenado". Apenas os dois banners fixados serão mostrados.
-Se os banners fixados tiverem uma quantidade de impressões
-(visualizações) predefinida, quando essas impressões forem usadas, os
-banners fixados não serão mais mostrados e os que não são fixados
-começarão a ser mostrados automaticamente.*
-
-- **Linguagem**: Linguagem do item.
-- **Nota da versão**: Campo opcional para identificar esta versão do
-  item na janela do histórico das
-  versões
-  do item.
-
-### Aba (guia) Detalhes do banner
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-pt-br.png"
-class="new"
-title="File:Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-pt-br.png">800px</a>
-
-- **Máximo de impressões**: A quantidade de impressões (visualizações)
-  compradas para este banner. As impressões são a quantidade de vezes
-  que um banner será mostrado em uma página. Marque a caixa de seleção
-  "ilimitado" se uma quantidade ilimitada de impressões for permitida.
-- **Total de impressões**: a quantidade de vezes que este banner foi
-  mostrado em uma página web para os usuários. Nenhuma entrada é
-  permitida. Você pode redefinir esse número para 0 pressionando o botão
-  "Redefinir impressões".
-- **Total de acionamentos**: a quantidade de vezes que este banner foi
-  acionado. Nenhuma entrada é permitida. Você pode redefinir esse número
-  para 0 pressionando o botão "Redefinir acionamentos".
-- **Cliente**: O cliente para este banner. Os clientes são inseridos
-  usando o gerenciador dos clientes para banners.
-
-Selecione um na caixa da lista suspensa dos clientes existentes.
-
-- **Tipo da compra**: O tipo da compra relacionada ao banner. Isso é
-  usado para indicar como o cliente do banner comprou o tempo de
-  exibição do banner.
-
-As opções seguintes são: (*- Usar padrão do cliente -, ilimitado, anual,
-mensal, semanal, diário*).
-
-- **Monitorar as impressões**: Se deve ou não monitorar a quantidade de
-  vezes que o banner é mostrado para os visitantes do site.
-- **Monitorar acionamentos**: Se deve ou não monitorar a quantidade de
-  vezes que o banner é acionado (clicado) pelos visitantes do site.
-
-### Aba (guia) Publicação
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-pt-br.png"
-class="new"
-title="File:Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-pt-br.png">800px</a>
-
-- **Início da publicação**: Data em que o banner será publicado e estará
-  disponível para o site.
-
-Insira a data (hora opcional) no formato *ano-mês-data hrs:min:seg* como
-"2013-01-07 14:10:00" ou, alternativamente, use a janela modal "pop up"
-e selecione uma data no calendário.
-
-- **Término da publicação**: Data em que o banner deixará de ser
-  publicado e não estará mais disponível para o site.
-
-Insira a data (hora opcional) no formato *ano-mês-data hrs:min:seg* como
-"2013-01-07 14:10:00" ou, alternativamente, use a janela modal "pop up"
-e selecione um data no calendário.
-
-- **Data da criação**: Data em que o item (artigo, categoria, link da
-  web etc.) foi criado.
-- **Criado por**: Nome do usuário que criou este item em seu Joomla!.
-  Por padrão, será o usuário conectado no momento. Se você quiser mudar
-  isso para um usuário diferente, acione o (clique no) botão "Selecionar
-  usuário" para selecionar um usuário diferente.
-- **Criado pelo alias**: Este campo opcional permite que você insira um
-  alias para este autor para este artigo. Isso permite que você mostre
-  um nome de autor diferente para este artigo.
-- **Data da modificação**: Data da última modificação.
-- **Modificado por**: Nome como usuário de quem executou a última
-  modificação.
-- **Revisão**: Número das revisões neste item.
-- **Palavras-chaves**: Entrada opcional para palavras-chaves. Precisam
-  ser inseridas separadas por vírgulas (por exemplo, "gatos, cachorros,
-  animais de estimação") e podem ser inseridas em letras maiúsculas ou
-  minúsculas. (Por exemplo, "GATOS" corresponderá a "gatos" ou "Gatos").
-  As palavras-chaves podem ser usadas de várias maneiras:
-  1.  Para ajudar os mecanismos para pesquisas e outros sistemas a
-      classificar o conteúdo do artigo.
-  2.  Em combinação com as tags para banners, para mostrar banners
-      específicos com base no conteúdo do artigo. Por exemplo, digamos
-      que você tenha um banner com um anúncio para produtos para cães e
-      outro banner para produtos para gatos. Você pode mostrar seu
-      banner relacionado à cachorros quando um usuário estiver
-      visualizando um artigo relacionado a cães e seu banner relacionado
-      a gatos quando um usuário estiver visualizando um artigo
-      relacionado a gatos. Para fazer isso, você precisa fazer o
-      seguinte:
-      - Adicione as palavras-chave "cachorro" e "gato" aos artigos
-        apropriados.
-      - Adicione as tags "cachorro" e "gato" aos banners apropriados em
-
-      - Defina o parâmetro, do módulo para banners, "Pesquisar por tags"
-        como "Sim" em
-  3.  Apenas para artigos, em combinação com o módulo "Artigos -
-      Relacionados",
-      para mostrar artigos que compartilham pelo menos uma palavra-chave
-      em comum. Por exemplo, se o artigo que está sendo mostrado tiver
-      as palavras-chaves "gatos, cachorros, macacos", quaisquer outros
-      artigos com pelo menos uma dessas palavras-chaves serão exibidos
-      no módulo "Artigos - Relacionados".
-- **Usar prefixo próprio**: Se deve ou não usar o prefixo do banner ou
-  do cliente. Selecione *Não* se quiser usar o prefixo do cliente do
-  banner.
-- **Prefixo para meta palavras-chaves**: Ao fazer a correspondência das
-  meta palavras-chaves, pesquisa apenas meta palavras-chaves com esses
-  prefixos opcionais. Isso melhora o desempenho.
-
-## Barra das ferramentas
-
-No topo da página você verá a barra de ferramentas mostrada na [captura
-de tela](#Captura_de_tela) acima. As funções são:
-
-- **Salvar**: Salva o item e permanece na tela atual.
-- **Salvar fechar**: Salva o item e fecha a tela atual.
-- **Salvar & novo**: Salva o item e mantém a tela de edição aberta e
-  pronta para criar outro item.
-- **Salvar como cópia**: Salva suas alterações em uma cópia do item
-  atual. Não afeta o item atual. Este ícone da barra de ferramentas não
-  é exibido se você estiver criando um novo item.
-- **Cancelar**: Fecha a tela atual e retorna à tela anterior sem salvar
-  nenhuma modificação que você tenha feito. Ou
-- **Fechar**: Fecha a tela atual e retorna à tela anterior sem salvar
-  nenhuma modificação que tenha feito. Este ícone da barra de
-  ferramentas não é exibido se você estiver criando um novo item.
-- **Versões**: Abre a janela do histórico das versões do item para
-  mostrar as versões anteriores deste item. Isso permite que você
-  visualize versões mais antigas deste item e, se desejar, restaure a
-  partir de uma versão mais antiga. Consulte histórico das
-  versões
-  para mais informações.
-- **Ajuda**: Abre a tela de ajuda.
-
-## Dicas rápidas
-
-- Os banners são colocados em páginas específicas adicionando módulos do
-  tipo "banners" através do
-- Se você tem uma série de banners que gostaria de mostrar
-  aleatóriamente em uma ou mais páginas:
-  1.  Crie os banners que deseja incluir, certificando-se de que
-      pertençam ao mesmo cliente e à mesma categoria.
-  2.  Crie um módulo para banners para este cliente e categoria e, na
-      atribuição do(s) menu(s), escolha as seleções dos menus para o
-      módulo ser mostrado.
-  3.  No módulo para banners, defina o valor "Aleatorização" como
-      "Fixado, aleatóriamente".
-
-Com essas configurações, os diferentes banners para esse cliente e essa
-categoria serão mostrados nas páginas selecionadas em ordem aleatória.

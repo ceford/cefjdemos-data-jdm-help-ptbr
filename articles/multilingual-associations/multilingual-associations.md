@@ -1,117 +1,60 @@
-<!-- Filename: Help4.x:Multilingual_Associations / Display title:   Associações multilíngues -->
+<!-- Filename: Help4.x:Multilingual_Associations  / Display title: Associações Multilíngues -->
 
 ## Descrição
 
-O componente das associações multilíngues é uma ferramenta que permite
-editar os itens associados lado a lado sem a necessidade de ir e voltar.
+Em sites multilíngues, é possível criar um item em um idioma e vinculá-lo a um item equivalente em um ou mais outros idiomas. O link é conhecido como uma **Associação**. Ele deve ser feito manualmente.
 
-Essa tela é usada para configurar uma associação entre um item e as
-linguagens instaladas do site.
+Associações podem ser criadas para Artigos e suas Categorias, Contatos e suas Categorias, Itens de Menu e Feeds de Notícias e suas Categorias. Extensões de terceiros também podem suportar Associações.
 
-## Como acessar
+O componente de Associações Multilíngues permite a edição lado a lado de itens associados sem a necessidade de ir e voltar.
 
-- **Componentes → Associações multilíngues**
-  1.  selecione o **tipo do item**.
-  2.  selecione a **linguagem**.
+Há mais explicações a seguir da captura de tela abaixo.
 
-## Captura da tela
+### Elementos Comuns
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Associations-pt-br.png"
-class="new"
-title="File:Help-4x-Components-Associations-pt-br.png">800px</a>
+Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
-## Cabeçalhos das colunas
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
+* [Filtros de Lista](jdocmanual?article=help/common-elements/list-filters).
+* [Cabeçalhos de Colunas de Lista](jdocmanual?article=help/common-elements/list-column-headers).
+* [Ordenação de Itens de Lista](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginação de Lista](jdocmanual?article=help/common-elements/list-pagination).
 
-- **Estado**: O estado da publicação do item dos menus.
-- **Título**: O título do item dos menus. Edite o item dos menus
-  acionando o (clicando no) título.
-- **Linguagem**: Linguagem dos itens dos menus.
-- **Associações**: Mostra a quais linguagens este item dos menus está
-  associado.
-- **Não associado**: Mostra as linguagens as quais este item dos menus
-  não está associado.
-- **Menu**: Mostra a qual menu o item dos menus pertence.
-- **Acesso**: O nível do
-  acesso
-  para visualização relacionado a este item dos menus.
-- **ID**: Um número para identificação exclusivo para este item dos
-  menus, você não pode alterar este número.
+## Como Acessar
 
-## Filtros da lista
+* Selecione **Componentes → Associações Multilíngues** no Menu do Administrador.
+* Selecione um item na lista suspensa **- Selecionar Tipo de Item -**.
+* Selecione um idioma na lista suspensa **- Selecionar Idioma -**.
 
-**Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na captura de tela acima.
+## Captura de Tela
 
-- **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
-  ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
-  campos serão pesquisados.Para "Pesquisar por ID" digite "id:x", onde
-  "x" é o número de ID (por exemplo, "id:19").
-- **Opções de filtros**: Clique para exibir os filtros adicionais.
-- **Limpar**: Clique para limpar o campo "Filtros" e restaurar a lista
-  ao seu estado não filtrado.
-- **Ordenação**: Mostra o campo de ordenação da lista atual. 2 maneiras
-  de alterar a ordem:
-  - Selecionar na lista suspensa. A ordenação pode ser em ordem
-    crescente ou decrescente.
-  - Clicar em um título de coluna. O cabeçalho de coluna alterna entre
-    ordem crescente e decrescente.
-- **Número a ser exibido**: Mostra o número de itens dos menus em uma
-  lista. Selecione na lista suspensa para alterar o número exibido.O
-  padrão para um site é '20', mas isso pode ser alterado nas
+![Lista de associações multilíngues](../../../ptbr/images/multilingual-associations/multilingual-associations-list.png)
 
+Nesta captura de tela, um artigo foi associado a um artigo em outro idioma. A lista contém apenas itens onde o idioma foi configurado. Qualquer artigo com o idioma configurado para *Todos* não estará presente.
 
-### Opções do filtro
+## Artigos de Referência
 
-Perto do topo da página você verá a barra do filtro mostrada na [captura
-da tela](#screenshot) acima.
+Os itens na coluna **Título** são os itens de referência para o idioma selecionado. Se você visualizar a lista com um idioma alternativo selecionado, verá os mesmos itens porque todos os itens associados estão disponíveis em ambos os idiomas.
 
-- **Selecionar estado**: Selecione entre "lixeira / despublicado /
-  publicado / arquivado / todos".
-- **Selecionar categoria**: Selecione na lista contendo as categorias
-  disponíveis.
-- **Selecionar menu**: Selecione na lista contendo os menus disponíveis.
-- **Selecionar acesso**: Selecione na lista contendo os níveis dos
-  acessos para visualizações disponíveis.
-- **Selecionar o máximo de níveis**: Selecione a partir da lista
-  contendo os níveis disponíveis.
+Se você visualizar a lista com outro idioma de administrador selecionado no formulário de login, provavelmente verá itens diferentes.
 
-### Paginação
+Se você selecionar um item da coluna **Título**, o item de referência aparecerá no formulário de edição, mas nenhum alvo será selecionado. Isso é útil se você desejar editar o item de referência no idioma selecionado. Também é necessário se você desejar criar um novo item associado.
 
-**Controles da página**: Quando o número de itens dos menus for mais que
-uma página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na captura de tela acima. O
-número da página atual que está sendo visualizada tem um fundo de cor
-escura.
+## Associações
 
-- **Início**: Clique para ir para a primeira página.
-- **Anterior**: Clique para ir para a página anterior.
-- **Números das páginas**: Clique para ir para a página desejada.
-- **Próxima**: Clique para ir para a próxima página.
-- **Fim**: Clique para ir para a última página.
+Se você deseja editar uma associação existente no modo lado a lado, selecione um
+dos botões na coluna **Associações**. Isso carregará os itens *Referência* e
+*Alvo* lado a lado.
 
-## Barra das ferramentas
+## Não Associado
 
-Antes de selecionar o tipo do item e a linguagem, a barra das
-ferramentas na parte superior possui 4 botões. Os 2 primeiros
-desaparecem após a seleção. <a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Associations-toolbar-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Components-Associations-toolbar-subscreen-pt-br.png">800px</a>
+Selecione um botão na coluna *Não Associado* para criar um novo artigo associado ao artigo de referência. Isso carregará um formulário de edição com o item de referência ao lado de um novo item associado vazio. O idioma é pré-preenchido e não pode ser alterado.
 
-- **Excluir todas as associações**: Permite excluir todas as
-  associações. Após uma pergunta para confirmar, todas as associações
-  serão excluídas.
-- **Excluir órfãos**: Permite excluir todos os órfãos.
-- **Opções**: Abre a tela da ajuda
-- **Ajuda**: Abre esta tela de ajuda.
+## Dicas
 
-## Dicas rápidas
+- Um item de menu em inglês pode ser mais facilmente traduzido para o francês com
+  o original e a tradução lado a lado. E depois, selecione persa para
+  traduzir do inglês para o persa também.
 
-- Um item dos menus em inglês pode ser traduzido mais facilmente para o
-  francês com o original e a tradução lado a lado. E, em seguida, é
-  possível selecionar ,por exemplo, persa para traduzir do inglês para o
-  persa também. Aprender
-  mais.
-- Esta tela usa itens dos menus como exemplo. Você verá todos os tipos
-  de itens mostrados na captura da tela acima.
+*Traduzido por openai.com*
+

@@ -1,74 +1,44 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit / Display title: Notas de usuários: Nova ou Editar -->
+<!-- Filename: Help4.x:User_Notes:_New_or_Edit  / Display title: Notas do Usuário: Novo ou Editar -->
 
 ## Descrição
 
-As notas de usuários são informações que podem ser atribuídas a usuários
-registrados em seu Joomla! local. Por exemplo, as notas do usuário podem
-conter comentários sobre usuários "ofensivos" ou "difíceis" e etc.
+As notas de usuário são pedaços de informação que podem ser atribuídos a usuários registrados em um site Joomla!. Por exemplo, as notas de usuário podem conter comentários sobre usuários 'ofensivos' ou 'difíceis'.
 
-Nesta tela você pode criar uma nova nota de usuário ou editar uma nota
-de usuário existente. O "editor" será o "editor" escolhido para o
-usuário editando a nota. Exemplos: O TinyMCE, o JCE ou o Codemirror
+A página *Notas de Usuário: Nova ou Editar* é usada para criar uma nova nota de usuário ou editar uma nota existente. 
+
+### Elementos Comuns
+
+Alguns elementos desta página são abordados em artigos de ajuda separados:
+
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
 
 ## Como acessar
 
-- Selecione **Usuários → Notas de usuários** no menu da
-  administração. Então...
-  - Selecione **Nova** na barra de ferramentas para criar uma nova nota.
-    Ou...
-  - Selecione um link da coluna **Assuntos** para editar uma nota
-    existente.
-- Ou selecione **Usuários → Gerenciar** no menu da administração.
-  Então...
-  - Pesquise um usuário por nome de usuário ou email. Então...
-  - Selecione **Adicionar uma nota** para criar uma nova nota ou...
-  - Selecione **Mostrar lista de notas** na lista suspensa, mostrada
-    apenas se existem notas para o usuário em questão, ou ...
-  - Selecione **Exibir nota(s)** na lista suspensa para mostrar a(s)
-    nota(s) em uma janela pop-up.
+- Selecione **Usuários → Notas do Usuário** no menu do Administrador. Em seguida...
+  - Selecione **Novo** na Barra de Ferramentas para criar uma nova nota. Ou...
+  - Selecione um link na coluna **Assuntos** para editar uma nota existente.
+- Ou selecione **Usuários → Gerenciar** no menu do Administrador. Em seguida...
+  - Pesquise um usuário por Nome de Usuário ou Email. Em seguida...
+  - Selecione **Adicionar uma Nota** para criar uma nova nota. Ou...
+  - Selecione **Mostrar Lista de Notas** no menu suspenso, exibido apenas se
+    existirem notas para este usuário. Ou...
+  - Selecione **Exibir Nota** no menu suspenso para mostrar notas em uma
+    janela popup.
 
-## Captura de tela
+## Captura de Tela
 
-<img
-src="https://docs.joomla.org/images/1/19/Help-4x-users-notes-en.png"
-decoding="async" data-file-width="800" data-file-height="972"
-width="800" height="972" alt="users notes" />
+![usuários usuário notas novo ou editar](../../../ptbr/images/users/users-user-notes-new-or-edit.png)
 
-## Detalhes
+## Campos de Formulário
 
-- **Assunto:** A linha de assunto da nota.
-- **Usuário**: O usuário da nota. Você pode selecionar um usuário
-  existente
-- **Categoria:** (*Sem categorização*). A categoria à qual este item
-  está atribuído.
-- **Estado**: (*Publicado*/*Não publicado*/*Arquivado*/*Lixeira*).
-  Define o estado da publicação.
-- **Data de revisão**: A data da revisão é uma data inserida manualmente
-  que você pode usar conforme seu fluxo de trabalho. Exemplos seriam
-  colocar uma data em que você deseja revisar um usuário ou a última
-  data em que você revisou o usuário.
-- **Versão da nota**: Insira uma nota opcional para esta versão do item.
-- **Nota**: Campo para inserir a nota.
+- **Assunto** A linha de assunto para a nota.
+- **Usuário** Selecione um usuário existente para esta nota. Um usuário pode ter várias notas.
+- **Categoria** A categoria à qual este item está atribuído.
+- **Status** Defina o status de publicação.
+- **Data de Revisão** A data de revisão é uma data inserida manualmente que você pode usar conforme apropriado para seu fluxo de trabalho. Exemplos seriam inserir uma data em que você
+  deseja revisar um usuário ou a última data em que você revisou o usuário.
+- **Nota da Versão** Insira uma nota opcional para esta versão do item.
+- **Nota** Insira a nota.
 
-## Barra de ferramentas
+*Traduzido por openai.com*
 
-No topo da página você verá a barra de ferramentas mostrada na [captura
-de tela](#Captura_de_tela) acima. As funções são:
-
-- **Salvar**: Salva a nota do usuário e permanece na tela atual.
-- **Salvar e fechar**: Salva a nota do usuário e fecha a tela atual.
-- **Salvar & nova**: Salva a nota de usuário e mantém a tela de edição
-  aberta e pronta para criar outra nota de usuário.
-- **Salvar como cópia**: Salva suas alterações em uma cópia da nota de
-  usuário atual. Não afeta a nota de usuário atual. Este ícone da barra
-  de ferramentas não é exibido se você estiver criando uma nova nota de
-  usuário.
-- **Versões**: Abre a janela do histórico de versões do item para
-  mostrar as versões anteriores deste item. Isso permite que você
-  visualize versões mais antigas deste item e, se desejar, restaure a
-  partir de uma versão mais antiga. Consulte Histórico de
-  versões
-  para mais informações.
-- **Fechar**: Fecha a tela atual e retorna à tela anterior sem salvar
-  nenhuma modificação que você possa ter feito.
-- **Ajuda'** Abre a tela de ajuda.

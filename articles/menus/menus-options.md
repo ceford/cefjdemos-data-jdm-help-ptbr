@@ -1,89 +1,39 @@
-<!-- Filename: Help4.x:Menus:_Options / Display title:   Menus: Opções -->
+<!-- Filename: Help4.x:Menus:_Options  / Display title: Menus: Opções -->
 
 ## Descrição
 
-As opções dos menus permitem a configuração dos parâmetros usados
-globalmente em todos os menus, como título, classe CSS e permissões.
+A página *Menus: Opções* é usada para definir parâmetros usados globalmente em todos os menus, a menos que estejam disponíveis em um item de menu ou componente. O Título pode aparecer na aba do navegador, por isso deve ser curto.
 
-## Como acessar
+### Elementos Comuns
 
-- Selecione **Menus → Gerenciar** no menu administrativo. Então...
-  - Selecione o botão **Opções** na barra das ferramentas.
+Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
-## Captura da tela
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
+* [A Aba de Permissões](jdocmanual?article=help/common-elements/edit-permissions).
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Menu-Manager-Options-screen-pt-br.png"
-class="new"
-title="File:Help-4x-Menus-Menu-Manager-Options-screen-pt-br.png">800px</a>
+## Como Acessar
 
-## Campos do formulário
+- Selecione **Menus → Gerenciar** no menu do Administrador. Em seguida...
+  - Selecione o botão **Opções** na Barra de Ferramentas.
 
-### Guia (aba) "Exibição da página"
+## Captura de Tela
 
-- **Título da página no navegador:** Texto opcional para o elemento
-  "Título da página no navegador". Se estiver em branco, o título do
-  item dos menus é usado.
-- **Mostrar o cabeçalho da página:** Mostrar ou não o título da página
-  no navegador no cabeçalho da página. O cabeçalho da página normalmente
-  é mostrado dentro de um elemento HTML h1.
-- **Cabeçalho da página:** Texto alternativo opcional para o cabeçalho
-  da página.
-- **Classe da página:** Classe CSS opcional para adicionar aos elementos
-  desta página. Isso permite um estilo CSS específico para esta página.
+![Opções de Menus](../../../ptbr/images/menus/menu-options-page-display-tab.png)
 
-### Guia (aba) "Permissões"
+## Campos do Formulário
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menu-Options-screen-permissions-tab-pt-br.png"
-class="new"
-title="File:Help-4x-Menu-Options-screen-permissions-tab-pt-br.png">600px</a>
+### Aba de Exibição da Página
 
-Para alterar as permissões para esta extensão, faça o seguinte.
+- **Título da Página no Navegador** Texto opcional para o elemento `<title>` da página.
+  O Título do Item do Menu é usado, se disponível. Caso contrário, o título do Artigo
+  é utilizado, e o mesmo campo na aba Opções do Artigo está vazio.
+- **Mostrar Cabeçalho da Página** Indica se o Título da Página no Navegador deve ou não ser
+  exibido no cabeçalho da página. O cabeçalho da página é normalmente exibido
+  dentro de um elemento HTML h1.
+- **Cabeçalho da Página** Texto alternativo opcional para o Cabeçalho da Página, exibido
+  se *Mostrar Cabeçalho da Página* estiver configurado como *Mostrar*.
+- **Classe da Página** Classe CSS opcional a ser adicionada aos elementos desta página.
+  Isso permite um estilo CSS específico para esta página.
 
-- Selecione o **Grupo** acionando o (clicando em) seu título localizado
-  à esquerda.
-- Encontre a **ação** desejada. As ações possíveis são:
-  - **Configurar ACL e opções**. Os usuários podem editar as opções e
-    permissões desta extensão.
-  - **Configurar apenas as opções**. Os usuários podem editar as opções,
-    exceto as permissões desta extensão.
-  - **Acessar a interface da administração**. Os usuários podem acessar
-    a interface da administração para usuário desta extensão.
-  - **Criar:** Os usuários podem criar conteúdo desta extensão.
-  - **Excluir:** Os usuários podem excluir o conteúdo desta extensão.
-  - **Editar:** Os usuários podem editar o conteúdo desta extensão.
-  - **Editar estado:** O usuário pode alterar o estado da publicação e
-    as informações relacionadas ao conteúdo desta extensão.
-  - **Editar próprio:** Os usuários podem editar o próprio conteúdo
-    criado desta extensão.
+*Traduzido por openai.com*
 
-- Selecione a permissão desejada para a ação que deseja alterar. As
-  configurações possíveis são:
-  - ***Herdado***: Herdado para os usuários neste grupo das permissões
-    nas configurações globais desta extensão.
-  - ***Permitido***: Permitido para os usuários deste grupo. Observe
-    que, se esta ação for negada em um dos níveis mais altos, a
-    permissão permitida aqui não terá efeito. Uma configuração negada
-    não pode ser substituída.
-  - ***Negado***: Negado para os usuários neste grupo.
-
-- Acione (clique em) **Salvar** na **barra das ferramentas** na parte
-  superior. Quando a tela for atualizada, a coluna "Configuração
-  calculada" mostrará a permissão efetiva para este grupo e ação.
-
-## Barra das ferramentas
-
-No topo da página você verá a barra de ferramentas mostrada na [captura
-de tela](#Captura_de_tela) acima. As funções são:
-
-- **Salvar**: Salva o item e permanece na tela atual.
-- **Salvar fechar**: Salva o item e fecha a tela atual.
-- **Fechar**: Fecha a tela atual e retorna à tela anterior sem salvar
-  nenhuma modificação que tenha feito. Este ícone da barra de
-  ferramentas não é exibido se você estiver criando um novo item.
-- **Ajuda**: Abre a tela de ajuda.
-
-## Dicas rápidas
-
-- Lembre-se, essas opções são aplicadas globalmente.

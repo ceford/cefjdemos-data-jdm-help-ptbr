@@ -1,155 +1,91 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title:   Item dos menus: Criar artigo -->
+<!-- Filename: Help4.x:Menu_Item:_Create_Article  / Display title: Criar Artigo -->
 
 ## Descrição
 
-O item dos menus "Criar artigo" permite que os usuários enviem um artigo
-por meio da interface do site. Normalmente está disponível apenas para
-usuários que iniciaram uma sessão do site (front-end).
+O item de menu *Criar Artigo* permite que os usuários submetam um artigo via a interface do site. Normalmente, isso está disponível apenas para usuários que fizeram login no Frontend do site. Os usuários devem ter permissão para criar artigos.
 
-Os usuários precisam ter permissão para criar artigos. Quando a página
-"Criar artigo" é mostrada no site (front-end), a tela mostra como os
-exemplos na seção [Captura da tela (no front-end)](#frontend) abaixo.
+### Elementos Comuns
 
-## Como acessar
-Selecione **Menus → \[nome do menu\]**
+Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
-Para adicionar um item dos menus:
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
+* [A Aba de Detalhes](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [A Aba do Tipo de Link](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [A Aba de Exibição da Página](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [A Aba de Metadados](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [A Aba de Associações](jdocmanual?article=help/common-elements/edit-associations).
+* [A Aba de Atribuição de Módulos](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-1.  acione o (clique no botão) **Novo** na barra das ferramentas.
-2.  acione o (clique no) botão **Selecionar** relacionado ao tipo do
-    item dos menus.
-3.  selecione o item **Artigos**.
-4.  selecione o item **Criar artigo**.
+## Como Acessar
 
-Para editar um item dos menus:
+Selecione **Menus → \[nome do menu\]** no menu do Administrador.
 
-- selecione um **Título** a partir da lista
+Para adicionar um Item de Menu:
 
-## Captura da tela
+1.  Selecione o botão **Novo** na Barra de Ferramentas.
+2.  Selecione o botão **Selecionar** no campo *Tipo de Item de Menu*.
+3.  Selecione o item **Artigos** no diálogo pop-up.
+4.  Selecione o item **Criar Artigo**.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-screen-pt-br.png"
-class="new"
-title="File:Help-4x-Menus-Item-Articles-Create-Article-screen-pt-br.png">800px</a>
+Para editar um Item de Menu:
 
-## Campos do formulário
+- Selecione um **Título** na lista
 
-- **Título**. O título que será mostrado para esse item dos menus.
-- **Alias**. O nome interno do item dos menus. Normalmente, você pode
-  deixar isso em branco e o Joomla! preencherá com um valor padrão, em
-  letras minúsculas e com hífens em vez de espaços, fundamentado no
-  título.
+## Captura de Tela
+
+![Item do Menu Artigos Criar Aba de Detalhes do Artigo](../../../ptbr/images/menu-items/articles-create-article-details-tab.png)
+
+Sure, here's the translation to Portuguese (Brazil):
+
+## Campos do Formulário
+
+- **Título** O título que será exibido para este item de menu.
+- **Alias** O nome interno do item de menu. Normalmente, você pode deixar
+  este campo em branco e o Joomla preencherá com um valor padrão usando o Título em letras minúsculas
+  e com traços em vez de espaços.
 
 ### Detalhes
 
-#### Painel esquerdo
+#### Painel Esquerdo
 
-- **Tipo do item dos menus**. O tipo do item dos menus selecionado
-  quando esse item dos menus foi criado. Pode ser um dos tipos de item
-  dos menus principais ou um tipo de item dos menus fornecido por uma
-  extensão instalada.
-- **Link**. O link gerado pelo sistema para este item dos menus. Este
-  campo não pode ser alterado e é apenas informativo.
-- **Janela destino**. Seleciona a partir da lista suspensa.
-- **Estilo do tema**. Seleciona a partir da lista suspensa.
+- **Tipo de Item de Menu** O tipo de item de menu selecionado quando este item de menu
+  foi criado. Este pode ser um dos tipos de item de menu padrão ou um tipo de item de menu
+  fornecido por uma extensão instalada.
+- **Link** O link gerado pelo sistema para este item de menu. Este campo
+  não pode ser alterado e é somente para informação.
+- **Janela de Destino** Selecione na lista suspensa.
+- **Estilo do Template** Selecione na lista suspensa.
 
-#### Painel direito
+#### Painel Direito
 
-- **Menu**. Mostra em qual menu o link aparecerá.
+- **Menu** Exibe em qual menu o link aparecerá.
 
 ### Opções
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-pt-br.png">600px</a>
+![Aba de detalhes de Criar Artigo de Itens de Menu](../../../ptbr/images/menu-items/articles-create-article-options-tab.png)
 
-- **Categoria específica**.
-  - Sim: Os artigos serão atribuídos à categoria especificada. O usuário
+- **Categoria Específica**
+  - *Sim* Os artigos serão atribuídos à categoria especificada. O usuário
     não poderá selecionar uma categoria.
-  - Não: O usuário pode selecionar a categoria a partir da caixa de
-    listagem. Somente as categorias para as quais o usuário tem a
-    permissão "Criar'"serão mostradas.
-- **Redirecionamento de envio ou cancelamento**. Seleciona a página para
-  a qual o usuário será redirecionado após o envio bem-sucedido do
-  artigo.
-- **Redirecionamento personalizado ao cancelar**.
-  - Sim: Define uma página para redirecionamento quando o usuário
-    cancelar o envio do artigo.
-  - Não: Quando o usuário cancela o envio do artigo, o usuário é
-    redirecionado para a página de "Redirecionamento de envio ou
-    cancelamento".
+  - *Não* O usuário poderá selecionar a categoria na caixa de seleção. Somente
+    categorias para as quais o usuário tem permissão de *Criar* serão exibidas.
+- **Redirecionamento de Submissão/Cancelar** Selecione a página para a qual o usuário será
+  redirecionado após a submissão bem-sucedida do artigo.
+- **Redirecionamento Personalizado ao Cancelar**
+  - *Sim* Configure uma página para redirecionar quando o usuário cancelar a submissão do artigo.
+  - *Não* Quando o usuário cancelar a submissão do artigo, ele será redirecionado para
+    a página de *Redirecionamento de Submissão/Cancelar*.
 
-### Opções comuns
+## Captura de Tela do Frontend de Exemplo
 
-Consulte Menus: Novo
-item
-para obter ajuda sobre os campos comuns a todos os tipos de itens dos
-menus, incluindo:
+Esta captura de tela mostra o Template Frontend padrão do Joomla, **Cassiopeia**, com todas
+as opções de Edição de Layout configuradas para 'Esconder'.
 
-- Painel
-  direito
-- Tipo do
-  link
-- Exibição da
-  página
-- Metadados
-- Associações
-- Atribuição do
-  módulo
+[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
-## Barra das ferramentas
+## Dicas
 
-No topo da página você verá a barra das ferramentas mostrada na [captura
-da tela](#screenshot) acima.
+Um usuário não autorizado normalmente receberá um erro ao selecionar um item de menu *Criar Artigo*. Por essa razão, é prática comum definir um Nível de Acesso de visualização para o item de menu que só pode ser visto por usuários autorizados a adicionar artigos.
 
-- **Salvar**. Salva o item dos menus e permanece na tela atual.
-- **Salvar e fechar**. Salva o item dos menus e fecha a tela atual.
-  - **Salvar e novo**. Salva o item dos menus e mantém a tela para
-    edição aberta e pronta para criar outro item dos menus.
-- **Cancelar**. Fecha a tela atual e retorna à tela anterior sem salvar
-  nenhuma modificação que você possa ter feito.
-- **Ajuda**. Abre esta tela de ajuda.
+*Traduzido por openai.com*
 
-## Capturas de tela (do front-end)
-
-As capturas de tela mostram o tema (de front-end) **Cassiopeia**
-principal do Joomla!, com todas as opções da disposição de
-edição
-definidas como "Ocultar".
-
-#### Conteúdo
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-content-pt-br.png"
-class="new"
-title="File:Help-4x-Menus-Item-Articles-Create-Article-frontend-content-pt-br.png">600px</a>
-
-#### Campos
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-pt-br.png"
-class="new"
-title="File:Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-pt-br.png">600px</a>
-
-#### Publicação
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-pt-br.png"
-class="new"
-title="File:Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-pt-br.png">600px</a>
-
-#### Linguagem
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-language-pt-br.png"
-class="new"
-title="File:Help-4x-Menus-Item-Articles-Create-Article-frontend-language-pt-br.png">600px</a>
-
-## Dicas rápidas
-
-Um usuário não autorizado normalmente receberá um erro se acionar
-(clicar em) um item dos menus "Criar artigo". Por esta razão, é prática
-normal dar ao item dos menus em questão um nível de acesso para
-visualização
-que só pode ser visto por usuários autorizados a adicionar artigos.

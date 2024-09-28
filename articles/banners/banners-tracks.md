@@ -1,116 +1,51 @@
-<!-- Filename: Help4.x:Banners:_Tracks / Display title:   Banners: Monitoramentos -->
+<!-- Filename: Help4.x:Banners:_Tracks  / Display title: Banners: Faixas -->
 
 ## Descrição
 
-Usado para visualizar uma lista contendo as informações dos
-rastreamentos para banners existentes.
+Usado para visualizar uma lista de informações de Rastreamento de Banner existentes.
 
-## Como acessar
+### Elementos Comuns
 
-- Selecione **Componentes → Banners → Monitoramentos**
+Alguns elementos desta página são abordados em artigos de ajuda separados:
 
-## Captura da tela
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
+* [Filtros de Lista](jdocmanual?article=help/common-elements/list-filters).
+* [Cabeçalhos de Colunas da Lista](jdocmanual?article=help/common-elements/list-column-headers).
+* [Paginação da Lista](jdocmanual?article=help/common-elements/list-pagination).
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Banners-Tracks-screen-pt-br.png"
-class="new"
-title="File:Help-4x-Components-Banners-Tracks-screen-pt-br.png">800px</a>
+## Como Acessar
 
-## Cabeçalhos das colunas
+- Selecione **Componentes → Banners → Faixas** no menu do Administrador.
 
-Acione o (clique no) cabeçalho de uma coluna para classificar a lista
-pelo valor dessa coluna.
+## Captura de Tela
 
-- **Nome**: O nome e a categoria do banner.
-- **Cliente**: O cliente para este banner. Os clientes são inseridos
-  usando o gerenciador dos clientes para banners.
-- **Tipo**: O tipo do monitoramento. Trata-se de uma impressão
-  (visualização) ou um acesso (clique).
-- **Contagem**: A quantidade de impressões (visualizações) ou acessos
-  (cliques).
-- **Data**: Data e hora da impressão (visualização) ou acesso (clique).
+![Lista de faixas de banners](../../../ptbr/images/banners/banners-tracks-list.png)
 
-## Filtros da lista
+## Cabeçalhos de Coluna
 
-Perto do topo da página, você verá a barra de filtros mostrada na
-captura de tela acima. As funções são:
+As seguintes colunas são específicas para Banners: Pistas.
 
-**Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na captura de tela acima.
+- **Nome** O nome e a categoria do banner.
+- **Cliente** O Cliente deste Banner. Clientes são inseridos a partir da
+  lista Banners: Clientes.
+- **Tipo** O tipo da pista, Impressão ou Clique.
+- **Contagem** O número de impressões ou cliques.
+- **Data** Data e hora da impressão ou clique.
 
-- **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
-  ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
-  campos serão pesquisados.Para "Pesquisar por ID" digite "id:x", onde
-  "x" é o número de ID (por exemplo, "id:19").
-- **Opções de filtros**: Clique para exibir os filtros adicionais.
-- **Limpar**: Clique para limpar o campo "Filtros" e restaurar a lista
-  ao seu estado não filtrado.
-- **Ordenação**: Mostra o campo de ordenação da lista atual. 2 maneiras
-  de alterar a ordem:
-  - Selecionar na lista suspensa. A ordenação pode ser em ordem
-    crescente ou decrescente.
-  - Clicar em um título de coluna. O cabeçalho de coluna alterna entre
-    ordem crescente e decrescente.
-- **Número a ser exibido**: Mostra o número de itens em uma lista.
-  Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas
-- **Selecionar categoria**: Selecione a partir da lista das categorias
-  disponíveis.
-- **Selecionar cliente**: Selecione a partir da lista dos clientes
-  disponíveis.
+## Barra de Ferramentas
 
+Os seguintes botões são específicos para Banners: Faixas.
 
-**Filtrar por tipo**: Permite mostrar apenas os itens atribuídos a um
-tipo específico. A caixa de listagem mostrará os tipos definidos.
+- **Exportar** Abre uma janela onde você poderá exportar as Faixas de Banner. 
+  O formulário permite a composição de um nome de arquivo a partir de variáveis, por exemplo,
+  __SITE__-algum-texto cria um nome de arquivo sugerido consistindo no nome do Site 
+  seguido por qualquer texto inserido (JCMS6-algum-texto.zip).
+- **Excluir Faixas** Excluirá as Faixas de Banner selecionadas.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help30-colheader-select-track-type-pt-br.png"
-class="new"
-title="File:Help30-colheader-select-track-type-pt-br.png">File:Help30-colheader-select-track-type-pt-br.png</a>
+## Dicas
 
-- ***- Selecionar o tipo -***: Mostra os itens atribuídos a qualquer
-  tipo.
-- **: Mostra os itens atribuídos apenas a este tipo.
-- **Selecionar os níveis máximos**: Seleciona a partir da lista de
-  níveis disponíveis.
+- Você deve adicionar pelo menos um Cliente de Banner e uma Categoria de Banner *antes*
+  de poder adicionar um Banner.
 
-#### Data do início e do término.
+*Traduzido por openai.com*
 
-- **Data do início**: A data do início dos monitoramentos que serão
-  listados.
-- **Data do término**: A data do término dos monitoramentos que serão
-  listados.
-
-**Controles da página**: Quando o número de itens for mais que uma
-página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na captura de tela acima. O
-número da página atual que está sendo visualizada tem um fundo de cor
-escura.
-
-- **Início**: Clique para ir para a primeira página.
-- **Anterior**: Clique para ir para a página anterior.
-- **Números das páginas**: Clique para ir para a página desejada.
-- **Próxima**: Clique para ir para a próxima página.
-- **Fim**: Clique para ir para a última página.
-
-## Barra das ferramentas
-
-No topo da página você verá a barra de ferramentas mostrada na [captura
-de tela](#Captura_de_tela) acima. As funções são:
-
-- **Exportar**: Abre uma janela onde você poderá exportar os
-  monitoramentos dos banners.
-- **Excluir monitoramentos**: Irá excluir os monitoramentos dos banners
-  selecionados.
-- **Opções**: Abre a janela de opções onde configurações, como os
-  parâmetros padrões, podem ser editadas.
-- **Ajuda**: Abre a tela de ajuda.
-
-Consulte as opções do gerenciador dos
-artigos
-para obter mais informações.
-
-## Dicas rápidas
-
-- Você precisa adicionar pelo menos um cliente dos banners e uma
-  categoria para banners *antes* de adicionar um banner.

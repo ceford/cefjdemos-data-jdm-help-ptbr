@@ -1,150 +1,66 @@
-<!-- Filename: Help4.x:Users / Display title: Usuários -->
+<!-- Filename: Help4.x:Users  / Display title: Usuários -->
 
 ## Descrição
 
-The Users list is used to find, add, and edit users.
+A página de *Usuários* lista os usuários atualmente registrados.
+
+### Elementos Comuns
+
+Alguns elementos desta página são abordados em artigos de Ajuda separados:
+
+* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
+* [Filtros de Lista](jdocmanual?article=help/common-elements/list-filters).
+* [Cabeçalhos de Colunas da Lista](jdocmanual?article=help/common-elements/list-column-headers).
+* [Ordenação de Itens da Lista](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginação da Lista](jdocmanual?article=help/common-elements/list-pagination).
+* [Processo em Lote da Lista](jdocmanual?article=help/common-elements/list-batch-process).
 
 ## Como acessar
-Selecione **Painel Principal → Site → Usuários**
 
-To add a User:
+* Selecione **Site → Usuários** no *Painel Inicial*. Ou...
+* Selecione **Usuários → Gerenciar** no menu do Administrador.
 
-- click the **New** toolbar button
+Para adicionar um Usuário:
 
-To edit a User:
+- Selecione o botão de ferramentas **Novo**
 
-- select a **Name** from the list
+Para editar um Usuário:
 
-## Screenshot
+- Selecione um **Nome** da lista
 
-<img
-src="https://docs.joomla.org/images/thumb/0/06/Help-4x-Users-screen-en.png/800px-Help-4x-Users-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/06/Help-4x-Users-screen-en.png/1200px-Help-4x-Users-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/0/06/Help-4x-Users-screen-en.png/1600px-Help-4x-Users-screen-en.png 2x"
-data-file-width="2556" data-file-height="1500" width="800" height="469"
-alt="Users screen" />
+## Captura de Tela
 
-## Column Headers
+![lista de usuários](../../../ptbr/images/users/users-list.png)
 
-- **Checkbox**. Check this box to select users. To select all users,
-  check the box in the column heading. After boxes are checked the
-  toolbar button 'Actions' get active.
-- **Name**. The full name of the user.
-  - **Add a Note**. Create a Note for the user.
-    - Show notes listUser Notes for the user as a list.
-    - **Display note**. Show the User Notes for the user in a window and
-      stays in the current screen.
-- **Username**. The name the user will log in as.
-- **Enabled**. Whether or not the user is enabled.
-- ActivatedUsers: Options.
-- **User Groups**. The list of groups that the user belongs to. Note
-  that a user may belong to more than one group.
-- **Email**. The email address from the user is displayed here.
-- **Last visit**. Here you can see the date on which the user last
-  logged in.
-- **Registered**. The date the user was registered.
-- **ID**. A unique identification number for this user, you cannot
-  change this number.
+## Cabeçalhos das Colunas
 
-## List Filters
+- **Checkbox** Marque esta caixa para selecionar usuários. Para selecionar todos os usuários,
+  marque a caixa no cabeçalho da coluna. Após marcar as caixas,
+  o botão da barra de ferramentas 'Ações' será ativado.
+- **Nome** O nome completo do usuário.
+  - **Adicionar uma Nota** Crie uma Nota para o usuário.
+    - **Mostrar lista de notas** Exibir as Notas do Usuário como uma lista.
+    - **Exibir nota** Mostrar as Notas do Usuário em uma janela e
+      permanecer na página atual.
+- **Nome de usuário** O nome que o usuário usará para fazer login.
+- **Habilitado** Indica se o usuário está habilitado ou não.
+- **Ativado** Indica se o usuário está ativado ou não. Normalmente, quando um
+  usuário se registra pelo Frontend, algum tipo de ativação é necessária.
+  Isso é controlado pelo parâmetro 'Ativação de Conta de Novo Usuário' nas
+  Opções de Usuários.
+- **Grupos de Usuários** A lista de grupos aos quais o usuário pertence. Note
+  que um usuário pode pertencer a mais de um grupo.
+- **E-mail** O endereço de e-mail do usuário é exibido aqui.
+- **Última visita** Aqui você pode ver a data da última vez que o usuário
+  fez login.
+- **Registrado** A data em que o usuário foi registrado.
+- **ID** Um número de identificação único para este usuário, você não pode
+  alterar esse número.
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
+## Dicas
 
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Filter Options**. Click to display the additional filters.
-- **Clear**. Click to clear the Filter field and restore the list to its
-  unfiltered state.
-- **Ordering**. Shows the current list ordering field. 2 ways to change
-  the order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- Number to DisplayGlobal Configuration.
+- Selecione o nome de um usuário para abrir o formulário *Usuários: Editar* para esse usuário.
+- Selecione o ícone na coluna Ativado para alternar entre o status Ativado e Desativado.
 
-### Filter Options
+*Traduzido por openai.com*
 
-Near the top of the page you will see the filter bar shown in the
-Screenshot above.
-
-- **Select State**. Select from Enabled / Disabled.
-- **Select Active State**. Select from Activated / Unactivated.
-- **Select Group**. Select from the list box to list only users who are
-  members of that group.
-- **Select Last Vist Date**. Select from a list to show only users who
-  visited in a selected time frame.
-- **Select Registration Date**. Select from a list to show only users
-  who registered in a selected time frame.
-
-### Pagination
-
-**Page Controls**. When the number of articles is more than one page,
-you will see a page control bar near the bottom of the page shown in the
-Screenshot above. The current page number being viewed
-has a dark colour background.
-
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Page numbers**. Click to go to the desired page.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **New**. Opens the editing screen to create a new user.
-- **Actions**. Reveals a list of actions for selected users. Check one
-  or more users checkboxes to activate the list.
-  - **Activate**. Activates multiple users. Select all the users
-    required using their checkboxes then click this button. An email
-    will be sent to the user notifying that their account has been
-    activated
-  - **Block**. Blocks one or more users. Select the users to be blocked
-    using their checkboxes then click this button.
-  - **Unblock**. Unblocks one or more users. Select the users to be
-    unblocked using their checkboxes then click this button.
-  - **Batch**. Batch processes the selected users.
-  - **Delete**. Deletes the selected users.
-- OptionsUsers: Options.
-- **Help**. Opens this help screen.
-
-## Batch Process
-
-The Batch Process allows a change in settings for a group of selected
-users.
-
-<img
-src="https://docs.joomla.org/images/thumb/2/21/Help-4x-Users-batch-subscreen-en.png/600px-Help-4x-Users-batch-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/21/Help-4x-Users-batch-subscreen-en.png/900px-Help-4x-Users-batch-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/2/21/Help-4x-Users-batch-subscreen-en.png/1200px-Help-4x-Users-batch-subscreen-en.png 2x"
-data-file-width="1598" data-file-height="717" width="600" height="269"
-alt="Users batch subscreen" />
-
-**How to Batch Process** a group of users:
-
-1.  Select one or more users on the list by checking the desired
-    checkboxes.
-2.  Click the Batch Toolbar button.
-3.  Set one or more of the following values:
-    - To change the **User Group**, select the desired new user group
-      from the Select Group list box.
-    - Choose to do the desired action.
-      - Add To Group
-      - Delete From Group
-      - Move To Group
-    - Decide if a **Password Reset** is wanted.
-4.  When all of the settings are entered, click on Process to perform
-    the changes. A message **"Batch process completed successfully."**
-    will show.
-
-## Tips
-
-- Click on the name of a user to edit the user's properties.
-- Click on the icon in the Enabled column to toggle between Enabled and
-  Disabled status.

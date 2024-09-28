@@ -1,76 +1,29 @@
-<!-- Filename: Help4.x:Users:_New_or_Edit_Group / Display title: Usuários: Novo/editar grupo -->
+<!-- Filename: Help4.x:Users:_New_or_Edit_Group  / Display title: Usuários: Novo ou Editar Grupo -->
 
 ## Descrição
 
-O Joomla! é instalado com um conjunto de grupos de usuários adequado
-para o gerenciamento de sites padrões. Os grupos padrões não devem ser
-editados! Novos grupos podem ser criados para fins especiais. Por
-exemplo, você pode desejar criar um grupo com acesso permitido a apenas
-um componente.
+O Joomla! é instalado com um conjunto de Grupos de Usuários adequado para a gestão de sites padrão. Os grupos padrão não devem ser editados! Novos grupos podem ser criados para propósitos especiais. Por exemplo, pode ser que você queira criar um grupo que tenha acesso permitido apenas a um componente específico.
+
+A página *Usuários: Novo ou Editar Grupo* é utilizada para criar um novo Grupo de Usuários ou editar um grupo existente.
 
 ## Como acessar
 
-- Selecione **Usuários → Grupos** no menu da administração. Então...
-  - Selecione o botão **Novo** na barra de ferramentas ou...
-  - Selecione um link da coluna **título do grupo** para editar um grupo
-    existente.
+- Selecione **Usuários → Grupos** no menu do Administrador. Então...
+  - Selecione o botão **Novo** na Barra de Ferramentas. Ou...
+  - Selecione um link na coluna **Título do Grupo** para editar um grupo existente.
 
-## Captura de tela
+## Captura de Tela
 
-<img
-src="https://docs.joomla.org/images/3/33/Help-4x-users-user-manager-add-new-user-group-en.png"
-decoding="async" data-file-width="600" data-file-height="281"
-width="800" height="375"
-alt="users user manager add new user group" />
+![detalhes da nova guia do grupo de usuários](../../../ptbr/images/users/users-new-group-details-tab.png)
 
-## Detalhes do grupo de usuários
+## Detalhes do Grupo de Usuários
 
-- **Título do grupo**: Insira um título para o grupo.
-- **Pai do grupo**:
-  (*Público*/*Convidado*/*Gerente*/*Administrador*/*Registrado*/*Autor*/*Editor*
-  /...). Escolha um pai para este grupo.
+- **Título do Grupo** Insira um Título para o Grupo.
+- **Grupo Pai** Escolha um Grupo Pai para este Grupo. O novo grupo herda as permissões do grupo pai.
 
-Os grupos de usuários controlam quais ações um usuário pode realizar no
-site. As ações incluem coisas como criar um novo artigo, alterar as
-opções de um componente ou iniciar uma sessão. O administrador do site
-atribui permissões para várias ações a cada grupo. As permissões para
-ações podem ser atribuídas em diferentes níveis na hierarquia de
-componentes (configurações globais, opções de componentes, categorias e
-artigos). Se um usuário não tiver permissão para uma determinada ação,
-ele não poderá realizar essa ação.
+## Dicas
 
-Os grupos de usuários também controlam quais objetos um usuário pode
-visualizar no site. Os objetos incluem categorias, artigos, módulos,
-itens de menu e outros. Ao criar um nível de acesso, um ou mais grupos
-de usuários são atribuídos a ele. Então, quando você cria um objeto
-(como um item de menu ou módulo), o objeto recebe um nível de acesso. Se
-um usuário for membro de um grupo atribuído a um nível de acesso, esse
-usuário poderá visualizar qualquer objeto atribuído a esse nível de
-acesso. Caso contrário, esse usuário não poderá visualizar esse objeto.
+- Se um novo grupo tiver permissões semelhantes a um grupo existente, você pode economizar trabalho fazendo o novo grupo ser um subgrupo do grupo existente. Dessa forma, você só precisará alterar as permissões que são diferentes para o novo grupo.
 
-Os grupos de usuários podem ser organizados em uma hierarquia. Nesse
-caso, todos os grupos filhos herdam as permissões de ações e os níveis
-de acessos de um grupo pai. Se usado com sabedoria, esse recurso pode
-economizar muito tempo relacionado à configuração de seu sistema de
-segurança, pois significa que você não precisa inserir informações
-duplicadas relacionadas às configurações.
+*Traduzido por openai.com*
 
-## Barra de ferramentas
-
-Na parte superior, você verá a barra de ferramentas mostrada na captura
-de tela acima. As funções são:
-
-- **Salvar**: Salva o item e permanece na tela atual.
-- **Salvar fechar**: Salva o item e fecha a tela atual.
-- **Salvar & novo**: Salva o item e mantém a tela de edição aberta e
-  pronta para criar outro item.
-- **Cancelar**: Fecha a tela atual e retorna à tela anterior sem salvar
-  nenhuma modificação que você tenha feito.
-- **Ajuda**: Abre a tela de ajuda.
-
-## Dicas rápidas
-
-- Se um novo grupo tiver permissões semelhantes a um grupo existente,
-  você poderá economizar trabalho tornando o novo grupo filho do grupo
-  existente. Dessa forma, você só precisa alterar as permissões que são
-  diferentes para o novo grupo.

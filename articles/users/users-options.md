@@ -1,269 +1,162 @@
-<!-- Filename: Help4.x:Users:_Options / Display title: Usuários: Opções -->
+<!-- Filename: Help4.x:Users:_Options  / Display title: Usuários: Opções -->
 
 ## Descrição
 
-As opções de usuário definidas globalmente para todos os usuários
-incluem
+A página *Usuários: Opções* é usada para definir opções globais para todos os usuários, incluindo:
 
-- captcha,
-- permissão e tipo de registro,
+- Captcha,
+- registro permitido e tipo de registro,
 - grupo de usuários padrão para novos usuários,
-- contador de redefinição de senha ou de nome de usuário,
-- aviso de registro de novo usuário à administração através de e-mail e
-  muito mais.
+- contador de redefinição de senha ou nome de usuário,
+- aviso por e-mail de novo registro de usuário para a administração e mais.
 
-## Como acessar
-Selecione **Usuários → Gerenciar**
+## Como Acessar
 
-- Selecione o botão **Opções** na barra de ferramentas.
+* Selecione **Site → Usuários** no *Painel Inicial*. Ou...
+* Selecione **Usuários → Gerenciar** no menu do Administrador. Então...
+* Selecione o botão da barra de ferramentas **Opções**
 
-## Captura de tela
+## Captura de Tela
 
-<img
-src="https://docs.joomla.org/images/thumb/6/6c/Help-4x-Users-Options-screen-pt-br.png/800px-Help-4x-Users-Options-screen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/6c/Help-4x-Users-Options-screen-pt-br.png/1200px-Help-4x-Users-Options-screen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/6/6c/Help-4x-Users-Options-screen-pt-br.png/1600px-Help-4x-Users-Options-screen-pt-br.png 2x"
-data-file-width="2400" data-file-height="1500" width="800" height="500"
-alt="Users Options screen pt" />
+![opções de usuários aba de opções de usuários](../../../ptbr/images/users/users-options-user-options-tab.png)
 
-## Campos do formulário
+## Campos de Formulário
 
-### Opções de usuário
+### Aba Opções do Usuário
 
-- **Permitir registro de usuários**.
-  - Sim: Se definido como "Sim", os usuários podem se registrar no
-    Frontend do site usando o link "Criar uma conta" fornecido no módulo
-    de início de sessão.
-  - Não: Se definido como "Não", o link 'Criar uma conta' não será
-    exibido.
-- **Grupo de Cadastro de Novo Usuário**. O
-  grupo
-  ao qual os usuários são atribuídos por padrão quando se registram no
-  site. O padrão é 'Registrados'.
-- **Comentários do Grupo de Usuários**. O grupo ao qual os convidados
-  são atribuídos (Convidados são visitantes do site que não iniciam uma
-  sessão). Se você alterar isso para um grupo diferente, é possível
-  criar conteúdo no site que seja visível para os convidados, mas não
-  visível para usuários conectados. \[<a
-  href="https://magazine.joomla.org/all-issues/june-2021/explore-the-core-controlling-user-access?%7CSaiba"
-  class="external text" target="_blank"
-  rel="noreferrer noopener">mais.</a>\]
-- **Enviar Senha**. Se definido como 'Sim', a primeira senha do usuário
-  será enviada ao usuário como parte do e-mail de registro.
-- **Ativação de Cadastro de Novo Usuário**.
-  - Nenhum: A conta de usuário será ativada imediatamente, sem a
-    necessidade de ação.
-  - Usuário: O usuário receberá um e-mail com um link de ativação. A
-    conta será ativada quando o usuário clicar no link de ativação.
-  - Administrador: O usuário receberá um e-mail com um link de ativação.
-    Quando o usuário clicar neste link, a administração do site será
-    notificado através de e-mail e a ativação da conta de usuário
-    precisa ser autorizada pela administração do site.
-- **Notificar Administradores**. Envia notificações por e-mail, para a
-  administração, quando a 'Ativação de conta de usuário' está definida
-  como 'Nenhum' ou 'Usuário'.
-- **Captcha**. Usa
-  Captcha
-  para os registros de contas de usuários e lembretes de nomes de
-  usuários ou senhas de usuários.
-- **Parâmetros do Usuário**.
-  - Exibir: Se definido como 'Exibir', os usuários poderão modificar, no
-    Frontend do site, suas próprias configurações de linguagens,
-    editores e as preferências do site de ajuda.
-  - Ocultar: Se definido como 'Ocultar', os usuários não poderão alterar
-    essas configurações.
-  - Idioma do site. Linguagem padrão do site.
-- **Alterar Nome de Usuário**. Permitir que os usuários alterem o
-  próprio nome de usuário.
+- **Permitir Registro de Usuário**
+  - *Sim* Os usuários podem se registrar no Frontend do site usando o
+    link *Criar uma Conta* fornecido no formulário de Login.
+  - *Não* O link *Criar uma Conta* não será exibido.
+- **Grupo Padrão de Registro de Novo Usuário** O grupo ao qual os usuários são atribuídos por
+  padrão quando se registram no site. Padrão é *Registrado*.
+- **Grupo de Usuários Convidados** O grupo ao qual os convidados são atribuídos (Convidados
+  são visitantes do site que não estão logados). É possível
+  criar conteúdo no site que seja visível para convidados, mas não visível
+  para usuários logados.
+- **Enviar Senha** Se configurado como *Sim*, a primeira senha do usuário será
+  enviada por e-mail ao usuário como parte do e-mail de registro.
+- **Ativação de Nova Conta de Usuário**
+  - *Nenhuma* A conta de usuário será ativada imediatamente sem nenhuma ação necessária.
+  - *Usuário* O usuário receberá um e-mail com um link de ativação. A
+    conta será ativada quando o usuário selecionar o link de ativação.
+  - *Administrador* O usuário receberá um e-mail com um link de ativação.
+    Quando o usuário selecionar esse link, o Administrador do Site será notificado via
+    e-mail e solicitado a ativar a conta do usuário.
+- **Enviar E-mail para Administradores** Enviar notificação por e-mail para
+  administradores com *Ativação de Nova Conta de Usuário* configurada como *Nenhuma* ou *Usuário*.
+- **Captcha** O plugin Captcha para Registro de Conta de Usuário, Lembrete de Senha
+  de Usuário e Lembrete de Nome de Usuário.
+- **Parâmetros de Usuário no Frontend**
+  - *Mostrar* Os usuários poderão modificar as Configurações Básicas no Frontend do site.
+  - *Ocultar* O usuário não poderá alterar essas configurações.
+- **Idioma do Frontend** Mostrar ou Ocultar o idioma do site.
+- **Alterar Nome de Usuário** Permitir que o usuário altere o Nome de Usuário.
 
-### Opções de domínio de e-mail
+### Aba Opções de Domínio de E-mail
 
-<img
-src="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Users-Options-email-domain-subscreen-pt-br.png/600px-Help-4x-Users-Options-email-domain-subscreen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Users-Options-email-domain-subscreen-pt-br.png/900px-Help-4x-Users-Options-email-domain-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/b/bb/Help-4x-Users-Options-email-domain-subscreen-pt-br.png/1200px-Help-4x-Users-Options-email-domain-subscreen-pt-br.png 2x"
-data-file-width="2002" data-file-height="1073" width="600" height="322"
-alt="Users Options email domain subscreen pt" />
+![aba opções de domínio de e-mail dos usuários](../../../ptbr/images/users/users-options-email-domain-options-tab.png)
 
-- **Nome do Domínio**. Insira uma lista de domínios de e-mail permitidos
-  e não permitidos. Por padrão, todos os domínios são
-  permitidos.Curingas (\*) são aceitos. Por exemplo:
-  - \* (Asterisk): Permite ou bloqueia todos os domínios,
-  - \*.com: Permite ou bloqueia todos os domínios '.com',
-  - \*.joomla.org: Permite ou bloqueia todos os subdomínios pertencentes
-    a 'joomla.org'.
-- **Regra** Selecione se deve permitir ou não permitir o domínio.
+- **Nome de Domínio** Insira uma lista de domínios de e-mail permitidos e não permitidos.
+  Por padrão, todos os domínios são permitidos. Curingas (\*) são suportados. Por
+  exemplo:
+  - \* (Asterisco): Permite ou não permite todos os domínios
+  - \*.com: Permite ou não permite todos os domínios '.com'
+  - \*.joomla.org: Permite ou não permite todos os subdomínios 'joomla.org'.
+- **Regra** Selecione se deseja permitir ou não o domínio.
 
-### Opções de senha
+### Aba Opções de Senha
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Users-Options-password-subscreen-pt-br.png/600px-Help-4x-Users-Options-password-subscreen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Users-Options-password-subscreen-pt-br.png/900px-Help-4x-Users-Options-password-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/5/5b/Help-4x-Users-Options-password-subscreen-pt-br.png/1200px-Help-4x-Users-Options-password-subscreen-pt-br.png 2x"
-data-file-width="2002" data-file-height="1230" width="600" height="369"
-alt="Users Options password subscreen pt" />
+![aba opções de senha dos usuários](../../../ptbr/images/users/users-options-password-options-tab.png)
 
-- **Redefinir Contagem Máxima**. O número máximo de redefinições de
-  senha permitidas em um determinado período de tempo. Zero indica que
-  não há limite.
-- **Redefinir Tempo (horas)**. O período de tempo para o contador de
-  redefinições.
-- **Mínimo de caracteres**. Define o comprimento mínimo para uma senha.
-- **Mínimo de números**. Define o número mínimo de números inteiros que
-  devem ser incluídos em uma senha.
-- **Mínimo de Símbolos**. Define o número mínimo de símbolos
-  (como !@#\$) necessários em uma senha.
-- **Mínimo de Maiúsculas**. Define o número mínimo de caracteres
-  alfabéticos maiúsculos necessários para uma senha.
-- **Mínimo de minúsculas**. Define o número mínimo de caracteres
-  alfabéticos minúsculas necessários para uma senha.
+- **Contagem Máxima de Redefinições** O número máximo de redefinições de senha permitidas
+  dentro do período de tempo. Zero indica sem limite.
+- **Tempo de Redefinição** O período de tempo, em horas, para o contador de redefinição.
+- **Comprimento Mínimo** Defina o comprimento mínimo para uma senha.
+- **Mínimo de Números** Defina o número mínimo de números que devem ser
+  incluídos em uma senha.
+- **Mínimo de Símbolos** Defina o número mínimo de símbolos (como !@#\$)
+  exigidos em uma senha.
+- **Mínimo de Letras Maiúsculas** Defina o número mínimo de caracteres alfabéticos maiúsculos
+  exigidos para uma senha.
+- **Mínimo de Letras Minúsculas** Defina o número mínimo de caracteres alfabéticos minúsculos
+  exigidos para uma senha.
 
-### Multi-factor Authentication
+### Aba Autenticação Multi-fator
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c0/Help-4x-Users-Options-multi-factor-authentication-subscreen-pt-br.png/600px-Help-4x-Users-Options-multi-factor-authentication-subscreen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c0/Help-4x-Users-Options-multi-factor-authentication-subscreen-pt-br.png/900px-Help-4x-Users-Options-multi-factor-authentication-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/c/c0/Help-4x-Users-Options-multi-factor-authentication-subscreen-pt-br.png/1200px-Help-4x-Users-Options-multi-factor-authentication-subscreen-pt-br.png 2x"
-data-file-width="2002" data-file-height="1501" width="600" height="450"
-alt="Users Options multi factor authentication subscreen pt" />
+![aba autenticação multi-fator dos usuários](../../../ptbr/images/users/users-options-multi-factor-authentication-tab.png)
 
-- **Allowed frontend module positions**. When displaying the frontend
-  Multi-factor Authentication page all modules will be hidden except
-  those in the positions selected here.
-- Show title in frontendLanguages: Overrides.
-- **Allowed backend module positions**. When displaying the backend
-  Multi-factor Authentication page all modules will be hidden except
-  those in the positions selected here. Please note that modules in the
-  'title' position are always shown: this is required to show the
-  backend page icon and title.
-- **Disable Multi-factor Authentication**. Any user who belongs in *any*
-  of the selected user groups will be exempt from Multi-factor
-  Authentication. Even if they have set up Multi-factor Authentication
-  methods they will not be asked to use them when they are logging in,
-  nor will they be able to view them, remove them, or change their
-  configuration.
-- **Enforce Multi-factor Authentication**. Any user who belongs in *any*
-  of the selected user groups will be required to enable Multi-factor
-  Authentication before being able to use the site.
-- **Frontend template style**. Choose the frontend template style to use
-  in the Multi-factor Authentication page. Select 'Use Default" to use
-  the default site template style.
-- **Multi-factor Authentication after silent login**. Should the user
-  have to go through Multi-factor Authentication after a silent user
-  login? Silent logins are those which do not require a username and
-  password for example the Remember Me feature, WebAuthn etc.
-- **Silent login authentication response types (for experts)**. For
-  experts. A comma–separated list of Joomla authentication response
-  types which are considered silent logins. The default is 'cookie' (the
-  Remember Me feature) and 'passwordless' (WebAuthn).
-- **Onboard new users**. If the user has not yet set up Multi-factor
-  Authentication and this option is enabled they will be redirected to
-  the Multi-factor Authentication setup page or the custom URL you set
-  up below. This is meant to be a simple way to to let your users know
-  that Multi-factor Authentication is an option on your site.
-- **Custom redirection URL**. If it's not empty redirects to this URL
-  instead of the Multi-factor Authentication setup page when the option
-  above is enabled.Warning: This must be a URL inside your site. You
-  cannot log in to an external link or to a different subdomain.
+- **Posições de módulos de frontend permitidas** Ao exibir a página de
+  Autenticação Multi-fator no frontend todos os módulos serão ocultados, exceto
+  os nas posições selecionadas aqui.
+- **Mostrar título no frontend** Exibir um título na página de
+  verificação de Autenticação Multi-fator no frontend? Observe que o
+  título é sempre exibido no backend. Se você precisar alterar o
+  título, substitua a chave de idioma `COM_USERS_HEADING_MFA` usando
+  Idiomas: Substituições.
+- **Posições de módulos de backend permitidas** Ao exibir a página de
+  Autenticação Multi-fator no backend todos os módulos serão ocultados, exceto
+  os nas posições selecionadas aqui. Observe que os módulos na
+  posição `title` são sempre exibidos: isso é necessário para exibir o
+  ícone da página do backend e o título.
+- **Desativar Autenticação Multi-fator** Qualquer usuário que pertença a *qualquer*
+  um dos grupos de usuários selecionados estará isento da Autenticação
+  Multi-fator. Mesmo que tenham configurado métodos de Autenticação Multi-fator,
+  eles não serão solicitados a usá-los ao fazer o login,
+  nem poderão exibi-los, removê-los ou alterar sua
+  configuração.
+- **Enforce Multi-factor Authentication** Qualquer usuário que pertença a *qualquer*
+  um dos grupos de usuários selecionados será obrigado a habilitar a Autenticação
+  Multi-fator antes de poder usar o site.
+- **Estilo do template do frontend** Escolha o estilo do template do frontend a ser usado
+  na página de Autenticação Multi-fator. Selecione *Usar Padrão* para usar
+  o estilo do template padrão do site.
+- **Autenticação Multi-fator após login silencioso** O usuário deve
+  passar pela Autenticação Multi-fator após um login silencioso? Logins silenciosos são aqueles
+  que não exigem um nome de usuário e senha, por exemplo, o recurso Lembrar-me, WebAuthn, etc.
+- **Tipos de resposta de autenticação de login silencioso (para especialistas)** Para
+  especialistas. Uma lista separada por vírgulas de tipos de resposta de autenticação do Joomla
+  que são considerados logins silenciosos. O padrão é `cookie` (o
+  recurso Lembrar-me) e `sem senha` (WebAuthn).
+- **Onboard novos usuários** Se o usuário ainda não configurou a Autenticação
+  Multi-fator e esta opção estiver ativada, ele será redirecionado para
+  a página de configuração de Autenticação Multi-fator ou para a URL personalizada que você configurou
+  abaixo. Esta é uma forma simples de informar seus usuários de
+  que a Autenticação Multi-fator é uma opção no seu site.
+- **URL de redirecionamento personalizado** Se não estiver vazio, redireciona para esta URL
+  em vez da página de configuração de Autenticação Multi-fator quando a opção
+  acima está habilitada. Aviso: Esta deve ser uma URL dentro do seu site. Você
+  não pode entrar em um link externo ou em um subdomínio diferente.
 
-### Histórico de notas de usuários
+### Aba Histórico de Notas de Usuário
 
-<img
-src="https://docs.joomla.org/images/thumb/a/ac/Help-4x-Users-Options-user-notes-history-subscreen-pt-br.png/600px-Help-4x-Users-Options-user-notes-history-subscreen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/ac/Help-4x-Users-Options-user-notes-history-subscreen-pt-br.png/900px-Help-4x-Users-Options-user-notes-history-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/a/ac/Help-4x-Users-Options-user-notes-history-subscreen-pt-br.png/1200px-Help-4x-Users-Options-user-notes-history-subscreen-pt-br.png 2x"
-data-file-width="2002" data-file-height="565" width="600" height="169"
-alt="Users Options user notes history subscreen pt" />
+![aba histórico de notas de usuário](../../../ptbr/images/users/users-options-user-notes-history-tab.png)
 
-- **Habilitar versões**. Save version history for User Notes.
-- **Máximo de versões**.
-  The maximum number of versions to store for a User Note. If a User
-  Note is saved and the maximum number of versions has been reached, the
-  oldest version will be deleted automatically. If set to 0, then
-  versions will never be deleted automatically.Saiba mais.
+- **Habilitar Versões** Salvar histórico de versões para Notas de Usuário.
+- **Máximo de Versões** O número máximo de versões a serem armazenadas para uma
+  Nota de Usuário. Se uma Nota de Usuário for salva e o número máximo de versões
+  tiver sido atingido, a versão mais antiga será excluída automaticamente. Se
+  configurado como 0, as versões nunca serão excluídas automaticamente.
 
-### Enviar E-mail em massa para usuários
+### Aba E-mail em Massa para Usuários
 
-<img
-src="https://docs.joomla.org/images/thumb/1/1c/Help-4x-Users-Options-mass-mail-users-subscreen-pt-br.png/600px-Help-4x-Users-Options-mass-mail-users-subscreen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/1c/Help-4x-Users-Options-mass-mail-users-subscreen-pt-br.png/900px-Help-4x-Users-Options-mass-mail-users-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/1/1c/Help-4x-Users-Options-mass-mail-users-subscreen-pt-br.png/1200px-Help-4x-Users-Options-mass-mail-users-subscreen-pt-br.png 2x"
-data-file-width="2002" data-file-height="879" width="600" height="263"
-alt="Users Options mass mail users subscreen pt" />
+![aba e-mail em massa para usuários](../../../ptbr/images/users/users-options-mass-mail-users-tab.png)
 
-- **Prefixo do Assunto**. Digite o texto opcional a ser inserido
-  automaticamente no início do assunto do e-mail em massa.
-- **Sufixo da Mensagem**. Digite o texto opcional a ser inserido
-  automaticamente no fim do corpo do e-mail em massa (por exemplo, uma
-  assinatura).
+- **Prefixo do Assunto** Insira um texto opcional a ser inserido automaticamente
+  antes do assunto do e-mail em massa.
+- **Sufixo do Corpo do E-mail** Insira um texto opcional a ser inserido automaticamente
+  após o corpo do e-mail (por exemplo, uma assinatura).
 
-### Integração
+### Aba Integração
 
-<img
-src="https://docs.joomla.org/images/thumb/9/9c/Help-4x-Users-Options-integration-subscreen-pt-br.png/600px-Help-4x-Users-Options-integration-subscreen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/9c/Help-4x-Users-Options-integration-subscreen-pt-br.png/900px-Help-4x-Users-Options-integration-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/9/9c/Help-4x-Users-Options-integration-subscreen-pt-br.png/1200px-Help-4x-Users-Options-integration-subscreen-pt-br.png 2x"
-data-file-width="2002" data-file-height="593" width="600" height="178"
-alt="Users Options integration subscreen pt" />
+![aba integração dos usuários](../../../ptbr/images/users/users-options-integration-tab.png)
 
-- **Editar campos personalizados**. Habilita a criação de campos
-  personalizados.
+- **Habilitar Campos Personalizados** Habilitar a criação de campos personalizados.
 
-### Permissões
+## Dicas
 
-This section lets you set up the default Access Control List
-permissions for all users.
+Se você é um usuário iniciante, mantenha os valores padrão aqui
+até aprender mais sobre o uso das opções globais.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Users-Options-permissions-subscreen-pt-br.png/600px-Help-4x-Users-Options-permissions-subscreen-pt-br.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Users-Options-permissions-subscreen-pt-br.png/900px-Help-4x-Users-Options-permissions-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/8/8c/Help-4x-Users-Options-permissions-subscreen-pt-br.png/1200px-Help-4x-Users-Options-permissions-subscreen-pt-br.png 2x"
-data-file-width="2002" data-file-height="1522" width="600" height="456"
-alt="Users Options permissions subscreen pt" />
+*Traduzido por openai.com*
 
-To change the permissions for users, do the following.
-
-1.  Selecione o **grupo** clicando em seu título localizado à esquerda.
-2.  Encontre a **ação** desejada.
-    - **Configurar o Controle de Acesso e Opções**. Users can edit the
-      options and permissions.
-    - **Configurar somente as Opções**. Users can edit the options exept
-      the permissions.
-    - **Acesso à Interface de Administração**. Users can access user
-      administration interface.
-    - **Criar**. Users can create users.
-    - **Apagar**. Users can delete users.
-    - **Editar**. Users can edit users.
-    - **Editar Estado**. User can change the published state and related
-      information.
-    - **Editar Valor**. Users can edit any value of custom fields
-      submitted in users.
-3.  Selecione a permissão desejada para a ação que deseja alterar.
-    - **Herdado**. Inherited for users in this Group from the Global Configuration
-      permissions.
-    - **Permitido**. Permitido para usuários neste grupo.Observe que, se
-      esta ação for negada em um dos níveis mais altos, a permissão
-      permitida aqui não terá efeito. Uma configuração negada não pode
-      ser substituída.
-    - **Negado**. Negado para usuários neste grupo.
-4.  Clique em **salvar** na **barra de ferramentas** na parte superior.
-    Quando a tela for atualizada, a coluna de configuração calculada
-    mostrará a permissão efetiva para este(a) grupo e ação.
-
-## Barra de ferramentas
-
-No topo da página você verá a barra de ferramentas mostrada na [captura
-de tela](#screenshot) acima.
-
-- **Salvar**. Saves the users options and stays in the current screen.
-- **Salvar & Fechar**. Saves the users options and closes the current
-  screen.
-- **Fechar**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Toggle Inline Help**. Show help text below some options.
-- **Help**. Opens this help screen.
-
-## Dicas rápidas
-
-If you are a beginning user, you can just keep the default values here
-until you learn more about using global options.
