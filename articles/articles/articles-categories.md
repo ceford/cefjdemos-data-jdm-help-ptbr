@@ -1,70 +1,51 @@
-<!-- Filename: Help4.x:Articles:_Categories  / Display title: Artigos: Categorias -->
+<!-- Filename: Help4.x:Articles:_Categories  / Display title: Artikelen: Categorieën -->
 
-## Descrição
+## Beschrijving
 
-As categorias são usadas para organizar Artigos para facilitar a gestão e
-exibição. Elas podem ser estruturadas em formas de árvore, como sistemas de arquivos. Cada
-Artigo deve ser atribuído a uma Categoria. O padrão é *Não categorizado*.
+Categorieën worden gebruikt om Artikelen te organiseren voor eenvoudig beheer en weergave. Ze kunnen worden opgebouwd in boomachtige structuren zoals bestandssystemen. Elk Artikel moet worden toegewezen aan een Categorie. De standaardinstelling is *Niet-gecategoriseerd*.
 
-A página de lista de **Categorias** é usada para gerenciar categorias. Isso inclui
-a criação de novas categorias, encontrar categorias para editar e alterar propriedades da 
-categoria, como publicado ou não e a ordem da categoria. Além disso, algumas propriedades
-podem ser alteradas para um grupo de categorias usando um Processo em Lote.
+De **Categorieën** lijstpagina wordt gebruikt om categorieën te beheren. Dit omvat het aanmaken van nieuwe categorieën, het vinden van categorieën om te bewerken en het wijzigen van categorie-eigenschappen zoals wel of niet gepubliceerd en categorievolgorde. Bovendien kunnen sommige eigenschappen worden gewijzigd voor een groep categorieën met een Batchverwerking.
 
-### Elementos Comuns
+### Gemeenschappelijke Elementen
 
-Alguns elementos desta página são abordados em artigos de Ajuda separados:
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
-* [Filtros de Lista](jdocmanual?article=help/common-elements/list-filters).
-* [Cabeçalhos das Colunas da Lista](jdocmanual?article=help/common-elements/list-column-headers).
-* [Ordenação dos Itens da Lista](jdocmanual?article=help/common-elements/list-ordering).
-* [Paginação da Lista](jdocmanual?article=help/common-elements/list-pagination).
-* [Processo em Lote da Lista](jdocmanual?article=help/common-elements/list-batch-process).
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Kolomkoppen van de Lijst](jdocmanual?article=help/common-elements/list-column-headers).
+* [Lijstvolgorde](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginering van de Lijst](jdocmanual?article=help/common-elements/list-pagination).
+* [Batchverwerking van de Lijst](jdocmanual?article=help/common-elements/list-batch-process).
 
-## Como Acessar
+## Hoe te Toegang
 
-Existem duas rotas para a página de lista de Categorias:
-* A partir do **Painel Principal → painel do Site** Selecione **Categorias de Artigos**
-* No menu do Administrador, selecione **Conteúdo → Categorias**
+Er zijn twee routes naar de Categorieënlijstpagina:
+* Vanuit het **Home Dashboard → Site paneel** Selecteer **Artikelcategorieën**
+* Vanuit het Administrator-menu selecteer **Inhoud → Categorieën**
 
+## Screenshot
 
-## Captura de Tela
+![Artikelen: Categorieën lijst](../../../ptbr/images/articles/articles-categories-list.png)
 
-![Artigos: Lista de Categorias](../../../pt_br/imagens/artigos/lista-de-categorias-dos-artigos.png)
+## Kolomkoppen
 
-## Cabeçalhos de Coluna
+- **Aankruisvakje** Vink dit vakje aan om categorieën te selecteren. Om alle categorieën te selecteren, vinkt u het vakje in de kolomkop aan. Nadat vakjes zijn aangevinkt, wordt de knop 'Acties' op de werkbalk actief.
+- **Volgorde** U kunt de volgorde van een categorie binnen een lijst als volgt wijzigen:
+  - Selecteer het Volgorde-pictogram <i class="fa-solid fa-sort"></i> in de eerste kolomkop om het actief te maken.
+  - Selecteer een van de verticale puntjespictogrammen <span class="icon-ellipsis-v"></span> en sleep het omhoog of omlaag om de positie van die rij in de lijst te wijzigen.
+  - In de Filteropties kunt u de lijst beperken tot categorieën die bijvoorbeeld aan een Taal zijn toegewezen.
+- **Status** Status van de categorie. Houd de muisaanwijzer boven het pictogram voor informatie of tab ernaar voor een audioversie.
+- **Titel** De titel van de categorie. Bewerk de categorie door op de Titel te klikken.
+- **Statuskolommen** Elke knop in een kolom toont het aantal artikelen met die status in die categorie. Selecteer een knop om naar de Artikellijst te gaan, gefilterd op die categorie. De kolommen zijn **Gepubliceerd**, **Gedepubliceerd**, **Gearchiveerd** en **Verwijderd**.
+- **Toegang** Het weergavetoegangsniveau voor deze categorie.
+- **Associaties** Toont de geassocieerde categorieën. Klik op de Taalcode om de categorie te openen. Alleen voor meertalige!
+- **Taal** Taal van de categorie, standaard is 'Alles'.
+- **ID** Een uniek identificatienummer voor deze categorie, u kunt dit nummer niet wijzigen.
 
-- **Caixa de Seleção** Marque esta caixa para selecionar categorias. Para selecionar todas
-  as categorias, marque a caixa no cabeçalho da coluna. Depois que as caixas estão
-  marcadas, o botão 'Ações' na barra de ferramentas fica ativo.
-- **Ordenação** Você pode mudar a ordem de uma categoria dentro de uma lista da
-  seguinte forma:
-  - Selecione o ícone de Ordenação <i class="fa-solid fa-sort"></i> no primeiro
-    cabeçalho de coluna para torná-lo ativo.
-  - Selecione um dos ícones de reticências verticais <span class="icon-ellipsis-v"></span>
-    e arraste-o para cima ou para baixo para mudar a posição daquela linha na lista.
-  - Nas Opções de Filtro você pode limitar a lista a categorias que estão
-    atribuídas, por exemplo, a um Idioma.
-- **Status** Status da categoria. Passe o mouse sobre o ícone para informações ou
-    pressione a tecla Tab para obter um equivalente de áudio.
-- **Título** O título da categoria. Edite a categoria clicando no
-  Título.
-- **Colunas de Status** Cada botão em uma coluna mostra o número de artigos
-    com aquele status naquela categoria. Selecione um botão para ir à lista de Artigos
-    filtrada para aquela categoria. As colunas são **Publicado**,
-    **Não Publicado**, **Arquivado** e **Lixeira**.
-- **Acesso** O nível de Acesso de visualização para esta categoria.
-- **Associações** Mostra as categorias associadas. Clique no
-  Código do Idioma para abrir a categoria. Somente multilíngue!
-- **Idioma** Idioma das categorias, o padrão é 'Todos'.
-- **ID** Um número de identificação único para esta categoria, você não pode
-  mudar este número.
+## Tips
 
-## Dicas
+- Selecteer een icoon in de Statuskolom om te schakelen tussen Gepubliceerd en
+  Niet Gepubliceerd.
 
-- Selecione um ícone na coluna Status para alternar entre Publicado e
-  Não Publicado.
-
-*Traduzido por openai.com*
+*Vertaald door openai.com*
 

@@ -1,65 +1,65 @@
-<!-- Filename: Help4.x:Articles:_New_or_Edit_Category  / Display title: Artigos: Editar Categoria -->
+<!-- Filename: Help4.x:Articles:_New_or_Edit_Category  / Display title: Artikelen: Categorie Bewerken -->
 
-## Descrição
+## Beschrijving
 
-As categorias são usadas para organizar Artigos, Contatos e outros
-componentes para facilitar a gestão e exibição. Elas podem ser organizadas
-em estruturas hierárquicas como sistemas de arquivos. Por exemplo, a categoria Animais de Estimação
-pode ser pai da categoria Cachorros, categoria Gatos e categoria Peixes Dourados.
-As categorias podem ser aninhadas em qualquer nível. Todos os Artigos devem ser atribuídos
-a uma Categoria pai, a uma Categoria filho ou à Categoria padrão chamada *Não Categorias*.
+Categorieën worden gebruikt om Artikelen, Contacten en andere 
+componenten te organiseren voor gemakkelijke beheer en weergave. Ze kunnen 
+in boomachtige structuren worden georganiseerd, zoals bestandssystemen. Bijvoorbeeld, categorie Huisdieren 
+kan een ouder zijn van categorie Honden, categorie Katten en categorie Goudvissen. 
+Categorieën kunnen tot elk niveau worden genest. Alle Artikelen moeten 
+toegewezen zijn aan een oudercategorie, een kindcategorie, of aan de standaardcategorie genaamd *Niet-gecategoriseerd*.
 
-A página *Artigos: Editar Categoria* é usada para criar uma nova Categoria ou para 
-alterar as propriedades de uma Categoria existente.
+De pagina *Artikelen: Categorie Bewerken* wordt gebruikt om een nieuwe Categorie te maken of om 
+de eigenschappen van een bestaande Categorie te wijzigen.
 
-### Elementos Comuns
+### Algemene Elementen
 
-Alguns elementos desta página são abordados em artigos de Ajuda separados:
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-* [Barras de Ferramentas](jdocmanual?article=help/common-elements/toolbars).
-* [A Guia Categoria](jdocmanual?article=help/common-elements/edit-category).
-* [A Guia Opções](jdocmanual?article=help/common-elements/edit-category-options).
-* [A Guia de Publicação](jdocmanual?article=help/common-elements/edit-publishing).
-* [A Guia de Associações](jdocmanual?article=help/common-elements/edit-associations).
-* [A Guia de Permissões](jdocmanual?article=help/common-elements/edit-permissions).
-* [O Popup do Histórico de Versões](jdocmanual?article=help/common-elements/edit-version-history).
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Categorietabblad](jdocmanual?article=help/common-elements/edit-category).
+* [Het Optiestabblad](jdocmanual?article=help/common-elements/edit-category-options).
+* [Het Publicatietabblad](jdocmanual?article=help/common-elements/edit-publishing).
+* [Het Associatietabblad](jdocmanual?article=help/common-elements/edit-associations).
+* [Het Machtigingentabblad](jdocmanual?article=help/common-elements/edit-permissions).
+* [De Versiegeschiedenis Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
-## Como Acessar
+## Toegang Krijgen
 
-Para adicionar uma nova categoria, começando pelo menu do Administrador:
+Om een nieuwe categorie toe te voegen, beginnend vanaf het Beheerdersmenu:
 
-- Selecione **Painel Inicial → Painel do Site → Botão de Categorias +**. Ou...
-- Selecione **Conteúdo → Botão de Categorias +**. Ou...
-- Selecione **Conteúdo → Categorias**. Então...
-  - Selecione o botão **Novo** na Barra de Ferramentas para criar uma nova Categoria.
+- Selecteer **Home Dashboard → Site paneel → Categorieën + knop**. Of...
+- Selecteer **Inhoud → Categorieën + knop**. Of...
+- Selecteer **Inhoud → Categorieën**. Dan...
+  - Selecteer de **Nieuw** knop in de Werkbalk om een nieuwe Categorie aan te maken.
 
-Para editar uma Categoria existente:
+Om een bestaande Categorie te bewerken:
 
-- Selecione **Conteúdo → Categorias**. Então...
-  - Selecione um **Título de Categoria** da lista de categorias.
+- Selecteer **Inhoud → Categorieën**. Dan...
+  - Selecteer een **Categorietitel** uit de lijst met categorieën.
 
-## Captura de Tela
+## Screenshot
 
-![Captura de tela da edição de categoria](../../../ptbr/images/articles/articles-edit-category-category-tab.png)
+![Schermafbeelding van categorie bewerken](../../../ptbr/images/articles/articles-edit-category-category-tab.png)
 
-## Campos do Formulário
+## Formulier Velden
 
-- **Título** O Título para este item. Isso pode ou não ser exibido na
-  página, dependendo dos valores dos parâmetros que você escolher.
-- **Alias** O nome interno do item. Normalmente, você pode deixar isso
-  em branco e o Joomla preencherá um valor padrão para o Título em letras minúsculas e
-  com traços em vez de espaços.
+- **Titel** De titel voor dit item. Dit kan al dan niet weergegeven worden
+  op de pagina, afhankelijk van de parameters die je kiest.
+- **Alias** De interne naam van het item. Normaal gesproken kun je dit
+  leeg laten en Joomla zal een standaardwaarde invullen: Titel in kleine letters en
+  met streepjes in plaats van spaties.
 
-### Aba Categoria
+### Categorie Tab
 
-#### Painel Esquerdo
+#### Linker Paneel
 
-- **Descrição** A descrição do item. Descrições de categoria podem ser 
-  exibidas nas páginas da web, dependendo de outras configurações de parâmetro.
+- **Beschrijving** De beschrijving van het item. Categorie beschrijvingen kunnen 
+  worden getoond op webpagina's, afhankelijk van andere parameterinstellingen.
 
-### Aba Fluxo de Trabalho
+### Workflow tab
 
-- **Fluxo de Trabalho** Selecione na lista suspensa.
+- **Workflow** Selecteer uit de vervolgkeuzelijst.
 
-*Traduzido por openai.com*
+*Vertaald door openai.com*
 
