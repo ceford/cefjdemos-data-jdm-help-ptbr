@@ -81,7 +81,7 @@ Sure, here's the translation to Portuguese (Brazil):
 Esta captura de tela mostra o Template Frontend padrão do Joomla, **Cassiopeia**, com todas
 as opções de Edição de Layout configuradas para 'Esconder'.
 
-[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
 ## Dicas
 
