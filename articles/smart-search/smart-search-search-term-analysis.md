@@ -11,7 +11,7 @@ A página *Smart Search: Análise de Termos de Pesquisa* exibe uma lista de fras
 
 ## Captura de Tela
 
-![análise da busca por termos](../../../ptbr/imagens/smart-search/smart-search-search-term-analysis.png)
+![análise da busca por termos](../../../ptbr/images/smart-search/smart-search-search-term-analysis.png)
 
 ## Colunas
 

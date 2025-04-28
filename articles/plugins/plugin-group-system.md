@@ -6,7 +6,7 @@
 
 Este plugin adiciona uma barra de ferramentas de acessibilidade ao seu site com opções de acessibilidade adicionais.
 
-![Formulário de recursos adicionais de acessibilidade do sistema](../../../ptbr/images/plugins/plugin-group-system-additional-accessibility-features.png)
+![Formulário de recursos adicionais de acessibilidade do sistema](../../../en/images/plugins/plugin-group-system-additional-accessibility-features.png)
 
 ### Sistema - Depuração
 
@@ -14,7 +14,7 @@ Este plugin fornece informações de depuração. O relatório é exibido abaixo
 
 #### Aba do Plugin
 
-![Aba do plugin no formulário de depuração do sistema](../../../ptbr/images/plugins/plugin-group-system-debug-plugin-tab.png)
+![Aba do plugin no formulário de depuração do sistema](../../../en/images/plugins/plugin-group-system-debug-plugin-tab.png)
 
 - **Grupos Permitidos** Grupos de usuários que verão as informações de depuração quando ativado.
 - **Exibir Perfilagem** Exibir ou não as informações de pontos de perfilagem.
@@ -23,7 +23,7 @@ Este plugin fornece informações de depuração. O relatório é exibido abaixo
 
 #### Aba de Idioma
 
-![Aba de idioma no formulário de depuração do sistema](../../../ptbr/images/plugins/plugin-group-system-debug-language-tab.png)
+![Aba de idioma no formulário de depuração do sistema](../../../en/images/plugins/plugin-group-system-debug-language-tab.png)
 
 - **Mostrar erros ao analisar arquivos de idioma** Exibir ou não uma lista de arquivos de idioma com erros devido à sua não conformidade com a especificação de arquivos de idioma do Joomla!.
 - **Mostrar Arquivos de Idioma** Exibir ou não os arquivos de idioma que foram carregados para gerar a página.
@@ -34,7 +34,7 @@ Este plugin fornece informações de depuração. O relatório é exibido abaixo
 
 #### Aba de Registro
 
-![Aba de registro no formulário de depuração do sistema](../../../ptbr/images/plugins/plugin-group-system-debug-logging-tab.png)
+![Aba de registro no formulário de depuração do sistema](../../../en/images/plugins/plugin-group-system-debug-logging-tab.png)
 
 ### Sistema - Campos
 
@@ -44,7 +44,7 @@ O plugin de campos do sistema que é necessário para exibir os campos personali
 
 Este plugin pode configurar Cabeçalhos de Segurança HTTP. Favor verificar a documentação de Gerenciamento de Cabeçalhos HTTP para mais detalhes sobre este plugin.
 
-![Formulário de cabeçalhos HTTP do sistema](../../../ptbr/images/plugins/plugin-group-system-http-headers.png)
+![Formulário de cabeçalhos HTTP do sistema](../../../en/images/plugins/plugin-group-system-http-headers.png)
 
 ### Sistema - Destaque
 
@@ -54,7 +54,7 @@ Plugin do sistema para destacar termos especificados.
 
 Este plugin procura por tarefas de plugin de trabalhos a serem executadas.
 
-![Formulário de agendador de tarefas do sistema](../../../ptbr/images/plugins/plugin-group-system-job-scheduler.png)
+![Formulário de agendador de tarefas do sistema](../../../en/images/plugins/plugin-group-system-job-scheduler.png)
 
 - **Frequência (em minutos)** Defina como zero para executar em cada carregamento de página (para testes).
 - **Webcron** Defina como Sim para chamar como um comando CLI. Para mais informações veja Escrevendo uma Aplicação CLI.
@@ -62,7 +62,7 @@ Este plugin procura por tarefas de plugin de trabalhos a serem executadas.
 
 ### Sistema - Estatísticas do Joomla!
 
-![Formulário de estatísticas do Joomla! do sistema](../../../ptbr/images/plugins/plugin-group-system-joomla-statistics.png)
+![Formulário de estatísticas do Joomla! do sistema](../../../en/images/plugins/plugin-group-system-joomla-statistics.png)
 
 - **ID Único** Um identificador que permite ao projeto Joomla! contar instalações únicas do plugin. Isso é enviado com as estatísticas de volta ao servidor.
 - **Intervalo (horas)** As estatísticas serão enviadas a cada X horas. O padrão é 12.
@@ -70,7 +70,7 @@ Este plugin procura por tarefas de plugin de trabalhos a serem executadas.
 
 ### Sistema - Notificação de Atualização do Joomla!
 
-![Formulário de notificação de atualização do Joomla! do sistema](../../../ptbr/images/plugins/plugin-group-system-joomla-update-notification.png)
+![Formulário de notificação de atualização do Joomla! do sistema](../../../en/images/plugins/plugin-group-system-joomla-update-notification.png)
 
 - **Emails de Super Usuários** Uma lista separada por vírgulas dos endereços de email que receberão emails de notificação de atualização. Os endereços na lista DEVEM pertencer a usuários existentes do seu site que têm privilégio de Super Usuário. Se nenhum dos emails listados pertencer aos Super Usuários, ou se estiver em branco, todos os Super Usuários deste site receberão o email de notificação de atualização.
 - **Idioma do Email** Se você escolher Automático (padrão), o email de notificação de atualização para os Super Usuários estará no idioma do site no momento em que o plugin for acionado. Selecionando um idioma aqui você está forçando os emails de notificação de atualização a serem enviados neste idioma específico.
@@ -81,7 +81,7 @@ Fornece a habilidade de alterar o código de idioma no documento HTML gerado par
 
 ### Sistema - Filtro de Idioma
 
-![Formulário de filtro de idioma do sistema](../../../ptbr/images/plugins/plugin-group-system-language-filter.png)
+![Formulário de filtro de idioma do sistema](../../../en/images/plugins/plugin-group-system-language-filter.png)
 
 - **Seleção de Idioma para novos Visitantes** Selecione o idioma padrão do site ou detecte as configurações do navegador automaticamente.
 - **Mudança Automática de Idioma** Esta opção mudará automaticamente o idioma do conteúdo usado no Frontend quando o idioma do site do usuário for alterado.
@@ -94,7 +94,7 @@ Fornece a habilidade de alterar o código de idioma no documento HTML gerado par
 
 ### Sistema - Rotação de Logs
 
-![Formulário de rotação de logs do sistema](../../../ptbr/images/plugins/plugin-group-system-log-rotation.png)
+![Formulário de rotação de logs do sistema](../../../en/images/plugins/plugin-group-system-log-rotation.png)
 
 - **Rotação de Logs (em dias)** Com que frequência os logs devem ser rotacionados.
 - **Logs Máximos** O número máximo de logs antigos a serem mantidos.
@@ -107,7 +107,7 @@ O plugin de logout do sistema permite ao Joomla redirecionar o usuário para a p
 
 Este plugin habilita o cache de página. O cache de página permite que o servidor web salve snapshots de páginas e os utilize ao servir páginas web. Isso melhora o desempenho do seu site e reduz a carga de trabalho do servidor. Este plugin possui as seguintes opções:
 
-![Formulário de cache de página do sistema](../../../ptbr/images/plugins/plugin-group-system-page-cache.png)
+![Formulário de cache de página do sistema](../../../en/images/plugins/plugin-group-system-page-cache.png)
 
 - **Usar Cache do Navegador** Utilizar ou não o mecanismo para armazenar um cache de página no navegador local. O padrão é *Não*.
 - **Excluir Itens de Menu** Selecione quais itens de menu você deseja excluir do cache.
@@ -116,7 +116,7 @@ Este plugin habilita o cache de página. O cache de página permite que o servid
 
 Este plugin permite coletar o consentimento dos seus usuários para a política de privacidade do site e gerenciar a expiração do consentimento.
 
-![Formulário de consentimento de privacidade do sistema](../../../ptbr/images/plugins/plugin-group-system-privacy-consent.png)
+![Formulário de consentimento de privacidade do sistema](../../../en/images/plugins/plugin-group-system-privacy-consent.png)
 
 - **Resumo da Política de Privacidade** Permite inserir um resumo da sua política de privacidade ou manter a existente.
 - **Tipo de Privacidade** Escolha entre Artigo e Item de Menu. Dependendo da escolha, um ou outro dos dois campos seguintes estará presente.
@@ -125,7 +125,7 @@ Este plugin permite coletar o consentimento dos seus usuários para a política 
     - *Nota:* Tenha cuidado extra com sites multilíngues. É melhor garantir que o Artigo ou Item de Menu ocorram como Associações em todos os idiomas.
 - **Mensagem de Redirecionamento** A mensagem que será exibida no redirecionamento. Insira sua própria mensagem ou mantenha a existente.
 
-![Aba de expiração do formulário de consentimento de privacidade do sistema](../../../ptbr/images/plugins/plugin-group-system-privacy-consent-expiration.png)
+![Aba de expiração do formulário de consentimento de privacidade do sistema](../../../en/images/plugins/plugin-group-system-privacy-consent-expiration.png)
 
 - **Habilitar** (Sim/Não) A expiração está desativada por padrão. Ative se deseja realizar verificações para a expiração dos consentimentos de privacidade.
 - **Verificação periódica (dias)** (0 a 120 dias) 30 dias por padrão. Se a Expiração estiver ativada, defina o número de dias para realizar a verificação.
@@ -134,7 +134,7 @@ Este plugin permite coletar o consentimento dos seus usuários para a política 
 
 ### Sistema - Redirecionamento
 
-![Formulário de redirecionamento do sistema](../../../ptbr/images/plugins/plugin-group-system-redirect.png)
+![Formulário de redirecionamento do sistema](../../../en/images/plugins/plugin-group-system-redirect.png)
 
 - **Coletar URLs** Esta opção controla a coleta de URLs. Isso é útil para evitar carga desnecessária no banco de dados.
 - **Incluir Nome de Domínio em URLs Expirados** Salvar a URL expirada como absoluta (incluir domínio) ou relativa (excluir domínio).
@@ -148,13 +148,13 @@ Este plugin fornece funcionalidade de *Lembrar de Mim*. Isso permite que o site 
 
 Este plugin adiciona suporte SEF aos links no documento. Ele opera diretamente no HTML e não requer uma tag especial. Ele possui as seguintes opções:
 
-![Formulário de SEF do sistema](../../../ptbr/images/plugins/plugin-group-system-sef.png)
+![Formulário de SEF do sistema](../../../en/images/plugins/plugin-group-system-sef.png)
 
 - **Domínio do Site** Se o seu site puder ser acessado através de mais de um domínio, insira o domínio preferencial (às vezes referenciado como canônico) aqui. Nota: https://exemplo.com e https://www.exemplo.com são domínios diferentes.
 
 ### Sistema - Limpeza de Dados de Sessão
 
-![Formulário de limpeza de dados de sessão do sistema](../../../ptbr/images/plugins/plugin-group-system-session-data-purge.png)
+![Formulário de limpeza de dados de sessão do sistema](../../../en/images/plugins/plugin-group-system-session-data-purge.png)
 
 - **Habilitar Limpeza de Dados de Sessão** Quando ativado, este plugin tentará limpar dados expirados com base na frequência calculada pela probabilidade e divisor.
 - **Habilitar Limpeza de Metadados de Sessão** Quando ativado, este plugin limpará metadados opcionais de sessão do banco de dados. Observe que essa operação não será executada quando o manipulador de banco de dados estiver em uso, pois esses dados são apagados como parte da operação de Limpeza de Dados de Sessão.
@@ -165,17 +165,17 @@ Este plugin adiciona suporte SEF aos links no documento. Ele opera diretamente n
 
 O plugin cria um menu dropdown consistindo dos links para os locais importantes em uma determinada página web. Isso facilita para usuários de teclado e leitores de tela pular rapidamente para o local desejado escolhendo-o da lista de opções.
 
-![Formulário de pular para navegação do sistema](../../../ptbr/images/plugins/plugin-group-system-skip-to-navigation.png)
+![Formulário de pular para navegação do sistema](../../../en/images/plugins/plugin-group-system-skip-to-navigation.png)
 
 ### Sistema - Registro de Ações do Usuário
 
-![Formulário de registro de ações do usuário do sistema](../../../ptbr/images/plugins/plugin-group-system-user-actions-log.png)
+![Formulário de registro de ações do usuário do sistema](../../../en/images/plugins/plugin-group-system-user-actions-log.png)
 
 - **Dias para excluir logs após** Insira quantos dias os logs devem ser mantidos antes de serem excluídos. Insira 0 se você não quiser excluir os logs.
 
 ### Sistema - Registro de Usuário
 
-![Formulário de registro de usuário do sistema](../../../ptbr/images/plugins/plugin-group-system-user-log.png)
+![Formulário de registro de usuário do sistema](../../../en/images/plugins/plugin-group-system-user-log.png)
 
 - **Registrar Nomes de Usuário** Esta opção registrará o nome de usuário utilizado quando uma autenticação falhar.
 

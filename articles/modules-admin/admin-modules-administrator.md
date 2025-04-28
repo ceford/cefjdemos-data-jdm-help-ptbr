@@ -26,7 +26,7 @@ Alguns elementos desta página foram abordados em artigos de Ajuda separados:
 
 ## Captura de Tela - Lista de Módulos Administrativos Disponíveis
 
-![módulos administrativos disponíveis](../../../ptbr/imagens/modulos-admin/modulos-administrador-disponíveis.png)
+![módulos administrativos disponíveis](../../../ptbr/images/modules-admin/modules-administrator-list.png)
 
 ## Posições dos Módulos
 

@@ -26,7 +26,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![Edição de contato - aba de contato](../../../ptbr/imagens/contatos/contatos-editar-contato-aba.png)
+![Edição de contato - aba de contato](../../../ptbr/images/contacts/contacts-edit-contact-tab.png)
 
 ## Campos do Formulário
 

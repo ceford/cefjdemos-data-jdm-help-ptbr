@@ -36,7 +36,7 @@ Para editar um Item de Menu:
 
 ## Captura de Tela
 
-![Lista de Categorias de Itens de Menu](../../../ptbr/imagens/itens-de-menu/lista-de-categorias-de-artigos-aba-de-detalhes.png)
+![Lista de Categorias de Itens de Menu](../../../ptbr/images/menu-items/articles-category-list-details-tab.png)
 
 ## Campos do Formulário
 

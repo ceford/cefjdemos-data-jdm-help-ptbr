@@ -20,7 +20,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Manutenção Limpar Cache](../../../ptbr/imagens/manutencao/manutencao-limpar-cache.png)
+![Manutenção Limpar Cache](../../../ptbr/images/maintenance/maintenance-clear-cache.png)
 
 ## Cabeçalhos da Coluna
 

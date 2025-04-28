@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![Aba Geral das Opções do Módulo](../../../pt_br/imagens/modulos/aba-de-opcoes-geral-do-modulo.png)
+![Aba Geral das Opções do Módulo](../../../ptbr/images/modules/module-options-general-tab.png)
 
 ## Campos do Formulário
 

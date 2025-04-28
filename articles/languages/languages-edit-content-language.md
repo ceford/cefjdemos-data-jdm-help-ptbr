@@ -17,7 +17,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Detalhes da guia de edição de idioma do conteúdo](../../../pt/imagens/idiomas/idiomas-editar-detalhes-do-idioma-do-conteudo.png)
+![Detalhes da guia de edição de idioma do conteúdo](../../../ptbr/images/languages/languages-edit-content-language-details-tab.png)
 
 ## Campos de Formulário
 

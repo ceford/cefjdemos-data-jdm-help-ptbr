@@ -18,7 +18,7 @@ Alguns aspectos desta página são cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Opções de Mídia](../../../ptbr/imagens/midia/opcoes-de-midia.png)
+![Opções de Mídia](../../../ptbr/images/media/media-options.png)
 
 ## Campos de Formulário
 

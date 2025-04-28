@@ -85,7 +85,7 @@ Observe que é uma prática comum colocar a pasta contendo sua extensão descomp
 
 ## Instalar da Guia URL
 
-![Instalar extensão da guia url](../../../ptbr/imagens/extensoes/instalar-da-url.png)
+![Instalar extensão da guia url](../../../ptbr/images/extensions/install-from-url.png)
 
 Em vez de baixar o arquivo do pacote para o seu computador local, basta
 especificar o URL do arquivo do pacote desejado. Em seguida, clique no botão "Verificar e Instalar" e o Joomla! o instalará automaticamente diretamente desse URL. *Observe que, com este método, você não terá uma cópia do arquivo do pacote no seu computador local.*

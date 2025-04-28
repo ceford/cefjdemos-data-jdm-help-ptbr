@@ -57,7 +57,7 @@ lista de Itens de Menu.
 
 ## Captura de Tela
 
-![Componentes do Item de Menu Container do Menu](../../../ptbr/images/menu-items/administrator-components-menu-container.png)
+![Componentes do Item de Menu Container do Menu](../../../en/images/menu-items/administrator-components-menu-container.png)
 
 ## Campos de Formulário
 

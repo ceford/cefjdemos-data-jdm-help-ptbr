@@ -6,7 +6,7 @@
 
 Plugin de sistema de arquivos para definir um ou vários diretórios locais para armazenar arquivos de mídia.
 
-![formulário do plugin do sistema de arquivos local](../../../ptbr/images/plugins/plugin-group-file-system-local.png)
+![formulário do plugin do sistema de arquivos local](../../../en/images/plugins/plugin-group-file-system-local.png)
 
 - Diretórios. Selecione ou adicione diretórios onde as imagens podem ser armazenadas.
 - Criar Miniaturas. Miniaturas de imagem são criadas no componente de Mídia em vez de mostrar a versão original. Essas miniaturas são armazenadas em cache, aumentando o desempenho especialmente quando muitas imagens são processadas.

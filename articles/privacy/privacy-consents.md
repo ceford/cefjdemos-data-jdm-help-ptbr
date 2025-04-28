@@ -19,7 +19,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![consentimentos de privacidade](../../../pt/images/privacy/consentimentos-de-privacidade.png)
+![consentimentos de privacidade](../../../ptbr/images/privacy/privacy-consents.png)
 
 ## Cabeçalhos da Coluna
 
