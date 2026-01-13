@@ -16,7 +16,7 @@ grupo com links para documentação separada:
 * [Grupo de Autenticação.](jdocmanual?article=help/plugins/plugin-group-authentication) (3 Plugins)
 * [Grupo de Comportamento.](jdocmanual?article=help/plugins/plugin-group-behavior) (3 Plugins)
 * [Grupo de Conteúdo.](jdocmanual?article=help/plugins/plugin-group-content) (10 Plugins)
-* [Grupo de Editores.](jdocmanual?article=help/plugins/plugin-group-editors) (3 Plugins)
+* [Grupo de Editores.](jdocmanual?article=help/plugins/plugin-group-editors-txt) (3 Plugins)
 * [Grupo de Botões Editor Xtd.](jdocmanual?article=help/plugins/plugin-group-editors-xtd) (8 Plugins)
 * [Grupo de Extensões.](jdocmanual?article=help/plugins/plugin-group-extensions) (3 Plugins)
 * [Grupo de Campos.](jdocmanual?article=help/plugins/plugin-group-fields) (16 Plugins)
