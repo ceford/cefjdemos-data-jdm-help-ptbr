@@ -21,7 +21,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de Plugins](../../../ptbr/images/plugins/plugins-list.png)
+![Lista de Plugins](../../../ptbr/images/plugins/plugins/01-plugins-list.png)
 
 ## Dicas
 

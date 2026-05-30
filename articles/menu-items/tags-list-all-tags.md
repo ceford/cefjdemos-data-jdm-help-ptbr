@@ -35,13 +35,13 @@ Para editar um item de menu Listar Todas as Tags existente:
 
 ## Captura de Tela
 
-![Lista Compacta de Itens Marcados, guia de detalhes](../../../ptbr/images/menu-items/tags-list-all-tags-details-tab.png)
+![Lista Compacta de Itens Marcados, guia de detalhes](../../../ptbr/images/menu-items/tags-list-all-tags/01-tags-list-all-tags-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba de Opções
 
-![Lista Compacta de Itens Marcados aba de detalhes](../../../ptbr/images/menu-items/tags-list-all-tags-options-tab.png)
+![Lista Compacta de Itens Marcados aba de detalhes](../../../ptbr/images/menu-items/tags-list-all-tags/02-tags-list-all-tags-options-tab.png)
 
 - **Número de Colunas** O número de colunas para organizar as tags.
   Note que este número pode não ser o exibido se 12 não for divisível
@@ -65,7 +65,7 @@ Para editar um item de menu Listar Todas as Tags existente:
 
 ### Aba de Opções de Seleção
 
-![Lista Compacta de Itens Marcados aba de detalhes](../../../ptbr/images/menu-items/tags-list-all-tags-selection-options-tab.png)
+![Lista Compacta de Itens Marcados aba de detalhes](../../../ptbr/images/menu-items/tags-list-all-tags/03-tags-list-all-tags-selection-options-tab.png)
 
 - **Máximo de Itens** O número máximo de resultados a serem retornados.
 - **Campo de Filtro** Mostrar ou ocultar o Campo de Filtro usado para filtrar

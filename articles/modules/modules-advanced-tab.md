@@ -6,7 +6,7 @@ A guia Módulo: Avançado é utilizada com pequenas variações em todos os form
 
 ## Captura de tela
 
-![Aba avançada dos módulos](../../../ptbr/images/modules/modules-custom-advanced-tab.png)
+![Aba avançada dos módulos](../../../ptbr/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
 
 ## Campos do Formulário
 

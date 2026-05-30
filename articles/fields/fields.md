@@ -54,7 +54,7 @@ Categoria e para Email no componente de Contato. Eles exigem alguma experiência
 
 ## Captura de Tela
 
-![Lista de campos dos artigos](../../../ptbr/images/fields/articles-fields-list.png)
+![Lista de campos dos artigos](../../../ptbr/images/fields/fields/01-articles-fields-list.png)
 
 Existem 16 tipos de campos disponíveis, cada um implementado como um plugin. É provável que mais tipos se tornem disponíveis no futuro.
 

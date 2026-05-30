@@ -15,7 +15,7 @@ Se o idioma do item de menu estiver definido como *Todos*, esta página mostrar�
 
 ## Captura de Tela
 
-![guia de associações de itens de menu](../../../ptbr/images/menu-items-common/menu-item-associations.png)
+![guia de associações de itens de menu](../../../ptbr/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
 
 ## Campos de Formulário
 

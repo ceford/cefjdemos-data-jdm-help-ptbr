@@ -33,7 +33,7 @@ Para editar um item de menu de Contato Único existente:
 
 ## Captura de Tela
 
-![Detalhes do contato único no item do menu](../../../ptbr/images/menu-items/contacts-single-contact-details-tab.png)
+![Detalhes do contato único no item do menu](../../../ptbr/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
 
 ## Campos do Formulário
 
@@ -46,7 +46,7 @@ Para editar um item de menu de Contato Único existente:
 
 As Opções de Exibição de Contato controlam a aparência do layout da lista.
 
-![Aba de exibição de contato único do item de menu](../../../ptbr/images/menu-items/contacts-single-contact-contact-display-options-tab.png)
+![Aba de exibição de contato único do item de menu](../../../ptbr/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
 
 - **Categoria de Contato** Mostrar ou ocultar a visualização da Categoria de Contato.
     As seguintes opções estão disponíveis.
@@ -84,7 +84,7 @@ As Opções de Exibição de Contato controlam a aparência do layout da lista.
 
 ### Opções de Email
 
-![Aba de opções de email de contato único do item de menu](../../../ptbr/images/menu-items/contacts-single-contact-mail-options-tab.png)
+![Aba de opções de email de contato único do item de menu](../../../ptbr/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
 
 - **Formulário de Contato** Mostrar ou ocultar o *formulário de contato* do contato.
 - **Enviar Cópia para o Remetente** Mostrar ou ocultar uma caixa de seleção

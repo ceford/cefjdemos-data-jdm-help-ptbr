@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![busca inteligente conteúdo indexado](../../../ptbr/images/smart-search/smart-search-indexed-content.png)
+![busca inteligente conteúdo indexado](../../../ptbr/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
 
 ## Criar um Índice
 

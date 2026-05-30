@@ -33,7 +33,7 @@ Para editar um item de menu de Pesquisa existente:
 
 ## Captura de Tela
 
-![Item de Menu Detalhes da Pesquisa Inteligente](../../../ptbr/images/menu-items/smart-search-search-details-tab.png)
+![Item de Menu Detalhes da Pesquisa Inteligente](../../../ptbr/images/menu-items/smart-search-search/01-smart-search-search-details-tab.png)
 
 ## Campos do Formulário
 
@@ -41,7 +41,7 @@ Se a opção *Usar Global* for selecionada para qualquer opção, o valor padrã
 
 ### Aba de Opções
 
-![Aba de opções de busca do item de menu Pesquisa Inteligente](../../../ptbr/images/menu-items/smart-search-search-options-tab.png)
+![Aba de opções de busca do item de menu Pesquisa Inteligente](../../../ptbr/images/menu-items/smart-search-search/02-smart-search-search-options-tab.png)
 
 - **Filtros de Data** Mostrar ou ocultar os filtros de data de início e término na Pesquisa Avançada.
 - **Pesquisa Avançada** Mostrar ou ocultar o elemento de Pesquisa Avançada.
@@ -54,7 +54,7 @@ Se a opção *Usar Global* for selecionada para qualquer opção, o valor padrã
 
 ### Aba Avançada
 
-![Aba avançada de busca do item de menu Pesquisa Inteligente](../../../ptbr/images/menu-items/smart-search-search-advanced-tab.png)
+![Aba avançada de busca do item de menu Pesquisa Inteligente](../../../ptbr/images/menu-items/smart-search-search/03-smart-search-search-advanced-tab.png)
 
 - **Exibir Seleção** Mostrar ou ocultar o controle Exibir \# que permite ao usuário selecionar o número de itens a serem mostrados na lista.
 - **Paginação** Mostrar ou ocultar o suporte à Paginação. A Paginação fornece links de página na parte inferior da página que permitem ao usuário navegar para páginas adicionais. Esses são necessários se os itens listados não couberem em uma página.

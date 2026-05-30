@@ -4,7 +4,7 @@
 
 Esses plugins fornecem dados de exemplo para o módulo de Dados de Exemplo que podem ser exibidos no Painel Inicial. Se um plugin estiver desativado, ele não aparecerá lá.
 
-![Painel de dados de exemplo no painel inicial](../../../en/images/plugins/plugin-group-sample-data.png)
+![Painel de dados de exemplo no painel inicial](../../../en/images/plugins/plugin-group-sample-data/01-plugin-group-sample-data.png)
 
 ### Dados de Exemplo - Blog
 

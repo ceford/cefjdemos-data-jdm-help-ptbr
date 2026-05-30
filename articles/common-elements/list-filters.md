@@ -8,7 +8,7 @@ Por exemplo, itens descartados geralmente não são exibidos por padrão. Se voc
 
 ## Opções de Filtro da Lista de Artigos¶
 
-![Lista de artigos](../../../ptbr/images/common-elements/articles-list-filter-options.png)
+![Lista de artigos](../../../ptbr/images/common-elements/list-filters/01-articles-list-filter-options.png)
 
 Para **exibir** ou **ocultar** as Opções, selecione o botão **Opções de Filtro**. Note que as Opções são sempre exibidas ao retornar a qualquer página em que uma Opção tenha sido selecionada.
 

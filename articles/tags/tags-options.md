@@ -18,7 +18,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![opções de tags aba itens marcados](../../../ptbr/images/tags/tags-options-tagged-items-tab.png)
+![opções de tags aba itens marcados](../../../ptbr/images/tags/tags-options/01-tags-options-tagged-items-tab.png)
 
 ## Campos do Formulário
 
@@ -55,7 +55,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba de Seleção de Itens
 
-![opções de tags aba seleção de itens](../../../ptbr/images/tags/tags-options-item-selection-tab.png)
+![opções de tags aba seleção de itens](../../../ptbr/images/tags/tags-options/02-tags-options-item-selection-tab.png)
 
 - **Comprimento Mínimo da Pesquisa** Esta configuração controla o comprimento
   mínimo de caracteres para a pesquisa e adição de tags usando o modo Ajax do
@@ -68,7 +68,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba Listar Todas as Tags
 
-![opções de tags aba listar todas as tags](../../../ptbr/images/tags/tags-options-list-all-tags-tab.png)
+![opções de tags aba listar todas as tags](../../../ptbr/images/tags/tags-options/03-tags-options-list-all-tags-tab.png)
 
 - **Layout Padrão para Listar Todas as Tags** Escolha um layout padrão para a
   lista de todas as tags.
@@ -83,7 +83,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba de Layout Compartilhado
 
-![opções de tags aba layout compartilhado](../../../ptbr/images/tags/tags-options-shared-layout-tab.png)
+![opções de tags aba layout compartilhado](../../../ptbr/images/tags/tags-options/04-tags-options-shared-layout-tab.png)
 
 - **Campo de Filtro** Determina se deve ser exibido um campo de Filtro para a lista.
   Selecione Ocultar para esconder o campo de filtro.
@@ -97,7 +97,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba de Entrada de Dados
 
-![opções de tags aba de entrada de dados](../../../ptbr/images/tags/tags-options-data-entry-tab.png)
+![opções de tags aba de entrada de dados](../../../ptbr/images/tags/tags-options/05-tags-options-data-entry-tab.png)
 
 - **Modo de Entrada de Tag** O modo Ajax busca a tag enquanto você digita e permite
   a criação de tags em tempo real. Tags aninhadas mostram uma visão aninhada com todas
@@ -105,7 +105,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba de Integração
 
-![opções de tags aba integração](../../../ptbr/images/tags/tags-options-integration-tab.png)
+![opções de tags aba integração](../../../ptbr/images/tags/tags-options/06-tags-options-integration-tab.png)
 
 - **Mostrar Link de Feed** Mostrar ou ocultar um Link de Feed RSS. (Um Link de Feed
   aparecerá como um ícone de feed na barra de endereço da maioria dos navegadores modernos).

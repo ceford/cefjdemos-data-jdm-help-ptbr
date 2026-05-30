@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![modules administrator dashboard menu module tab](../../../ptbr/images/modules-admin/modules-administrator-dashboard-menu-module-tab.png)
+![modules administrator dashboard menu module tab](../../../ptbr/images/modules-admin/admin-modules-administrator-dashboard-menu/01-modules-administrator-dashboard-menu-module-tab.png)
 
 
 ## Campos do Formulário

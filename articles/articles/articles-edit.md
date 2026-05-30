@@ -30,7 +30,7 @@ Painel Inicial.
 
 ## Captura de Tela
 
-![Captura de tela da edição de artigos](../../../ptbr/images/articles/articles-edit-content-tab.png)
+![Captura de tela da edição de artigos](../../../ptbr/images/articles/articles-edit/01-articles-edit-content-tab.png)
 
 
 ## Campos do Formulário
@@ -86,7 +86,7 @@ Painel Inicial.
 permissões de administrador. Ela permite a exibição de imagens e links em artigos usando
 layouts padronizados.
 
-![Aba de edição de imagens e links dos artigos](../../../ptbr/images/articles/articles-edit-images-tab.png)
+![Aba de edição de imagens e links dos artigos](../../../ptbr/images/articles/articles-edit/02-articles-edit-images-tab.png)
 
 #### Imagem de Introdução
 
@@ -147,7 +147,7 @@ layouts padronizados.
 Opções do Artigo. Trata-se de um conjunto de opções usadas para controlar como este
 artigo será exibido na interface do site.
 
-![Aba Opções](../../../ptbr/images/articles/articles-edit-options-tab.png)
+![Aba Opções](../../../ptbr/images/articles/articles-edit/03-articles-edit-options-tab.png)
 
 #### Layout
 
@@ -217,14 +217,14 @@ Esta seção mostra os campos personalizados que estão definidos para este arti
 são campos que não estão atribuídos a um Grupo de Campos. Cada Grupo de Campos, se definido,
 aparecerá como uma aba separada.
 
-![Aba Campos](../../../ptbr/images/articles/articles-edit-fields-tab.png)
+![Aba Campos](../../../ptbr/images/articles/articles-edit/04-articles-edit-fields-tab.png)
 
 ### Aba Configurar Tela de Edição
 
 **Nota:** Esta aba pode ser ocultada por um usuário com permissões de administrador nas
 Opções do Artigo.
 
-![Aba de configuração da tela de edição](../../../ptbr/images/articles/articles-edit-editor-tab.png)
+![Aba de configuração da tela de edição](../../../ptbr/images/articles/articles-edit/05-articles-edit-configure-edit-screen-tab.png)
 
 - **Opções de Publicação** Se Ocultar, a aba Opções de Publicação
   não será exibida no Backend. Isso significa que os usuários do Backend não

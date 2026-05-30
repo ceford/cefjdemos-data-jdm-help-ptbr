@@ -19,7 +19,7 @@ Alguns aspectos desta página são cobertos em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![Edição de detalhes do cliente nos banners](../../../ptbr/images/banners/banners-edit-client-details-tab.png)
+![Edição de detalhes do cliente nos banners](../../../ptbr/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
 
 ## Campos do Formulário
 
@@ -49,7 +49,7 @@ Alguns aspectos desta página são cobertos em artigos de Ajuda separados:
 
 ### Aba de Metadados
 
-![Aba de Metadados de Edição do Cliente de Banners](../../../ptbr/images/banners/banners-edit-client-metadata-tab.png)
+![Aba de Metadados de Edição do Cliente de Banners](../../../ptbr/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
 
 - **Palavras-Chave** Entrada opcional para palavras-chave. Devem ser
   inseridas separadas por vírgulas (por exemplo, "gatos, cães, pets") e

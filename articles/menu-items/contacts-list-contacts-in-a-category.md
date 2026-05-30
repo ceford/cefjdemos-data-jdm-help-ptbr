@@ -35,7 +35,7 @@ Para editar um item de menu Lista de Contatos em uma Categoria existente:
 
 ## Captura de Tela
 
-![Lista de Itens do Menu Contatos na aba de detalhes de uma Categoria](../../../ptbr/images/menu-items/contacts-list-contacts-in-a-category-details-tab.png)
+![Lista de Itens do Menu Contatos na aba de detalhes de uma Categoria](../../../ptbr/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
 
 ## Campos de Formulário
 
@@ -50,7 +50,7 @@ As Opções de Categoria controlam a forma como as informações da categoria
 são exibidas no layout. O Layout de Lista de Categoria possui as seguintes 
 Opções de Categoria, conforme mostrado abaixo.
 
-![Aba Categoria da Lista de Contatos em uma Categoria do Item de Menu](../../../ptbr/images/menu-items/contacts-list-contacts-in-a-category-category-tab.png)
+![Aba Categoria da Lista de Contatos em uma Categoria do Item de Menu](../../../ptbr/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
 
 - **Título da Categoria** Mostrar ou ocultar o Título da Categoria que
   será exibido como um subtítulo na página. O subtítulo geralmente é 
@@ -71,7 +71,7 @@ Opções de Categoria, conforme mostrado abaixo.
 ### Aba de Exibição de Contato
 
 Os campos de Exibição de Contato controlam a aparência do layout da lista.
-![Aba de Exibição de Contatos na Lista de Contatos de um Item de Menu](../../../ptbr/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Aba de Exibição de Contatos na Lista de Contatos de um Item de Menu](../../../ptbr/images/menu-items/contacts-list-contacts-in-a-category/03-contacts-featured-contacts-form-tab.png)
 
 - **Escolher um Layout** Selecione da lista de modelos.
 - **Categoria de Contato** Mostrar ou ocultar a visualização da categoria 
@@ -118,7 +118,7 @@ Os campos de Exibição de Contato controlam a aparência do layout da lista.
 As Opções de E-mail de Contato controlam a aparência de um → *Formulário 
 de Contato* se estiver habilitado.
 
-![Aba de Opções de E-mail da Lista de Contatos em uma Categoria do Item de Menu](../../../ptbr/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Aba de Opções de E-mail da Lista de Contatos em uma Categoria do Item de Menu](../../../ptbr/images/menu-items/contacts-list-contacts-in-a-category/04-contacts-featured-contacts-mail-options-tab.png)
 
 - **Formulário de Contato** Mostrar ou ocultar o *formulário de contato* 
   do contato.

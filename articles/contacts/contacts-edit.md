@@ -26,7 +26,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![Edição de contato - aba de contato](../../../ptbr/images/contacts/contacts-edit-contact-tab.png)
+![Edição de contato - aba de contato](../../../ptbr/images/contacts/contacts-edit/01-contacts-edit-contact-tab.png)
 
 ## Campos do Formulário
 
@@ -70,13 +70,13 @@ Aqui você insere as informações básicas sobre o contato.
 
 ### Aba Informações Diversas
 
-![Aba Editar Contato](../../../ptbr/images/contacts/contacts-edit-miscellaneous-tab.png)
+![Aba Editar Contato](../../../ptbr/images/contacts/contacts-edit/02-contacts-edit-miscellaneous-tab.png)
 
 Outras informações sobre este Contato podem ser inseridas usando o editor.
 
 ### Aba Exibição
 
-![Aba Editar Contato](../../../ptbr/images/contacts/contacts-edit-display-tab.png)
+![Aba Editar Contato](../../../ptbr/images/contacts/contacts-edit/03-contacts-edit-display-tab.png)
 
 - **Mostrar Categoria** Exibir ou ocultar a categoria do Contato.
 - **Mostrar Lista de Contatos** Exibir ou ocultar a lista de Contatos.
@@ -104,7 +104,7 @@ Outras informações sobre este Contato podem ser inseridas usando o editor.
 
 ### Aba Formulário
 
-![Aba Editar Contato](../../../ptbr/images/contacts/contacts-edit-form-tab.png)
+![Aba Editar Contato](../../../ptbr/images/contacts/contacts-edit/04-contacts-edit-form-tab.png)
 
 - **Formulário de Contato** Exibir ou ocultar o formulário de E-mail. Se Mostrar for selecionado, um formulário será exibido, permitindo que o usuário envie um e-mail para o Contato a partir do site.
 - **Enviar Cópia para o Remetente** Exibir ou ocultar a caixa de seleção: *Enviar uma cópia desta mensagem para seu próprio endereço.*

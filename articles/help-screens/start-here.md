@@ -4,7 +4,7 @@
 
 Para obter ajuda sobre uma página específica do administrador, dentro da interface do administrador do Joomla, você pode selecionar o botão de **Ajuda** na barra de ferramentas para mais informações sobre a página. Esse botão está localizado à direita da Barra de Ferramentas, logo abaixo da Barra de Títulos. Exemplo:
 
-![barra de ajuda](../../../ptbr/images/help-screens/start-here-top-bars.png)
+![barra de ajuda](../../../ptbr/images/help-screens/start-here/01-start-here-top-bars.png)
 
 Um diálogo modal aparecerá no meio da tela contendo informações de Ajuda específicas para essa página.
 

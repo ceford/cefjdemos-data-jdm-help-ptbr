@@ -19,7 +19,7 @@ Alguns aspectos desta página são cobertos em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Opções de Check-in](../../../ptbr/images/maintenance/check-in-options.png)
+![Opções de Check-in](../../../ptbr/images/maintenance/check-in-options/01-check-in-options.png)
 
 ## Dicas
 

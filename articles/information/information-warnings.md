@@ -12,7 +12,7 @@ conflitos em sua instalação ou falhas de dependência podem aparecer aqui.
 
 ## Captura de Tela
 
-![Avisos de Informação](../../../ptbr/images/information/warnings.png)
+![Avisos de Informação](../../../ptbr/images/information/information-warnings/01-warnings.png)
 
 ## Barra de Ferramentas
 

@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![edição de filtro de pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-edit-filter.png)
+![edição de filtro de pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-new-or-edit-filter/01-smart-search-edit-filter.png)
 
 ## Campos do Formulário
 
@@ -44,7 +44,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Aba de Opções
 
-![opções da aba de filtro de edição de busca inteligente](../../../ptbr/images/smart-search/smart-search-edit-filter-options-tab.png)
+![opções da aba de filtro de edição de busca inteligente](../../../ptbr/images/smart-search/smart-search-new-or-edit-filter/02-smart-search-edit-filter-options-tab.png)
 
 ### Painel de Publicação
 

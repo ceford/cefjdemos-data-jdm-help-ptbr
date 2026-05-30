@@ -22,7 +22,7 @@ Mais Informações: [Um Guia para Iniciantes sobre Teste de Bugs no Joomla](http
 
 ## Captura de Tela
 
-![Formulário de Opções do Patchtester](../../../ptbr/images/joomla-patchtester/patchtester-options-github-repository-tab.png)
+![Formulário de Opções do Patchtester](../../../ptbr/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
 
 ## Campos de Formulário
 
@@ -34,7 +34,7 @@ Mais Informações: [Um Guia para Iniciantes sobre Teste de Bugs no Joomla](http
 
 Você precisa de uma conta no GitHub e de um Token do GitHub. Tudo gratuito - veja a aba de Autenticação no GitHub para detalhes.
 
-![Opções do Patchtester aba de autenticação no github](../../../ptbr/images/joomla-patchtester/patchtester-options-github-authentication-tab.png)
+![Opções do Patchtester aba de autenticação no github](../../../ptbr/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
 
 - **Método de Autenticação do GitHub** Escolha o método Token. O método Credenciais não funcionará a partir de setembro de 2020.
 - **Token do GitHub** Cole o Token obtido no GitHub.
@@ -43,7 +43,7 @@ Você precisa de uma conta no GitHub e de um Token do GitHub. Tudo gratuito - ve
 
 Essas configurações são usadas para testes automatizados. Use os padrões para testes manuais.
 
-![Opções do Patchtester aba de configurações do servidor ci do github](../../../ptbr/images/joomla-patchtester/patchtester-options-ci-server-settings-tab.png)
+![Opções do Patchtester aba de configurações do servidor ci do github](../../../ptbr/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
 
 - **Endereço do Servidor CI** Padrão: `https://ci.joomla.org`
 - **Alternar Integração CI** Padrão: Desligado

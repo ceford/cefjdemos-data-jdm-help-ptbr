@@ -24,7 +24,7 @@ Selecione **Sistema** → **Gerenciar** Painel → **Módulos do Administrador**
 
 ## Captura de Tela
 
-![módulos abas do módulo de tours guiados](../../../ptbr/images/modules-admin/modules-guided-tours-module-tab.png)
+![módulos abas do módulo de tours guiados](../../../ptbr/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
 
 ## Campos de Formulário
 

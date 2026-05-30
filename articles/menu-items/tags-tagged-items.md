@@ -21,13 +21,13 @@ Para editar um item de menu Itens Marcados existente:
 
 ## Captura de tela
 
-![Etiqueta da aba de detalhes dos Itens Marcados](../../../ptbr/images/menu-items/tags-tagged-items-details-tab.png)
+![Etiqueta da aba de detalhes dos Itens Marcados](../../../ptbr/images/menu-items/tags-tagged-items/01-tags-tagged-items-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba de Opções de Tag
 
-![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items-tag-options-tab.png)
+![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items/02-tags-tagged-items-tag-options-tab.png)
 
 - **Nome da Tag** Mostrar ou ocultar o nome da tag para um layout com uma tag.
 - **Imagem da Tag** Mostrar ou ocultar a imagem da tag para um layout com uma tag.
@@ -41,7 +41,7 @@ Para editar um item de menu Itens Marcados existente:
 
 ### Aba de Opções de Item
 
-![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items-item-options-tab.png)
+![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items/03-tags-tagged-items-item-options-tab.png)
 
 - **Imagem do Item** Mostrar ou ocultar a imagem de cada item.
 - **Descrição do Item** Mostrar ou ocultar a descrição de cada item na lista.
@@ -50,7 +50,7 @@ Para editar um item de menu Itens Marcados existente:
 
 ### Aba de Opções de Paginação
 
-![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items-pagination-options-tab.png)
+![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items/04-tags-tagged-items-pagination-options-tab.png)
 
 - **Exibir Selecione** Mostrar ou ocultar o controle \# que permite ao usuário selecionar o número de itens a serem exibidos na lista. Note que, se você tiver um grande número de itens, pode ser útil usar as opções de Filtro para limitar quais itens serão exibidos.
 - **Paginação** Mostrar ou ocultar o suporte à Paginação. A Paginação fornece links de página na parte inferior da página que permitem ao usuário navegar até páginas adicionais.
@@ -58,7 +58,7 @@ Para editar um item de menu Itens Marcados existente:
 
 ### Aba de Opções de Seleção de Item
 
-![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items-item-selection-options-tab.png)
+![Aba de detalhes de itens marcados](../../../ptbr/images/menu-items/tags-tagged-items/05-tags-tagged-items-item-selection-options-tab.png)
 
 - **Tipo de Correspondência** "Todos" retornará itens que possuem todas as tags. "Qualquer" retornará itens que possuem pelo menos uma das tags.
 - **Tags Filhas** Incluir ou excluir tags filhas da lista de resultados para uma tag.

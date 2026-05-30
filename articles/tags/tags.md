@@ -22,7 +22,7 @@ Selecione **Componentes → Tags** no menu do Administrador.
 
 ## Captura de Tela
 
-![lista de tags](../../../ptbr/images/tags/tags-list.png)
+![lista de tags](../../../ptbr/images/tags/tags/01-tags-list.png)
 
 ## Dicas
 

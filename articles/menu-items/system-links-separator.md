@@ -30,7 +30,7 @@ Para editar um item de menu Separador existente:
 
 ## Captura de Tela
 
-![Alias do Item de Menu](../../../ptbr/images/menu-items/system-links-separator-details-tab.png)
+![Alias do Item de Menu](../../../ptbr/images/menu-items/system-links-separator/01-system-links-separator-details-tab.png)
 
 Todos os campos de entrada do formulário são abordados nos *Elementos Comuns*.
 

@@ -33,11 +33,11 @@ Para editar um item de menu existente de Opções de Modelo de Display:
 
 ## Captura de tela
 
-![Opções de Exibição da Template na aba de detalhes](../../../ptbr/images/menu-items/configuration-display-template-options-details.png)
+![Opções de Exibição da Template na aba de detalhes](../../../ptbr/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
 
 ## Captura de Tela do Front End
 
-![Exibir opções de template do formulário de front end](../../../en/images/menu-items/configuration-display-template-options-frontend.png)
+![Exibir opções de template do formulário de front end](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)
 
 *Traduzido por openai.com*
 

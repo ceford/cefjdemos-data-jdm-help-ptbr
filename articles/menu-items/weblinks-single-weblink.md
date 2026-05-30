@@ -32,7 +32,7 @@ Para editar um item de menu **Single Weblink** existente:
 
 ## Captura de Tela
 
-![Item de menu enviar um link da web](../../../ptbr/images/menu-items/weblinks-single-weblink-details-tab.png)
+![Item de menu enviar um link da web](../../../ptbr/images/menu-items/weblinks-single-weblink/01-weblinks-single-weblink-details-tab.png)
 
 Todos os campos de entrada do formulário são abordados nos *Elementos Comuns*.
 

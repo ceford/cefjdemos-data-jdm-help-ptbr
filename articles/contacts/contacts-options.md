@@ -19,7 +19,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Captura de tela das opções de contatos](../../../ptbr/images/contacts/contacts-options-contact-tab.png)
+![Captura de tela das opções de contatos](../../../ptbr/images/contacts/contacts-options/01-contacts-options-contact-tab.png)
 
 ## Campos de Formulário
 
@@ -76,7 +76,7 @@ Estas configurações aplicam-se a um único Contato, a menos que sejam alterada
 
 ### Aba Ícones
 
-![Aba de ícones das opções de contatos](../../../ptbr/images/contacts/contacts-options-icons-tab.png)
+![Aba de ícones das opções de contatos](../../../ptbr/images/contacts/contacts-options/02-contacts-options-icons-tab.png)
 
 Estas configurações aplicam-se a um único Contato, a menos que sejam alteradas para um item de menu específico ou Contato.
 
@@ -94,7 +94,7 @@ Estas configurações aplicam-se a um único Contato, a menos que sejam alterada
 
 Opções de Categoria controlam como os contatos serão exibidos quando você acessa uma Categoria para visualizar seus contatos.
 
-![Aba de categoria das opções de contatos](../../../ptbr/images/contacts/contacts-options-category-tab.png)
+![Aba de categoria das opções de contatos](../../../ptbr/images/contacts/contacts-options/03-contacts-options-category-tab.png)
 
 - **Escolha um Layout** (Blog/Lista/definido pelo usuário). Isso permite que você selecione o layout padrão a ser exibido quando você clica em um link de Categoria. Se você criar um layout alternativo para uma categoria, pode selecionar isso como padrão.
 - **Título da Categoria** Exibe ou oculta o título da categoria.
@@ -111,13 +111,13 @@ Opções de Categoria controlam como os contatos serão exibidos quando você ac
 
 Estas configurações aplicam-se às Opções de Categorias de Contato, a menos que sejam alteradas para um item de menu específico.
 
-![Aba de categorias das opções de contatos](../../../ptbr/images/contacts/contacts-options-categories-tab.png)
+![Aba de categorias das opções de contatos](../../../ptbr/images/contacts/contacts-options/04-contacts-options-categories-tab.png)
 
 ### Aba Layouts de Lista
 
 Estas configurações aplicam-se às Opções de Lista de Contatos, a menos que sejam alteradas para um item de menu específico.
 
-![Aba de layouts de lista das opções de contatos](../../../ptbr/images/contacts/contacts-options-list-layouts-tab.png)
+![Aba de layouts de lista das opções de contatos](../../../ptbr/images/contacts/contacts-options/05-contacts-options-list-layouts-tab.png)
 
 - **Campo de Filtro** O Campo de Filtro cria um campo de texto onde um usuário
   pode inserir um campo a ser usado para filtrar os artigos exibidos na lista.
@@ -153,7 +153,7 @@ Estas configurações aplicam-se às Opções de Lista de Contatos, a menos que 
 
 Estas configurações aplicam-se a um único Contato, a menos que sejam alteradas para um item de menu específico ou Contato.
 
-![Aba formulário das opções de contatos](../../../ptbr/images/contacts/contacts-options-form-tab.png)
+![Aba formulário das opções de contatos](../../../ptbr/images/contacts/contacts-options/06-contacts-options-form-tab.png)
 
 - **Permitir Captcha no Contato** Usar Padrão ou Nenhum Selecionado. Selecione o
   plugin de captcha que será usado no formulário de contato. Captcha é o

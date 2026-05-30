@@ -19,7 +19,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Opções de pesquisa inteligente, guia de pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-options-smart-search-tab.png)
+![Opções de pesquisa inteligente, guia de pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-options/01-smart-search-options-smart-search-tab.png)
 
 ## Campos de Formulário
 
@@ -60,7 +60,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba Índice
 
-![opções de índices de pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-options-index-tab.png)
+![opções de índices de pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-options/02-smart-search-options-index-tab.png)
 
 - **Pesquisar Frases** Desativado para melhorar o desempenho ou ativado para
   melhorar a qualidade dos resultados.

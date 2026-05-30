@@ -24,7 +24,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![aba do módulo breadcrumbs](../../../ptbr/images/modules-site/modules-breadcrumbs-module-tab.png)
+![aba do módulo breadcrumbs](../../../ptbr/images/modules-site/site-modules-breadcrumbs/01-modules-breadcrumbs-module-tab.png)
 
 ## Campos de Formulário
 

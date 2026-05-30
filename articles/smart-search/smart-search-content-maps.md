@@ -35,7 +35,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![mapas de conteúdo da pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-content-maps.png)
+![mapas de conteúdo da pesquisa inteligente](../../../ptbr/images/smart-search/smart-search-content-maps/01-smart-search-content-maps.png)
 
 ## Cabeçalhos de Coluna
 

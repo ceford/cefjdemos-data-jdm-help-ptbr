@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![mapas de conteúdo de busca inteligente](../../../ptbr/images/smart-search/smart-search-search-filters.png)
+![mapas de conteúdo de busca inteligente](../../../ptbr/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)
 
 
 *Traduzido por openai.com*

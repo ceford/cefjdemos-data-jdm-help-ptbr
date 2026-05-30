@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de atualização de extensões](../../../ptbr/images/extensions/update-list.png)
+![Lista de atualização de extensões](../../../ptbr/images/extensions/extensions-update/01-update-list.png)
 
 ## Dicas
 

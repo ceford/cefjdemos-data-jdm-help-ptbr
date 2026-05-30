@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Captura de tela da lista de artigos em destaque](../../../pt/images/articles/articles-featured-list.png)
+![Captura de tela da lista de artigos em destaque](../../../pt/images/articles/articles-featured/01-articles-featured-list.png)
 
 ## Dicas
 

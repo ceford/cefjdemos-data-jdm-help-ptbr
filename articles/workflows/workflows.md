@@ -30,7 +30,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![lista de fluxos de trabalho](../../../ptbr/images/workflows/workflows-list.png)
+![lista de fluxos de trabalho](../../../ptbr/images/workflows/workflows/01-workflows-list.png)
 
 ## Cabeçalhos de Colunas
 

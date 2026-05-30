@@ -33,7 +33,7 @@ Para editar um item de menu de Feeds de Notícias Único existente:
 
 ## Captura de Tela
 
-![Detalhes da aba de um item de menu com feed de notícias único](../../../ptbr/images/menu-items/news-feeds-single-news-feed-details-tab.png)
+![Detalhes da aba de um item de menu com feed de notícias único](../../../ptbr/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
 
 ## Campos de Formulário
 
@@ -43,7 +43,7 @@ Para editar um item de menu de Feeds de Notícias Único existente:
 
 ### Guia de Opções de Exibição de Feed
 
-![Guia de detalhes do item do menu feed de notícias único](../../../ptbr/images/menu-items/news-feeds-single-news-feed-feed-display-options-tab.png)
+![Guia de detalhes do item do menu feed de notícias único](../../../ptbr/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
 
 Além das opções Sim/Não ou Ocultar/Mostrar, essas opções permitem a configuração "Usar Global". Isso utiliza o valor padrão da tela de Opções de Feeds de Notícias.
 

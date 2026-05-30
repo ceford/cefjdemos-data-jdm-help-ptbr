@@ -34,7 +34,7 @@ Para editar um item de menu Confirmar Solicitação existente:
 
 ## Captura de Tela
 
-![Detalhes da Solicitação de Confirmação de Privacidade do Item de Menu](../../../ptbr/images/menu-items/privacy-confirm-request-details-tab.png)
+![Detalhes da Solicitação de Confirmação de Privacidade do Item de Menu](../../../ptbr/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
 
 Todos os campos de entrada do formulário estão cobertos nos *Elementos Comuns*.
 

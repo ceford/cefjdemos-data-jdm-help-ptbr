@@ -24,7 +24,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Mídia](../../../ptbr/images/media/media.png)
+![Mídia](../../../ptbr/images/media/media/01-media.png)
 
 ## Área de Exibição de Imagens
 

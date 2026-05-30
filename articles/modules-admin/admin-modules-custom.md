@@ -28,7 +28,7 @@ Sure, here is the translation:
 
 ## Captura de Tela
 
-![últimos artigos de módulos na aba](../../../ptbr/images/modules-admin/modules-custom-module-tab.png)
+![últimos artigos de módulos na aba](../../../ptbr/images/modules-admin/admin-modules-custom/01-modules-custom-module-tab.png)
 
 ## Campos do Formulário
 

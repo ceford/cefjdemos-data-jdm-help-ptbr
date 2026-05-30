@@ -63,7 +63,7 @@ normal para instalar uma Extensão Joomla! é o seguinte:
 
 ## Guia de Envio de Arquivo do Pacote
 
-![Aba de envio de arquivo do pacote de instalação da extensão](../../../ptbr/images/extensions/install-upload-package-file.png)
+![Aba de envio de arquivo do pacote de instalação da extensão](../../../ptbr/images/extensions/extensions-install/01-install-upload-package-file.png)
 
 - Arraste e solte ou navegue até o local onde você baixou o arquivo de
   arquivo da extensão.
@@ -74,7 +74,7 @@ definido para sua instalação. Se você não puder aumentar esse valor, pode us
 
 ## Instalar a partir da Aba de Pasta
 
-![Instalação da extensão a partir da aba de pasta](../../../ptbr/images/extensions/install-from-folder.png)
+![Instalação da extensão a partir da aba de pasta](../../../ptbr/images/extensions/extensions-install/02-install-from-folder.png)
 
 1. Crie um diretório temporário no seu disco rígido local e descompacte o arquivo de arquivo da Extensão neste diretório temporário.
 2. Usando FTP, faça o upload do conteúdo deste diretório (incluindo arquivos e subdiretórios) para um diretório no seu servidor.
@@ -85,7 +85,7 @@ Observe que é uma prática comum colocar a pasta contendo sua extensão descomp
 
 ## Instalar da Guia URL
 
-![Instalar extensão da guia url](../../../ptbr/images/extensions/install-from-url.png)
+![Instalar extensão da guia url](../../../ptbr/images/extensions/extensions-install/03-install-from-url.png)
 
 Em vez de baixar o arquivo do pacote para o seu computador local, basta
 especificar o URL do arquivo do pacote desejado. Em seguida, clique no botão "Verificar e Instalar" e o Joomla! o instalará automaticamente diretamente desse URL. *Observe que, com este método, você não terá uma cópia do arquivo do pacote no seu computador local.*
@@ -94,7 +94,7 @@ especificar o URL do arquivo do pacote desejado. Em seguida, clique no botão "V
 
 Para instalar uma extensão diretamente do Diretório de Extensões do Joomla (JED). Você pode selecionar extensões para listar por Categoria ou pode pesquisar por nome parcial.
 
-![Instalação da extensão a partir da guia web](../../../ptbr/images/extensions/install-from-web.png)
+![Instalação da extensão a partir da guia web](../../../ptbr/images/extensions/extensions-install/04-install-from-web.png)
 
 ## Dicas
 

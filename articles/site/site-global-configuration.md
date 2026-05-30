@@ -19,7 +19,7 @@ menu do Administrador.
 
 ## Captura de Tela
 
-![guia de configuração global do site](../../../ptbr/images/site/global-configuration-site-tab.png)
+![guia de configuração global do site](../../../ptbr/images/site/site-global-configuration/01-global-configuration-site-tab.png)
 
 ## Campos de Formulário
 
@@ -77,7 +77,7 @@ menu do Administrador.
 
 ### Aba Sistema
 
-![aba de configuração global do sistema](../../../ptbr/images/site/global-configuration-system-tab.png)
+![aba de configuração global do sistema](../../../ptbr/images/site/site-global-configuration/02-global-configuration-system-tab.png)
 
 #### Painel de Depuração
 
@@ -111,7 +111,7 @@ menu do Administrador.
 
 ### Aba Servidor
 
-![aba de configuração global do servidor](../../../ptbr/images/site/global-configuration-server-tab.png)
+![aba de configuração global do servidor](../../../ptbr/images/site/site-global-configuration/03-global-configuration-server-tab.png)
 
 #### Painel do Servidor
 
@@ -182,7 +182,7 @@ menu do Administrador.
 
 ### Aba de Log
 
-![aba de configuração global de log](../../../ptbr/images/site/global-configuration-logging-tab.png)
+![aba de configuração global de log](../../../ptbr/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
 
 #### Painel de Log
 
@@ -198,7 +198,7 @@ menu do Administrador.
 
 ### Aba Filtros de Texto
 
-![aba de configuração global de filtros de texto](../../../ptbr/images/site/global-configuration-text-filters-tab.png)
+![aba de configuração global de filtros de texto](../../../ptbr/images/site/site-global-configuration/05-global-configuration-text-filters-tab.png)
 
 Essas configurações de filtro de texto serão aplicadas a todos os campos do editor de texto enviados pelos usuários nos grupos selecionados.
 

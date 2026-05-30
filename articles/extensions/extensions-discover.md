@@ -47,7 +47,7 @@ Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de extensões descobertas](../../../ptbr/images/extensions/discover-list.png)
+![Lista de extensões descobertas](../../../ptbr/images/extensions/extensions-discover/01-discover-list.png)
 
 ## Cabeçalhos de Coluna
 

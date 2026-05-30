@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![usuários e grupos](../../../ptbr/images/users/users-groups-list.png)
+![usuários e grupos](../../../ptbr/images/users/users-groups/01-users-groups-list.png)
 
 ## Dicas
 

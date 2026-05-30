@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![módulos guia do módulo de verificação de status de privacidade](../../../ptbr/images/modules-admin/modules-privacy-status-check-module-tab.png)
+![módulos guia do módulo de verificação de status de privacidade](../../../ptbr/images/modules-admin/admin-modules-privacy-status-check/01-modules-privacy-status-check-module-tab.png)
 
 ## Campos do Formulário
 

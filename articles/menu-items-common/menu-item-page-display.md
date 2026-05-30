@@ -12,7 +12,7 @@ Todos os itens do menu têm um layout semelhante, mas alguns dos campos do formu
 
 ## Captura de tela
 
-![aba de exibição da página do item de menu](../../../ptbr/images/menu-items-common/menu-item-page-display.png)
+![aba de exibição da página do item de menu](../../../ptbr/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
 
 ## Campos do Formulário
 

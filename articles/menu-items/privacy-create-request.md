@@ -33,7 +33,7 @@ Para editar um item de menu Criar Solicitação existente:
 
 ## Captura de Tela
 
-![Item de Menu "Detalhes da Solicitação de Privacidade"](../../../ptbr/images/menu-items/privacy-create-request-details-tab.png)
+![Item de Menu "Detalhes da Solicitação de Privacidade"](../../../ptbr/images/menu-items/privacy-create-request/01-privacy-create-request-details-tab.png)
 
 Todos os campos de entrada do formulário estão cobertos nos *Elementos Comuns*.
 

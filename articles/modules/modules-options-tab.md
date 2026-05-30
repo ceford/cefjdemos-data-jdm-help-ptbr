@@ -6,7 +6,7 @@ A aba *Módulos: Opções* é usada com pequenas variações em todos os formul�
 
 ## Captura de Tela
 
-![Aba avançada de módulos](../../../ptbr/images/modules/modules-custom-options-tab.png)
+![Aba avançada de módulos](../../../ptbr/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
 
 ## Campos do Formulário
 

@@ -32,7 +32,7 @@ Para editar um item de menu Formulário de Registro existente:
 
 ## Captura de Tela
 
-![Aba de detalhes do formulário de registro](../../../ptbr/images/menu-items/users-registration-form-details-tab.png)
+![Aba de detalhes do formulário de registro](../../../ptbr/images/menu-items/users-registration-form/01-users-registration-form-details-tab.png)
 
 Todos os campos de entrada do formulário são abordados nos *Elementos Comuns*.
 

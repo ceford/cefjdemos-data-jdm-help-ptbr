@@ -36,7 +36,7 @@ Para editar um item de menu *Redefinição de Senha* existente:
 
 ## Captura de Tela
 
-![Detalhes da redefinição de senha](../../../ptbr/images/menu-items/users-password-reset-details-tab.png)
+![Detalhes da redefinição de senha](../../../ptbr/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
 
 Todos os campos de entrada do formulário estão cobertos nos *Elementos Comuns*.
 

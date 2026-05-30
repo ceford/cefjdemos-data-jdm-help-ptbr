@@ -34,7 +34,7 @@ Para editar um item de menu Criar Contato existente:
 
 ## Captura de Tela
 
-![Item do Menu Criar Contato](../../../ptbr/images/menu-items/contacts-create-contact-details-tab.png)
+![Item do Menu Criar Contato](../../../ptbr/images/menu-items/contacts-create-contact/01-contacts-create-contact-details-tab.png)
 
 ## Campos do Formulário
 

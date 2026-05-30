@@ -28,7 +28,7 @@ Existem duas maneiras de acessar a página de lista de Artigos:
 
 ## Captura de Tela
 
-![Lista de artigos](../../../ptbr/images/articles/articles-list.png)
+![Lista de artigos](../../../ptbr/images/articles/articles/01-articles-list.png)
 
 ## Cabeçalhos de Coluna
 

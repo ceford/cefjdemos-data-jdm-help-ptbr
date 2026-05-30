@@ -19,7 +19,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![manutenção check-in global](../../../ptbr/images/maintenance/maintenance-global-check-in.png)
+![manutenção check-in global](../../../ptbr/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
 
 ## Dicas
 

@@ -22,7 +22,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![opções de modelos guia de modelos](../../../ptbr/images/templates/templates-options-templates-tab.png)
+![opções de modelos guia de modelos](../../../ptbr/images/templates/template-options/01-templates-options-templates-tab.png)
 
 ## Campos do Formulário
 

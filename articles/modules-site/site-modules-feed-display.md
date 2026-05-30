@@ -27,7 +27,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![aba do módulo de exibição de feed](../../../ptbr/images/modules-site/modules-feed-display-module-tab.png)
+![aba do módulo de exibição de feed](../../../ptbr/images/modules-site/site-modules-feed-display/01-modules-feed-display-module-tab.png)
 
 ## Campos do Formulário
 

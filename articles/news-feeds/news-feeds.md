@@ -21,7 +21,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de feeds de notícias](../../../ptbr/images/news-feeds/news-feeds-list.png)
+![Lista de feeds de notícias](../../../ptbr/images/news-feeds/news-feeds/01-news-feeds-list.png)
 
 *Traduzido por openai.com*
 

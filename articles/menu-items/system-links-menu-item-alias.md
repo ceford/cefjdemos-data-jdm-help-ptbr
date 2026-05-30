@@ -33,7 +33,7 @@ Para editar um Item de Menu existente:
 
 ## Captura de Tela
 
-![Alias do Item de Menu](../../../ptbr/images/menu-items/system-links-menu-item-alias-details-tab.png)
+![Alias do Item de Menu](../../../ptbr/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
 
 Todos os campos de entrada do formulário estão cobertos em *Elementos Comuns*.
 

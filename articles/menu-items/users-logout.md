@@ -33,13 +33,13 @@ Para editar um item de menu Logout existente:
 
 ## Captura de Tela
 
-![Aba de detalhes de logout](../../../ptbr/images/menu-items/users-logout-details-tab.png)
+![Aba de detalhes de logout](../../../ptbr/images/menu-items/users-logout/01-users-logout-details-tab.png)
 
 ## Campos de Formulário
 
 ### Aba de Opções
 
-![Aba de opções de logout](../../../ptbr/images/menu-items/users-logout-options-tab.png)
+![Aba de opções de logout](../../../ptbr/images/menu-items/users-logout/02-users-logout-options-tab.png)
 
 - **Página de Redirecionamento de Logout** Selecione ou crie a página para a qual 
   o usuário será redirecionado após encerrar a sessão atual fazendo logout. O padrão 

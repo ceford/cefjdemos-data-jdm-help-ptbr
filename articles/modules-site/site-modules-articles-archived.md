@@ -26,7 +26,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![aba do módulo de artigos arquivados](../../../ptbr/images/modules-site/modules-articles-archived-module-tab.png)
+![aba do módulo de artigos arquivados](../../../ptbr/images/modules-site/site-modules-articles-archived/01-modules-articles-archived-module-tab.png)
 
 ## Campos do Formulário
 

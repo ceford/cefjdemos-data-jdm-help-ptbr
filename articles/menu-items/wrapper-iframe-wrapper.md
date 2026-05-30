@@ -33,13 +33,13 @@ Para editar um item de menu *IFrame Wrapper* existente:
 
 ## Captura de Tela
 
-![Aba de detalhes do wrapper iframe](../../../ptbr/images/menu-items/wrapper-iframe-wrapper-details-tab.png)
+![Aba de detalhes do wrapper iframe](../../../ptbr/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba de Parâmetros da Barra de Rolagem
 
-![Aba de parâmetros da barra de rolagem do wrapper do Iframe](../../../ptbr/images/menu-items/wrapper-scroll-bar-parameters-tab.png)
+![Aba de parâmetros da barra de rolagem do wrapper do Iframe](../../../ptbr/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
 
 - **Largura** Largura da Janela do IFrame. Insira um número de pixels ou uma
   porcentagem. Por exemplo, *550* significa 550 pixels; *75%* significa 75% da
@@ -50,7 +50,7 @@ Para editar um item de menu *IFrame Wrapper* existente:
 
 ### Aba Avançada
 
-![Aba avançada do wrapper do Iframe](../../../ptbr/images/menu-items/wrapper-advanced-tab.png)
+![Aba avançada do wrapper do Iframe](../../../ptbr/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
 
 - **Altura automática** Define automaticamente a altura para a altura da página externa.
   *Nota* - isso só funcionará se a página externa estiver no **mesmo

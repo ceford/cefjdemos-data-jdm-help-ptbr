@@ -19,7 +19,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Guia de Opções de Banners do Cliente](../../../ptbr/images/banners/banners-options-client-tab.png)
+![Guia de Opções de Banners do Cliente](../../../ptbr/images/banners/banners-options/01-banners-options-client-tab.png)
 
 ## Campos do Formulário
 
@@ -35,7 +35,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 Esta seção permite que você defina as opções de histórico de versões para Banners, Clientes de Banners e Categorias de Banners.
 
-![Aba histórico de opções de Banners](../../../ptbr/images/banners/banners-options-history-tab.png)
+![Aba histórico de opções de Banners](../../../ptbr/images/banners/banners-options/02-banners-options-history-tab.png)
 
 - **Habilitar Versões** Indica se deve ou não salvar o histórico de versões para este componente. Se Não, o histórico de versões não será salvo para os itens do componente ou para as categorias deste componente.
 - **Número Máximo de Versões** O número máximo de versões a serem armazenadas para um item. Se um item for salvo e o número máximo de versões tiver sido atingido, a versão mais antiga será excluída automaticamente. Se configurado para 0, as versões nunca serão excluídas automaticamente. Além disso, versões específicas podem ser marcadas como *Manter Para Sempre* e não serão excluídas automaticamente. Observe que as versões podem ser excluídas manualmente usando o botão Excluir na tela de Histórico de Versões.

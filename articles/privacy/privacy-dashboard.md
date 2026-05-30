@@ -18,7 +18,7 @@ A página de *Painel de Privacidade* lista o Tipo de Solicitação de Privacidad
 
 ## Captura de Tela
 
-![painel de privacidade](../../../ptbr/images/privacy/privacy-dashboard.png)
+![painel de privacidade](../../../ptbr/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
 
 ## Painéis de Dashboard
 

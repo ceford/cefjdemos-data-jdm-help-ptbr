@@ -28,7 +28,7 @@ Alguns elementos desta página são cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![guia do módulo de quem está online](../../../ptbr/images/modules-site/modules-whos-online-module-tab.png)
+![guia do módulo de quem está online](../../../ptbr/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
 
 ## Campos do Formulário
 

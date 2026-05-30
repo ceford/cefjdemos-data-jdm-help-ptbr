@@ -28,7 +28,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![aba do módulo de troca de idioma](../../../ptbr/images/modules-site/modules-language-switcher-module-tab.png)
+![aba do módulo de troca de idioma](../../../ptbr/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
 
 ## Campos do Formulário
 

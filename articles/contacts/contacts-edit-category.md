@@ -27,7 +27,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Contatos editar aba de categoria](../../../ptbr/images/contacts/contacts-edit-category-category-tab.png)
+![Contatos editar aba de categoria](../../../ptbr/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
 
 
 ## Campos de Formulário

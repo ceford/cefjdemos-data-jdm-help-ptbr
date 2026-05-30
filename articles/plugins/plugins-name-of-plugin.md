@@ -54,7 +54,7 @@ Começando pelo menu do Administrador:
 
 ## Captura de Tela
 
-![Aba de plugins](../../../ptbr/images/plugins/plugins-plugin-tab.png)
+![Aba de plugins](../../../ptbr/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
 
 ## Campos do Formulário
 

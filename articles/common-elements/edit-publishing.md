@@ -15,7 +15,7 @@ mesma descrição. Isso poderia ter um efeito adverso no SEO.
 
 A aba de Publicação de Artigos:
 
-![A aba de edição de publicação de artigos](../../../ptbr/images/common-elements/articles-edit-publishing-tab.png)
+![A aba de edição de publicação de artigos](../../../ptbr/images/common-elements/edit-publishing/01-articles-edit-publishing-tab.png)
 
 A maioria dos campos de formulário tem valores padrão que permitem que o item seja salvo. Você pode querer tomar as medidas apropriadas para os seguintes campos:
 

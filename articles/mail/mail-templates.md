@@ -21,7 +21,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de Modelos de E-mail](../../../ptbr/images/mail/mail-templates.png)
+![Lista de Modelos de E-mail](../../../ptbr/images/mail/mail-templates/01-mail-templates.png)
 
 ## Cabeçalhos das Colunas
 

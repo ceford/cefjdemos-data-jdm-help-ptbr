@@ -19,7 +19,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Lista de faixas de banners](../../../ptbr/images/banners/banners-tracks-list.png)
+![Lista de faixas de banners](../../../ptbr/images/banners/banners-tracks/01-banners-tracks-list.png)
 
 ## Cabeçalhos de Coluna
 

@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![Aba Geral das Opções do Módulo](../../../ptbr/images/modules/module-options-general-tab.png)
+![Aba Geral das Opções do Módulo](../../../ptbr/images/modules/module-options/01-module-options-general-tab.png)
 
 ## Campos do Formulário
 
@@ -38,7 +38,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
   O formulário de edição de módulos do Administrador geralmente não exibe o seletor de Idioma. Portanto, um módulo não pode ser restrito a um idioma específico. Com esta opção definida como *Sim*, o seletor de idioma é exibido no formulário de edição do módulo e pode ser usado para restringir a visibilidade de um módulo do Administrador a um único idioma.
 
-![Aba geral de opções de módulo](../../../ptbr/images/modules/module-options-administrator-modules-tab.png)
+![Aba geral de opções de módulo](../../../ptbr/images/modules/module-options/02-module-options-administrator-modules-tab.png)
 
 ## Dicas
 

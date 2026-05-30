@@ -21,7 +21,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![permissões de usuários para o grupo](../../../ptbr/images/users/users-permissions-for-group.png)
+![permissões de usuários para o grupo](../../../ptbr/images/users/permissions-for-group/01-users-permissions-for-group.png)
 
 Acima da tabela de Permissões, estão os itens selecionados, mostrando permissões de acesso usando ícones para *Permitido*, *Não Permitido* e *Proibido*. A chave dos ícones está abaixo da tabela.
 

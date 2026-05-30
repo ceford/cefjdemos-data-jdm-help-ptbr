@@ -8,7 +8,7 @@ Plugins de editor ajudam usuários a inserir texto com marcação ou layouts par
 
 O editor CodeMirror é um editor de código que fornece um editor mais adequado para código-fonte. Ele possui realce de sintaxe de código para muitas linguagens de programação. Ele pode mostrar tags incompatíveis e também ajudar a manter a indentação de código consistente.
 
-![Opções do CodeMirror](../../../en/images/plugins/plugin-group-editor-codemirror.png)
+![Opções do CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/01-plugin-group-editor-codemirror.png)
 
 - **Listar números** Exibe números de linha no editor.
 - **Dobramento de Código** Permite dobrar blocos de código.
@@ -23,7 +23,7 @@ O editor CodeMirror é um editor de código que fornece um editor mais adequado 
 - **Alternar para Tela Cheia** Seleciona a tecla de função para usar para alternar para o modo de tela cheia.
 - **Usar Modificadores** Seleciona qualquer tecla modificadora para usar com a tecla de alternar para tela cheia.
 
-![Opções avançadas do CodeMirror](../../../en/images/plugins/plugin-group-editor-codemirror-advanced.png)
+![Opções avançadas do CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/02-plugin-group-editor-codemirror-advanced.png)
 
 - **Tema** Define as cores para o editor.
 - **Cor da Linha Ativa** A cor a ser usada para destacar a linha ativa. Será exibida com 50% de opacidade.
@@ -42,7 +42,7 @@ Este plugin carrega um editor de texto básico. Esta opção pode ser usada quan
 
 O editor TinyMCE é um editor WYSIWYG e é o editor padrão para entrada de HTML no Joomla!.
 
-![Opções do plugin TinyMCE](../../../en/images/plugins/plugin-group-editor-tinymce.png)
+![Opções do plugin TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/03-plugin-group-editor-tinymce.png)
 
 - **Selecionar aba de seleção** Selecione *Set 2*, *Set 1* ou *Set 0* funcionalidade. Com *Set 2* selecionado, você vê o editor para uso *Público*. *Set 1* selecionado é o padrão para Gerentes e Registrados, *Set 0* selecionado é o padrão para Administradores, Editores e Super Usuários.
 
@@ -77,7 +77,7 @@ Cada aba tem uma longa lista de opções que não são ilustradas aqui. A lista 
 
 #### Aba Avançada do TinyMCE
 
-![Opções Avançadas do TinyMCE](../../../en/images/plugins/plugin-group-editor-tinymce-advanced.png)
+![Opções Avançadas do TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/04-plugin-group-editor-tinymce-advanced.png)
 
 - **Número de Conjuntos** Número de conjuntos que podem ser criados. Mínimo 3.
 - **Altura do HTML** A altura, em pixels, da janela pop-up do modo HTML.

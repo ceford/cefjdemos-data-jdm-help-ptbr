@@ -26,7 +26,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![módulo de tags populares](../../../ptbr/images/modules-site/modules-tags-popular-module-tab.png)
+![módulo de tags populares](../../../ptbr/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
 
 ## Campos do Formulário
 

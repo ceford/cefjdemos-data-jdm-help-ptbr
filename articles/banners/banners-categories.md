@@ -32,7 +32,7 @@ Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de categorias de banners](../../../ptbr/images/banners/banners-categories-list.png)
+![Lista de categorias de banners](../../../ptbr/images/banners/banners-categories/01-banners-categories-list.png)
 
 ## Dicas
 

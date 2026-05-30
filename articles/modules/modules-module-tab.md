@@ -6,7 +6,7 @@ A aba *Módulos: Módulo* está presente em todos os formulários de edição de
 
 ## Captura de Tela
 
-![logs de ação aba do módulo mais recente](../../../ptbr/images/modules/modules-custom-module-tab.png)
+![logs de ação aba do módulo mais recente](../../../ptbr/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
 
 ## Campos do Formulário
 

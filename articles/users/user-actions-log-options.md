@@ -20,7 +20,7 @@ Para acessar essa tela:
 
 ## Captura de Tela
 
-![opções de registro de ações do usuário na aba opções](../../../ptbr/images/users/user-actions-log-options-options-tab.png)
+![opções de registro de ações do usuário na aba opções](../../../ptbr/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
 
 ## Campos do Formulário
 

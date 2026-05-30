@@ -36,7 +36,7 @@ Para editar um Item de Menu:
 
 ## Captura de Tela
 
-![Itens de Menu Artigos Aba de Detalhes de Artigos em Destaque](../../../ptbr/images/menu-items/articles-featured-details-tab.png)
+![Itens de Menu Artigos Aba de Detalhes de Artigos em Destaque](../../../ptbr/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
 
 ## Dicas
 

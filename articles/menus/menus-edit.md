@@ -19,7 +19,7 @@ Alguns aspectos desta página são cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![menus editar aba de detalhes](../../../ptbr/images/menus/menus-edit-menu-details-tab.png)
+![menus editar aba de detalhes](../../../ptbr/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
 
 ## Campos do Formulário
 

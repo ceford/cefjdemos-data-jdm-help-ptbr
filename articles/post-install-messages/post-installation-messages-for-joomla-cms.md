@@ -19,7 +19,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![tela de mensagens pós-instalação](../../../ptbr/images/post-install-messages/post-install-messages.png)
+![tela de mensagens pós-instalação](../../../ptbr/images/post-install-messages/post-installation-messages-for-joomla-cms/01-post-install-messages.png)
 
 ## Mensagens
 

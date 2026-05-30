@@ -24,11 +24,11 @@ outras opções exige a entrada de dados apropriados. Alguns exemplos:
 
 ### Exemplo: Esquema de Artigo
 
-![Aba de esquema com a opção de artigo selecionada](../../../ptbr/images/common-elements/articles-edit-schema-tab-article.png)
+![Aba de esquema com a opção de artigo selecionada](../../../ptbr/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
 
 ### Exemplo: Esquema de Pessoa
 
-![Aba de esquema com a opção de pessoa selecionada](../../../ptbr/images/common-elements/articles-edit-schema-tab-person.png)
+![Aba de esquema com a opção de pessoa selecionada](../../../ptbr/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)
 
 
 *Traduzido por openai.com*

@@ -23,7 +23,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Substituição de Edição de Idiomas](../../../ptbr/images/languages/languages-edit-override.png)
+![Substituição de Edição de Idiomas](../../../ptbr/images/languages/languages-edit-override/01-languages-edit-override.png)
 
 ## Campos de Formulário
 

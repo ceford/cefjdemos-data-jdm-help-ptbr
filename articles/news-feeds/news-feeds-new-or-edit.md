@@ -23,7 +23,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Aba de edição dos feeds de notícias](../../../pt/images/news-feeds/news-feeds-edit-tab.png)
+![Aba de edição dos feeds de notícias](../../../pt/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
 
 ## Campos do Formulário
 
@@ -36,7 +36,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba Opções
 
-![Aba de opções de feeds de notícias](../../../ptbr/images/news-feeds/news-feeds-options-tab.png)
+![Aba de opções de feeds de notícias](../../../ptbr/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
 
 #### Painel de Imagens
 

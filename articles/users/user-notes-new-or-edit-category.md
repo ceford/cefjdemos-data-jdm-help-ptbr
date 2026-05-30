@@ -21,7 +21,7 @@ Alguns elementos desta página são cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![lista de notas do usuário](../../../ptbr/images/users/users-user-notes-edit-category.png)
+![lista de notas do usuário](../../../ptbr/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
 
 ## Campos do Formulário
 

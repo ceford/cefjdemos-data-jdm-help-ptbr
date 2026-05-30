@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![módulos versão joomla aba módulo](../../../ptbr/images/modules-admin/modules-joomla-version-module-tab.png)
+![módulos versão joomla aba módulo](../../../ptbr/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)
 
 ## Campos de Formulário
 

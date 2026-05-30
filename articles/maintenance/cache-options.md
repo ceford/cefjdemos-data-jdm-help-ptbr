@@ -18,7 +18,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Opções de Cache](../../../ptbr/images/maintenance/cache-options.png)
+![Opções de Cache](../../../ptbr/images/maintenance/cache-options/01-cache-options.png)
 
 ## Dicas
 

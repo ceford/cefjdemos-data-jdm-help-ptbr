@@ -29,7 +29,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![lista de menus](../../../ptbr/images/menus/menus-list.png)
+![lista de menus](../../../ptbr/images/menus/menus/01-menus-list.png)
 
 ## Cabeçalhos das Colunas
 

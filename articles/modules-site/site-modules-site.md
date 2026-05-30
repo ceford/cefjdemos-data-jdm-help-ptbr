@@ -21,11 +21,11 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela - Lista de Módulos Instalados no Site
 
-![lista de módulos do administrador](../../../ptbr/images/modules-site/modules-site-list.png)
+![lista de módulos do administrador](../../../ptbr/images/modules-site/site-modules-site/01-modules-site-list.png)
 
 ## Captura de Tela - Lista de Módulos de Site Disponíveis
 
-![módulos de administrador disponíveis](../../../ptbr/images/modules-site/modules-site-available.png)
+![módulos de administrador disponíveis](../../../ptbr/images/modules-site/site-modules-site/02-modules-site-available.png)
 
 ## Posições de Módulos
 
