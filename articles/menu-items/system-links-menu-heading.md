@@ -31,7 +31,7 @@ Para editar um tipo de item de Cabeçalho do Menu existente:
 
 ## Captura de Tela
 
-![Detalhes da aba Cabeçalho do Item do Menu](../../../ptbr/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
+![Detalhes da aba Cabeçalho do Item do Menu](../../../pt/images/menu-items/system-links-menu-heading/01-details-tab.png)
 
 Todos os campos de entrada do formulário são abordados em *Elementos Comuns*.
 

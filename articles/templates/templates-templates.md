@@ -24,7 +24,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 As telas de Administrador e Modelos de Sites usam o mesmo layout. A
 tela de Modelo de Site é ilustrada aqui.
 
-![Lista de modelos de sites](../../../ptbr/images/templates/templates-templates/01-templates-site-templates-list.png)
+![Lista de modelos de sites](../../../pt/images/templates/templates-templates/01-templates-list.png)
 
 ## Filtros de Lista
 

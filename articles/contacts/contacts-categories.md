@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![lista de categorias de contatos](../../../ptbr/images/contacts/contacts-categories/01-contacts-categories-list.png)
+![lista de categorias de contatos](../../../pt/images/contacts/contacts-categories/01-categories-list.png)
 
 *Traduzido por openai.com*
 

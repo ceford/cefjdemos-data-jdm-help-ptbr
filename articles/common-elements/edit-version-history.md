@@ -14,7 +14,7 @@ Selecione o botão **Versões** na barra de ferramentas de uma página de ediç�
 
 ## Captura de Tela
 
-![Popup de histórico de versões](../../../ptbr/images/common-elements/edit-version-history/01-articles-edit-versions.png)
+![Popup de histórico de versões](../../../pt/images/common-elements/edit-version-history/01-versions-dialog.png)
 
 ## Cabeçalhos de Coluna
 

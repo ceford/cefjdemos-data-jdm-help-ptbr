@@ -13,7 +13,7 @@ Todos os itens do menu têm um layout semelhante, mas alguns dos campos do formu
 
 ## Captura de Tela
 
-![aba de integração do item do menu](../../../ptbr/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
+![aba de integração do item do menu](../../../pt/images/menu-items-common/menu-item-integration/01-integration-tab.png)
 
 ## Campos do Formulário
 

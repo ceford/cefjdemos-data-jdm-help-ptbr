@@ -26,7 +26,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![lista de todos os itens do menu](../../../ptbr/images/menus/menus-items/01-menus-all-menu-items-list.png)
+![lista de todos os itens do menu](../../../pt/images/menus/menus-items/01-items-list.png)
 
 ## Dicas
 

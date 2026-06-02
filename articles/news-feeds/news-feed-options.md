@@ -21,7 +21,7 @@ Alguns elementos desta página são abordados em artigos separados da Ajuda:
 
 ## Captura de Tela
 
-![Opções de feeds de notícias na aba de feed de notícias](../../../ptbr/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![Opções de feeds de notícias na aba de feed de notícias](../../../pt/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Campos de Formulário
 
@@ -43,7 +43,7 @@ Essas configurações se aplicam a todos os Feeds de Notícias, a menos que seja
 
 ### Aba Categoria
 
-![Opções de feeds de notícias aba categoria](../../../ptbr/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![Opções de feeds de notícias aba categoria](../../../pt/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Escolher um layout** Selecione Blog, Lista ou um layout definido pelo usuário para mostrar por padrão quando um link de Categoria é selecionado.
 - **Título da Categoria** Mostrar ou ocultar o título da categoria.
@@ -57,7 +57,7 @@ Essas configurações se aplicam a todos os Feeds de Notícias, a menos que seja
 
 ### Aba Categorias
 
-![Opções de feeds de notícias aba categorias](../../../ptbr/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![Opções de feeds de notícias aba categorias](../../../pt/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Descrição da Categoria de Nível Superior** Mostrar ou ocultar a descrição da categoria de nível superior.
 - **Níveis de Subcategoria** Quantos níveis na hierarquia mostrar.
@@ -67,7 +67,7 @@ Essas configurações se aplicam a todos os Feeds de Notícias, a menos que seja
 
 ### Aba Layouts de Lista
 
-![Opções de feeds de notícias aba layouts de lista](../../../ptbr/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![Opções de feeds de notícias aba layouts de lista](../../../pt/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Campo de Filtro** O Campo de Filtro cria um campo de texto onde um usuário pode inserir um campo para ser usado para filtrar os artigos exibidos na lista.
     - *Ocultar* Não mostrar um campo de filtro.
@@ -83,7 +83,7 @@ Essas configurações se aplicam a todos os Feeds de Notícias, a menos que seja
 
 ### Aba Integração
 
-![Opções de feeds de notícias aba integração](../../../ptbr/images/news-feeds/news-feed-options/05-news-feeds-options-integration-tab.png)
+![Opções de feeds de notícias aba integração](../../../pt/images/news-feeds/news-feed-options/05-integration-tab.png)
 
 - **Remover IDs das URLs** Mostrar ou não o id do banco de dados de um feed de notícias em um link.
 

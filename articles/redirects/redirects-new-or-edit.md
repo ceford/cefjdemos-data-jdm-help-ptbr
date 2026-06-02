@@ -18,7 +18,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Links de Redirecionamento](../../../ptbr/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
+![Links de Redirecionamento](../../../pt/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Campos do Formulário
 

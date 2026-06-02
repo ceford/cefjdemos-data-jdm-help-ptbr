@@ -13,7 +13,7 @@ local:
 
 ## Captura de Tela
 
-![painel inicial](../../../ptbr/images/site/site-control-panel/01-home-dashboard.png)
+![painel inicial](../../../pt/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Módulos
 

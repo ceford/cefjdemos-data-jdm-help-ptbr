@@ -30,7 +30,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![usuários visualizando níveis de acesso](../../../ptbr/images/users/users-edit-viewing-access-level/01-users-edit-viewing-access-level-details-tab.png)
+![usuários visualizando níveis de acesso](../../../pt/images/users/users-edit-viewing-access-level/01-details-tab.png)
 
 ### Aba Detalhes do Nível
 
@@ -39,7 +39,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ### Aba Grupos de Usuários com Acesso de Visualização
 
-![usuários visualizando níveis de acesso](../../../ptbr/images/users/users-edit-viewing-access-level/02-users-edit-viewing-access-level-ugwva-tab.png)
+![usuários visualizando níveis de acesso](../../../pt/images/users/users-edit-viewing-access-level/02-ugwva-tab.png)
 
 Selecione uma caixa de seleção para adicionar um grupo de usuários a um nível de visualização. No exemplo mostrado, todos os Grupos são filhos de Público, portanto, não é necessário marcar nenhum dos grupos filhos. Eles herdam as permissões de acesso Público. Esse recurso deve ser usado apenas para grupos personalizados!
 

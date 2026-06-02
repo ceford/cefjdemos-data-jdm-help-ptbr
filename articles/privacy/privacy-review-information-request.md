@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![pedido de informações de revisão de privacidade](../../../ptbr/images/privacy/privacy-review-information-request/01-privacy-review-information-request.png)
+![pedido de informações de revisão de privacidade](../../../pt/images/privacy/privacy-review-information-request/01-information.png)
 
 ## Detalhes
 

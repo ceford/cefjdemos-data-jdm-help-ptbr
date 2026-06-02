@@ -38,7 +38,7 @@ Claro! Aqui está a tradução:
 
 ## Captura de Tela
 
-![Alias do Item de Menu](../../../ptbr/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
+![Alias do Item de Menu](../../../pt/images/menu-items/articles-archived-articles/01-details-tab.png)
 
 ## Campos do Formulário
 
@@ -49,7 +49,7 @@ Claro! Aqui está a tradução:
 
 ### Aba Arquivo
 
-![Menus Artigos Arquivados](../../../ptbr/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
+![Menus Artigos Arquivados](../../../pt/images/menu-items/articles-archived-articles/02-archive-tab.png)
 
 * **Ordem dos Artigos**
   * **Mais Antigos Primeiro** Os artigos são exibidos começando pelos mais antigos e

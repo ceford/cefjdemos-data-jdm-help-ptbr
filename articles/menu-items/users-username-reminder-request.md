@@ -34,7 +34,7 @@ Para editar um item de menu *Lembrança de Nome de Usuário* existente:
 
 ## Captura de Tela
 
-![Aba de detalhes do perfil do usuário](../../../ptbr/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
+![Aba de detalhes do perfil do usuário](../../../pt/images/menu-items/users-username-reminder-request/01-details-tab.png)
 
 Todos os campos de entrada do formulário são abordados em *Elementos Comuns*.
 

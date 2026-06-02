@@ -33,7 +33,7 @@ Para editar um Item de Menu:
 
 ## Captura de Tela
 
-![Item do Menu Artigos Criar Aba de Detalhes do Artigo](../../../ptbr/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
+![Item do Menu Artigos Criar Aba de Detalhes do Artigo](../../../pt/images/menu-items/articles-create-article/01-details-tab.png)
 
 Sure, here's the translation to Portuguese (Brazil):
 
@@ -62,7 +62,7 @@ Sure, here's the translation to Portuguese (Brazil):
 
 ### Opções
 
-![Aba de detalhes de Criar Artigo de Itens de Menu](../../../ptbr/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
+![Aba de detalhes de Criar Artigo de Itens de Menu](../../../pt/images/menu-items/articles-create-article/02-options-tab.png)
 
 - **Categoria Específica**
   - *Sim* Os artigos serão atribuídos à categoria especificada. O usuário
@@ -81,7 +81,7 @@ Sure, here's the translation to Portuguese (Brazil):
 Esta captura de tela mostra o Template Frontend padrão do Joomla, **Cassiopeia**, com todas
 as opções de Edição de Layout configuradas para 'Esconder'.
 
-![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-frontend.png)
 
 ## Dicas
 

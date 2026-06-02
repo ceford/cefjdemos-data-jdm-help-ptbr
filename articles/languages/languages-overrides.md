@@ -29,7 +29,7 @@ Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de Sobrescritas de Idiomas](../../../ptbr/images/languages/languages-overrides/01-languages-overrides-list.png)
+![Lista de Sobrescritas de Idiomas](../../../pt/images/languages/languages-overrides/01-overrides-list.png)
 
 ## Cabeçalhos de Coluna
 

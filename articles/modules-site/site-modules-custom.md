@@ -28,7 +28,7 @@ Alguns elementos desta página estão cobertos em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![guia do módulo personalizado](../../../ptbr/images/modules-site/site-modules-custom/01-modules-custom-module-tab.png)
+![guia do módulo personalizado](../../../pt/images/modules-site/site-modules-custom/01-module-tab.png)
 
 ## Campos do Formulário
 

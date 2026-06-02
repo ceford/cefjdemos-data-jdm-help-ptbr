@@ -20,7 +20,7 @@ Um elemento desta página é abordado em um artigo de Ajuda separado:
 
 ## Captura de Tela
 
-![Editar Modelo de E-mail](../../../ptbr/images/mail/mail-template-edit/01-edit-mail-template.png)
+![Editar Modelo de E-mail](../../../pt/images/mail/mail-template-edit/01-mail-tab.png)
 
 As Opções de E-mail permitem enviar mensagens em Texto Simples ou HTML, ou ambos. Se apenas um método for selecionado, a alternativa não estará presente no formulário de edição de mensagens.
 

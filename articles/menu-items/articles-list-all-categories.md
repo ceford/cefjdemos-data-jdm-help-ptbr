@@ -38,7 +38,7 @@ Para editar um Item de Menu:
 
 ## Captura de Tela
 
-![Item de Menu Lista de Artigos Todas as Categorias guia de detalhes](../../../ptbr/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
+![Item de Menu Lista de Artigos Todas as Categorias guia de detalhes](../../../pt/images/menu-items/articles-list-all-categories/01-details-tab.png)
 
 ## Campos do Formulário
 
@@ -68,7 +68,7 @@ Para editar um Item de Menu:
 
 ### Aba Categorias
 
-![Menu Item Articles List All Categories categories tab](../../../ptbr/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
+![Menu Item Articles List All Categories categories tab](../../../pt/images/menu-items/articles-list-all-categories/02-categories-tab.png)
 
 - **Descrição da Categoria de Nível Superior** Mostrar a descrição da
   categoria de nível superior.
@@ -96,7 +96,7 @@ acima, mas os campos são similares.
 As Opções Compartilhadas se aplicam para Opções Compartilhadas em Lista, Blog e Em Destaque,
 a menos que sejam alteradas pelas configurações do menu.
 
-![Menu Item Articles List All Categories categories tab](../../../ptbr/images/menu-items/articles-list-all-categories/03-articles-list-all-categories-shared-tab.png)
+![Menu Item Articles List All Categories categories tab](../../../pt/images/menu-items/articles-list-all-categories/03-shared-tab.png)
 
 - **Paginação** A paginação fornece links de página na parte inferior da
   página que permitem ao usuário navegar para páginas adicionais. Estes

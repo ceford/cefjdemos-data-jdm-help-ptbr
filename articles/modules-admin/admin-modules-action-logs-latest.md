@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![logs de ação na aba mais recente do módulo](../../../ptbr/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
+![logs de ação na aba mais recente do módulo](../../../pt/images/modules-admin/admin-modules-action-logs-latest/01-module-tab.png)
 
 ## Campos do Formulário
 

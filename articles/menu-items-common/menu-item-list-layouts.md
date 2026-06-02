@@ -15,7 +15,7 @@ Os parâmetros de layout de lista variam de componente para componente. Os exemp
 
 ### Layout de Lista de Categoria de Artigos
 
-![Tipo de Item do Menu Lista de Categoria - aba layouts de lista](../../../ptbr/images/menu-items/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
+![Tipo de Item do Menu Lista de Categoria - aba layouts de lista](../../../pt/images/menu-items-common/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
 
 - **Exibir Seleção** Mostra ou oculta o controle Exibir \# que permite ao usuário selecionar o número de artigos a serem exibidos.
 - **Campo de Filtro** Mostra ou oculta um campo de texto na Interface onde o usuário pode filtrar os artigos.
@@ -69,7 +69,7 @@ Os parâmetros de layout de lista variam de componente para componente. Os exemp
 
 ### Layout de Lista de Contatos em Destaque
 
-![Item de Menu Contatos em Destaque aba de layouts de lista](../../../ptbr/images/menu-items/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
+![Item de Menu Contatos em Destaque aba de layouts de lista](../../../pt/images/menu-items-common/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Campo de Filtro** Mostrar ou ocultar o filtro da lista.
 - **Exibir Seleção** Mostrar ou ocultar o número de itens a serem exibidos na lista.
@@ -92,7 +92,7 @@ Os parâmetros de layout de lista variam de componente para componente. Os exemp
 
 ### Layouts de Lista de Feed de Notícias
 
-![Item de Menu lista todas as Categorias de Feed de Notícias aba layouts de lista](../../../ptbr/images/menu-items/menu-item-list-layouts/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Item de Menu lista todas as Categorias de Feed de Notícias aba layouts de lista](../../../pt/images/menu-items-common/menu-item-list-layouts/03-news-feeds-list-layouts-tab.png)
 
 - **Campo de Filtro** Mostrar ou ocultar um campo de Filtro para a lista.
 - **Exibir Seleção** Mostrar ou ocultar o controle Exibir \# que permite ao usuário selecionar o número de itens a serem mostrados na lista.
@@ -108,7 +108,7 @@ Os parâmetros de layout de lista variam de componente para componente. Os exemp
 
 ### Layouts de Lista de Etiquetas
 
-![Lista Compacta de Itens Etiquetados aba de detalhes](../../../ptbr/images/menu-items/menu-item-list-layouts/04-tags-compact-list-of-tagged-items-list-layouts-tab.png)
+![Lista Compacta de Itens Etiquetados aba de detalhes](../../../pt/images/menu-items-common/menu-item-list-layouts/04-tags-list-layouts-tab.png)
 
 - **Imagem do Item** Mostrar ou ocultar a imagem de cada item.
 - **Descrição do Item** Mostrar ou ocultar a descrição de cada item na lista. O comprimento pode ser limitado usando a opção de Caracteres Máximos.

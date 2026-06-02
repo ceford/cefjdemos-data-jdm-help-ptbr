@@ -25,7 +25,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![módulos aba de usuários logados](../../../ptbr/images/modules-admin/admin-modules-logged-in-users/01-modules-logged-in-users-module-tab.png)
+![módulos aba de usuários logados](../../../pt/images/modules-admin/admin-modules-logged-in-users/01-module-tab.png)
 
 
 ## Campos do Formulário

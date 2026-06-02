@@ -28,7 +28,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de associações multilíngues](../../../ptbr/images/multilingual-associations/multilingual-associations/01-multilingual-associations-list.png)
+![Lista de associações multilíngues](../../../pt/images/multilingual-associations/multilingual-associations/01-associations-list.png)
 
 Nesta captura de tela, um artigo foi associado a um artigo em outro idioma. A lista contém apenas itens onde o idioma foi configurado. Qualquer artigo com o idioma configurado para *Todos* não estará presente.
 

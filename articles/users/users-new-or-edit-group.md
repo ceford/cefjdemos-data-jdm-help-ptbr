@@ -14,7 +14,7 @@ A página *Usuários: Novo ou Editar Grupo* é utilizada para criar um novo Grup
 
 ## Captura de Tela
 
-![detalhes da nova guia do grupo de usuários](../../../ptbr/images/users/users-new-or-edit-group/01-users-new-group-details-tab.png)
+![detalhes da nova guia do grupo de usuários](../../../pt/images/users/users-new-or-edit-group/01-details-tab.png)
 
 ## Detalhes do Grupo de Usuários
 

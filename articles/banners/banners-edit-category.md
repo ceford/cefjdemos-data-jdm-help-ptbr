@@ -28,7 +28,7 @@ Navegue até a lista de Categorias de Banners:
 
 ## Captura de Tela
 
-![Editar categoria de banners](../../../ptbr/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
+![Editar categoria de banners](../../../pt/images/banners/banners-edit-category/01-category-tab.png)
 
 Consulte os Elementos Comuns para mais informações.
 *Traduzido por openai.com*

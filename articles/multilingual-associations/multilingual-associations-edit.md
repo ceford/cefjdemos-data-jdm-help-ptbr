@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Itens de Referência e Alvo lado a lado](../../../pt/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
+![Itens de Referência e Alvo lado a lado](../../../pt/images/multilingual-associations/multilingual-associations-edit/01-edit-form.png)
 
 Neste exemplo, os itens são Artigos. Cada um é uma janela rolável com as opções de item abaixo da área de edição de texto (não mostrada).
 

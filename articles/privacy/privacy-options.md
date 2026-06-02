@@ -19,7 +19,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![opções de privacidade](../../../ptbr/images/privacy/privacy-options/01-privacy-options.png)
+![opções de privacidade](../../../pt/images/privacy/privacy-options/01-options-tab.png)
 
 ## Campos do Formulário
 

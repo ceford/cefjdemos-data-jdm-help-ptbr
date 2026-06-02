@@ -28,7 +28,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Extensões instalação de idiomas](../../../ptbr/images/extensions/extensions-languages/01-languages-install.png)
+![Extensões instalação de idiomas](../../../pt/images/extensions/extensions-languages/01-languages-install.png)
 
 ## Cabeçalhos de Coluna
 

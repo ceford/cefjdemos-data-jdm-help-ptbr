@@ -27,7 +27,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![módulo de notícias dos artigos](../../../ptbr/images/modules-site/site-modules-articles-newsflash/01-modules-articles-newsflash-module-tab.png)
+![módulo de notícias dos artigos](../../../pt/images/modules-site/site-modules-articles-newsflash/01-module-tab.png)
 
 ## Campos do Formulário
 

@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![aba do módulo de estatísticas](../../../ptbr/images/modules-site/site-modules-statistics/01-modules-statistics-module-tab.png)
+![aba do módulo de estatísticas](../../../pt/images/modules-site/site-modules-statistics/01-module-tab.png)
 
 ## Campos do Formulário
 

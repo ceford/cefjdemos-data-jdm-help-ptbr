@@ -26,7 +26,7 @@ Alguns elementos desta página são cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![aba do módulo de pesquisa inteligente](../../../ptbr/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
+![aba do módulo de pesquisa inteligente](../../../pt/images/modules-site/site-modules-smart-search/01-module-tab.png)
 
 ## Campos do Formulário
 

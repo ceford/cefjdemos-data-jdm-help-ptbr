@@ -18,7 +18,7 @@ A página *Usuários: Opções* é usada para definir opções globais para todo
 
 ## Captura de Tela
 
-![opções de usuários aba de opções de usuários](../../../ptbr/images/users/users-options/01-users-options-user-options-tab.png)
+![opções de usuários aba de opções de usuários](../../../pt/images/users/users-options/01-user-options-tab.png)
 
 ## Campos de Formulário
 
@@ -55,7 +55,7 @@ A página *Usuários: Opções* é usada para definir opções globais para todo
 
 ### Aba Opções de Domínio de E-mail
 
-![aba opções de domínio de e-mail dos usuários](../../../ptbr/images/users/users-options/02-users-options-email-domain-options-tab.png)
+![aba opções de domínio de e-mail dos usuários](../../../pt/images/users/users-options/02-email-domain-options-tab.png)
 
 - **Nome de Domínio** Insira uma lista de domínios de e-mail permitidos e não permitidos.
   Por padrão, todos os domínios são permitidos. Curingas (\*) são suportados. Por
@@ -67,7 +67,7 @@ A página *Usuários: Opções* é usada para definir opções globais para todo
 
 ### Aba Opções de Senha
 
-![aba opções de senha dos usuários](../../../ptbr/images/users/users-options/03-users-options-password-options-tab.png)
+![aba opções de senha dos usuários](../../../pt/images/users/users-options/03-password-options-tab.png)
 
 - **Contagem Máxima de Redefinições** O número máximo de redefinições de senha permitidas
   dentro do período de tempo. Zero indica sem limite.
@@ -84,7 +84,7 @@ A página *Usuários: Opções* é usada para definir opções globais para todo
 
 ### Aba Autenticação Multi-fator
 
-![aba autenticação multi-fator dos usuários](../../../ptbr/images/users/users-options/04-users-options-multi-factor-authentication-tab.png)
+![aba autenticação multi-fator dos usuários](../../../pt/images/users/users-options/04-multi-factor-authentication-tab.png)
 
 - **Posições de módulos de frontend permitidas** Ao exibir a página de
   Autenticação Multi-fator no frontend todos os módulos serão ocultados, exceto
@@ -130,7 +130,7 @@ A página *Usuários: Opções* é usada para definir opções globais para todo
 
 ### Aba Histórico de Notas de Usuário
 
-![aba histórico de notas de usuário](../../../ptbr/images/users/users-options/05-users-options-user-notes-history-tab.png)
+![aba histórico de notas de usuário](../../../pt/images/users/users-options/05-user-notes-history-tab.png)
 
 - **Habilitar Versões** Salvar histórico de versões para Notas de Usuário.
 - **Máximo de Versões** O número máximo de versões a serem armazenadas para uma
@@ -140,7 +140,7 @@ A página *Usuários: Opções* é usada para definir opções globais para todo
 
 ### Aba E-mail em Massa para Usuários
 
-![aba e-mail em massa para usuários](../../../ptbr/images/users/users-options/06-users-options-mass-mail-users-tab.png)
+![aba e-mail em massa para usuários](../../../pt/images/users/users-options/06-mass-mail-users-tab.png)
 
 - **Prefixo do Assunto** Insira um texto opcional a ser inserido automaticamente
   antes do assunto do e-mail em massa.
@@ -149,7 +149,7 @@ A página *Usuários: Opções* é usada para definir opções globais para todo
 
 ### Aba Integração
 
-![aba integração dos usuários](../../../ptbr/images/users/users-options/07-users-options-integration-tab.png)
+![aba integração dos usuários](../../../pt/images/users/users-options/07-integration-tab.png)
 
 - **Habilitar Campos Personalizados** Habilitar a criação de campos personalizados.
 

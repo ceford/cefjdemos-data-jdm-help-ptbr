@@ -32,7 +32,7 @@ Para editar um item de menu existente **Enviar um Link Web**:
 
 ## Captura de Tela
 
-![Item de menu enviar um link da web](../../../ptbr/images/menu-items/weblinks-weblink-submit/01-weblinks-submit-a-web-link-details-tab.png)
+![Item de menu enviar um link da web](../../../pt/images/menu-items/weblinks-weblink-submit/01-details-tab.png)
 
 Todos os campos de entrada do formulário são cobertos nos *Elementos Comuns*.
 

@@ -32,7 +32,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![aba detalhes do item de menu](../../../ptbr/images/menu-items-common/menus-new-item/01-menu-item-details.png)
+![aba detalhes do item de menu](../../../pt/images/menus/menus-new-item/01-details-tab.png)
 
 ## Campos do Formulário
 

@@ -12,7 +12,7 @@ Todos os itens do menu têm um layout semelhante, mas alguns dos campos do formu
 
 ## Captura de Tela
 
-![aba de atribuição de módulo do item de menu](../../../ptbr/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
+![aba de atribuição de módulo do item de menu](../../../pt/images/menu-items-common/menu-item-module-assignment/01-module-assignment-tab.png)
 
 ## Campos de Formulário
 

@@ -24,7 +24,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![módulos mensagens pós-instalação aba do módulo](../../../ptbr/images/modules-admin/admin-modules-post-installation-messages/01-modules-post-installation-messages-module-tab.png)
+![módulos mensagens pós-instalação aba do módulo](../../../pt/images/modules-admin/admin-modules-post-installation-messages/01-module-tab.png)
 
 ## Campos do Formulário
 

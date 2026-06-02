@@ -34,13 +34,13 @@ Para editar um item de menu existente **Listar Todas as Categorias de Links da W
 
 ## Captura de Tela
 
-![Categoria de links web do item do menu Listar Todos](../../../ptbr/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-details-tab.png)
+![Categoria de links web do item do menu Listar Todos](../../../pt/images/menu-items/weblinks-weblink-categories/01-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba Categorias
 
-![Item do menu tipo Listar Todas as Categorias de Links da Web](../../../ptbr/images/menu-items/weblinks-weblink-categories/02-weblinks-list-all-web-link-categories-categories-tab.png)
+![Item do menu tipo Listar Todas as Categorias de Links da Web](../../../pt/images/menu-items/weblinks-weblink-categories/02-categories-tab.png)
 
 - **Descrição da Categoria de Nível Superior** Exibir ou ocultar a descrição da 
   categoria de nível superior. Observe que esta descrição pode ser substituída para este

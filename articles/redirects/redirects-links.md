@@ -25,7 +25,7 @@ Alguns elementos desta página são cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Links de redirecionamento](../../../ptbr/images/redirects/redirects-links/01-redirects-links.png)
+![Links de redirecionamento](../../../pt/images/redirects/redirects-links/01-links-list.png)
 
 ## Cabeçalhos de Coluna
 

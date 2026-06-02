@@ -6,7 +6,7 @@ Muitas das páginas do Administrador do Joomla são listas de itens. As mais con
 
 As operações que podem ser realizadas variam de acordo com a lista. A captura de tela a seguir mostra o diálogo de lote para Artigos:
 
-![Captura de tela de lote da lista de artigos](../../../ptbr/images/common-elements/list-batch-process/01-articles-list-batch.png)
+![Captura de tela de lote da lista de artigos](../../../pt/images/common-elements/list-batch-process/01-articles-list-batch-dialog.png)
 
 ## Exemplo: Como processar em lote um grupo de artigos:
 

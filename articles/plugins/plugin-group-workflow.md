@@ -8,7 +8,7 @@ Para mais informações, veja o [Tutorial de Workflow](https://docs.joomla.org/J
 
 Adicione ações de destaque às transições do workflow para seus itens.
 
-![Formulário de destaque do workflow](../../../en/images/plugins/plugin-group-workflow/01-plugin-group-workflow-featuring.png)
+![Formulário de destaque do workflow](../../../en/images/plugins/plugin-group-workflow/01-workflow-featuring.png)
 
 - **Lista Branca de Extensões**
 - **Lista Negra de Extensões**

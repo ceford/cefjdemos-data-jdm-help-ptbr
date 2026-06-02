@@ -26,7 +26,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![aba do módulo da categoria de artigos](../../../ptbr/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
+![aba do módulo da categoria de artigos](../../../pt/images/modules-site/site-modules-articles-category/01-module-tab.png)
 
 ## Campos do Formulário
 
@@ -52,7 +52,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ### Aba Opções de Filtragem
 
-![opções de filtragem de categoria de artigos](../../../ptbr/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
+![opções de filtragem de categoria de artigos](../../../pt/images/modules-site/site-modules-articles-category/02-filtering-options-tab.png)
 
 - **Artigos em Destaque** Mostrar ou ocultar ou selecionar Somente Artigos em Destaque.
 - **Contagem** O número de itens a serem exibidos. O valor padrão de 0 exibirá 
@@ -75,7 +75,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ### Aba Opções de Ordenação
 
-![opções de ordenação de categoria de artigos](../../../ptbr/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
+![opções de ordenação de categoria de artigos](../../../pt/images/modules-site/site-modules-articles-category/03-ordering-options-tab.png)
 
 - **Campo do Artigo para Ordenar Por** Selecione um campo da lista. A Ordenação de Destaque 
   deve ser usada apenas quando a Opção de Filtragem para Artigos em Destaque estiver configurada como *Somente*.
@@ -83,7 +83,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ### Aba Opções de Agrupamento
 
-![opções de agrupamento de categoria de artigos](../../../ptbr/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
+![opções de agrupamento de categoria de artigos](../../../pt/images/modules-site/site-modules-articles-category/04-grouping-options-tab.png)
 
 - **Agrupamento de Artigos** Selecione um método de agrupamento de artigos da lista.
 - **Direção do Agrupamento** Selecione a direção da ordenação.
@@ -91,7 +91,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ### Aba Opções de Exibição
 
-![opções de exibição de categoria de artigos](../../../ptbr/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
+![opções de exibição de categoria de artigos](../../../pt/images/modules-site/site-modules-articles-category/05-display-options-tab.png)
 
 - **Títulos Vinculados** Mostrar os títulos como links para os artigos.
 - **Data** Mostrar ou ocultar a data do artigo.

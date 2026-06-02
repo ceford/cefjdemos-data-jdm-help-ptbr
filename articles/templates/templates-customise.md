@@ -16,7 +16,7 @@ A página *Templates: Customise* é utilizada para editar o código fonte de um 
 
 As telas de Administrador e Templates do Site utilizam o mesmo layout. A tela de Template do Site está ilustrada aqui.
 
-![modelos personalizar aba do editor cassiopeia](../../../ptbr/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
+![modelos personalizar aba do editor cassiopeia](../../../pt/images/templates/templates-customise/01-editor-tab.png)
 
 ## Campos do Formulário
 
@@ -26,14 +26,14 @@ As telas de Administrador e Templates do Site utilizam o mesmo layout. A tela de
 
 ### Aba Criar Substituições
 
-![aba criar substituições cassiopeia](../../../ptbr/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
+![aba criar substituições cassiopeia](../../../pt/images/templates/templates-customise/02-create-overrides-tab.png)
 
 - Selecione um item para substituir. Itens marcados com um ícone de arquivo sólido abrem para revelar uma lista de itens. Itens marcados com ícones de página aberta e preenchida sobrepostos criam uma substituição imediatamente, sem solicitação de confirmação. A substituição é colocada no local apropriado. Há uma mensagem de confirmação, por exemplo:
   *Substituição criada em /templates/cassiopeia/html/mod_whosonline*.
 
 ### Aba Arquivos Atualizados
 
-![aba arquivos atualizados cassiopeia](../../../ptbr/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
+![aba arquivos atualizados cassiopeia](../../../pt/images/templates/templates-customise/03-updated-files-tab.png)
 
 Se não houver atualizações no template desde que as substituições foram criadas, esta aba conterá uma mensagem simples:
 
@@ -45,7 +45,7 @@ Se houver atualizações, uma tabela mostrará uma lista de substituições que 
 
 ### Aba Descrição do Template
 
-![aba descrição do template cassiopeia](../../../ptbr/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
+![aba descrição do template cassiopeia](../../../pt/images/templates/templates-customise/04-template-description-tab.png)
 
 - **Miniatura e Descrição** Informações sobre este template.
 

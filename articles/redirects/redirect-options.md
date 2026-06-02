@@ -26,7 +26,7 @@ Selecione o link **Plugin do Sistema de Redirecionamento** e ative o plugin na c
 
 ## Captura de Tela
 
-![Opções avançadas de redirecionamento](../../../ptbr/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
+![Opções avançadas de redirecionamento](../../../pt/images/redirects/redirect-options/01-advanced-tab.png)
 
 ## Campos de Formulário
 

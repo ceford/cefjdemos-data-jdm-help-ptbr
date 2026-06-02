@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![módulos aba de status do módulo multilíngue](../../../ptbr/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
+![módulos aba de status do módulo multilíngue](../../../pt/images/modules-admin/admin-modules-multilingual-status/01-module-tab.png)
 
 ## Campos do Formulário
 

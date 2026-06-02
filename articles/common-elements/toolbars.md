@@ -10,7 +10,7 @@ Se houver muitos botões, eles serão quebrados em duas linhas. Alguns exemplos:
 
 ### Barra de Ferramentas de Edição de Artigo
 
-![Barra de ferramentas de edição de artigo](../../../ptbr/images/common-elements/toolbars/01-article-edit-toolbar.png)
+![Barra de ferramentas de edição de artigo](../../../pt/images/common-elements/toolbars/01-article-edit-toolbar.png)
 
 Os botões sem um ícone de chevron para baixo operam imediatamente. Portanto, **Salvar** salvará a página e retornará com uma mensagem de confirmação verde ou uma mensagem de erro vermelha. Observe que, na maioria dos casos, o botão **Cancelar** fechará uma página de edição sem salvar nenhuma alteração.
 
@@ -22,7 +22,7 @@ Por favor, explore o que os vários botões fazem!
 
 ### Barra de Ferramentas da Lista de Plugins
 
-![Barra de ferramentas da lista de plugins](../../../ptbr/images/common-elements/toolbars/02-plugins-list-toolbar.png)
+![Barra de ferramentas da lista de plugins](../../../pt/images/common-elements/toolbars/02-plugins-list-toolbar.png)
 
 Neste exemplo de Barra de Ferramentas, os botões estão em cinza para indicar que estão inativos. Eles se tornam brilhantes e ativos quando uma caixa de seleção de item de Plugin é marcada, tornando-o pronto para Habilitar, Desabilitar ou Check-in. Vários itens da lista podem ser selecionados para ação simultânea, que é o objetivo principal desses botões da Barra de Ferramentas. Itens individuais podem ser processados com os ícones em cada linha (não mostrado).
 

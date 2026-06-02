@@ -19,7 +19,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Opções de Modelos de Email](../../../ptbr/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
+![Opções de Modelos de Email](../../../pt/images/mail/mail-templates-options/01-mails-tab.png)
 
 ## Campos de Formulário
 

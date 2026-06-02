@@ -29,7 +29,7 @@ em codificação para preparar substituições de modelo adequadas.
 
 ## Captura de Tela
 
-![Lista de grupos de campos de artigos](../../../ptbr/images/fields/field-groups/01-articles-field-groups-list.png)
+![Lista de grupos de campos de artigos](../../../pt/images/fields/field-groups/01-field-groups-list.png)
 
 *Traduzido por openai.com*
 

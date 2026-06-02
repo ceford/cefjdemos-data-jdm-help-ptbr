@@ -20,7 +20,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Guias turísticos edição de etapa](../../../ptbr/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
+![Guias turísticos edição de etapa](../../../pt/images/guided-tours/guided-tours-edit-step/01-edit-step-tab.png)
 
 ## Campos do Formulário
 
@@ -77,7 +77,7 @@ dessa chave para o idioma do usuário.
 
 ### Aba Opções
 
-![Opções da aba de edição de etapas dos tours guiados](../../../ptbr/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
+![Opções da aba de edição de etapas dos tours guiados](../../../pt/images/guided-tours/guided-tours-edit-step/02-options-tab.png)
 
 ## Dicas
 

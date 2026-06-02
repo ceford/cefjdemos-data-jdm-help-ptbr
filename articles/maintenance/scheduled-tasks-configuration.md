@@ -6,13 +6,13 @@ Selecione o botão Opções na Barra de Ferramentas para configurar tarefas agen
 
 ### Configurar aba Tarefas
 
-![task timeout setting](../../../ptbr/images/maintenance/scheduled-tasks-configuration/01-scheduled-tasks-options-configure-tasks.png)
+![task timeout setting](../../../pt/images/maintenance/scheduled-tasks-configuration/01-configure-tasks-tab.png)
 
 - **Tempo Limite da Tarefa** O padrão é 300 segundos.
 
 ### Aba do Agendador Preguiçoso
 
-![lazy schedule setting](../../../ptbr/images/maintenance/scheduled-tasks-configuration/02-scheduled-tasks-options-lazy-scheduler.png)
+![lazy schedule setting](../../../pt/images/maintenance/scheduled-tasks-configuration/02-lazy-scheduler-tab.png)
 
 - Tarefas **habilitadas** são acionadas pelos visitantes do site.
 - Tarefas **desabilitadas** devem ser acionadas por um cron job externo.
@@ -20,7 +20,7 @@ Selecione o botão Opções na Barra de Ferramentas para configurar tarefas agen
 
 ### Aba Web Cron
 
-![web cron setting](../../../ptbr/images/maintenance/scheduled-tasks-configuration/03-scheduled-tasks-options-webcron.png)
+![web cron setting](../../../pt/images/maintenance/scheduled-tasks-configuration/03-webcron-tab.png)
 
 - **Web Cron** Desativado é o padrão. Ativado requer um hash para acionar a tarefa. Antes do primeiro salvamento, há uma mensagem informando que uma chave é necessária. Após o salvamento, há um campo contendo uma URL de link do Webcron para copiar.
 

@@ -19,7 +19,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Guias de Tours Editar Tour](../../../ptbr/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
+![Guias de Tours Editar Tour](../../../pt/images/guided-tours/guided-tours-edit-tour/01-edit-tour-tab.png)
 
 ## Campos do Formulário
 

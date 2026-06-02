@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![lista de sites de atualização](../../../ptbr/images/update-sites/update-sites/01-update-sites-list.png)
+![lista de sites de atualização](../../../pt/images/update-sites/update-sites/01-update-sites-list.png)
 
 *Traduzido por openai.com*
 

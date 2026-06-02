@@ -32,7 +32,7 @@ Para editar um item de menu Estender Consentimento existente:
 
 ## Captura de Tela
 
-![Item do Menu Privacidade Criar Detalhes da Solicitação](../../../ptbr/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
+![Item do Menu Privacidade Criar Detalhes da Solicitação](../../../pt/images/menu-items/privacy-extend-consent/01-details-tab.png)
 
 Todos os campos de entrada do formulário estão cobertos nos *Elementos Comuns*.
 

@@ -30,7 +30,7 @@ Alguns aspectos desta página são cobertos em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Campo de edição de artigos](../../../ptbr/images/fields/fields-edit/01-articles-edit-field.png)
+![Campo de edição de artigos](../../../pt/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Campos do Formulário
 
@@ -63,7 +63,7 @@ Parâmetros para todos os campos:
 
 ### Aba Opções
 
-![Opções de edição de artigos na aba de campo](../../../ptbr/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Opções de edição de artigos na aba de campo](../../../pt/images/fields/fields-edit/02-options-tab.png)
 
 #### Opções do Formulário
 

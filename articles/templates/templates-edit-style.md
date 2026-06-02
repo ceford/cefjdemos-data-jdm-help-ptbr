@@ -21,7 +21,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![modelos cassiopeia editar guia do editor de estilo](../../../ptbr/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
+![modelos cassiopeia editar guia do editor de estilo](../../../pt/images/templates/templates-edit-style/01-details-tab.png)
 
 ## Campos de Formulário
 
@@ -33,7 +33,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba Avançada
 
-![templates cassiopeia editar estilo aba avançada](../../../ptbr/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
+![templates cassiopeia editar estilo aba avançada](../../../pt/images/templates/templates-edit-style/02-advanced-tab.png)
 
 Esta seção pode não estar presente para todos os estilos. Se um template do qual um estilo deriva tiver opções configuráveis, elas estarão presentes aqui. São estas opções configuráveis adicionais que permitem ter múltiplos estilos diferentes de templates com variações dessas opções. As opções disponíveis vão variar com base nas opções que o desenvolvedor do template disponibilizou.
 
@@ -53,7 +53,7 @@ Se você fornecer sua própria Marca Pequena, também precisará fornecer uma su
 
 ### Aba de Atribuição de Menu
 
-![templates cassiopeia editar estilo aba de atribuição de menu](../../../ptbr/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
+![templates cassiopeia editar estilo aba de atribuição de menu](../../../pt/images/templates/templates-edit-style/03-menu-assignment-tab.png)
 
 Esta seção contém todos os itens de menu configurados no seu site Joomla! Para aplicar o estilo atual à página web correspondente de um item de menu, marque a caixa ao lado do item de menu. Você pode pressionar o botão *Alternar Seleção* para inverter as seleções de itens de menu.
 

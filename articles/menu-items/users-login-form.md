@@ -33,13 +33,13 @@ Para editar um item de menu de Formulário de Login existente:
 
 ## Captura de Tela
 
-![Detalhes da aba do formulário de login](../../../ptbr/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
+![Detalhes da aba do formulário de login](../../../pt/images/menu-items/users-login-form/01-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba de Opções
 
-![Detalhes da aba do formulário de login](../../../ptbr/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
+![Detalhes da aba do formulário de login](../../../pt/images/menu-items/users-login-form/02-options-tab.png)
 
 #### Painel de Login
 

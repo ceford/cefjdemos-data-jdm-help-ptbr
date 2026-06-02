@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![permissões de usuários para usuário](../../../ptbr/images/users/permissions-for-user/01-users-permissions-for-user.png)
+![permissões de usuários para usuário](../../../pt/images/users/permissions-for-user/01-permissions-list.png)
 
 Acima da tabela de Permissões, estão itens selecionados mostrando permissões de acesso usando ícones para *Permitido*, *Não Permitido* e *Proibido*. A legenda dos ícones está abaixo da tabela.
 

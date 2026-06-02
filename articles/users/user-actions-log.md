@@ -19,7 +19,7 @@ Selecione **Usuários → Log de Ações do Usuário** no menu do Administrado
 
 ## Captura de Tela
 
-![lista de ações do usuário](../../../ptbr/images/users/user-actions-log/01-user-actions-log-list.png)
+![lista de ações do usuário](../../../pt/images/users/user-actions-log/01-log-list.png)
 
 *Traduzido por openai.com*
 

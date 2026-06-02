@@ -35,13 +35,13 @@ Para editar um item de menu *Lista Compacta de Itens Marcados* existente:
 
 ## Captura de Tela
 
-![Lista Compacta de Itens Marcados na aba de detalhes](../../../ptbr/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
+![Lista Compacta de Itens Marcados na aba de detalhes](../../../pt/images/menu-items/tags-compact-list-of-tagged-items/01-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba de Opções de Tags
 
-![Lista Compacta de Itens Marcados aba de opções de tags](../../../ptbr/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Lista Compacta de Itens Marcados aba de opções de tags](../../../pt/images/menu-items/tags-compact-list-of-tagged-items/02-tag-options-tab.png)
 
 - **Mostrar Nome da Tag** Para um layout com uma tag, mostrar ou esconder o nome da tag.
 - **Imagem da Tag** Para um layout com uma tag, mostrar ou esconder a imagem da tag.
@@ -53,7 +53,7 @@ Para editar um item de menu *Lista Compacta de Itens Marcados* existente:
 
 ### Aba de Opções de Seleção de Itens
 
-![Lista Compacta de Itens Marcados aba de detalhes](../../../ptbr/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Lista Compacta de Itens Marcados aba de detalhes](../../../pt/images/menu-items/tags-compact-list-of-tagged-items/03-item-selection-options-tab.png)
 
 - **Tipo de Compatibilidade** Selecionar itens com qualquer uma das tags ou todas as tags. Qualquer uma retornará itens que possuem pelo menos uma das tags.
 - **Tags Filhas** Incluir ou excluir tags filhas da lista de resultados.

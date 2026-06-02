@@ -18,7 +18,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Opções de Menus](../../../ptbr/images/menus/menus-options/01-menu-options-page-display-tab.png)
+![Opções de Menus](../../../pt/images/menus/menus-options/01-display-tab.png)
 
 ## Campos do Formulário
 

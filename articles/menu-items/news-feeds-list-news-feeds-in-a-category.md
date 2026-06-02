@@ -35,13 +35,13 @@ Para editar um item de menu Listar Feeds de Notícias em uma Categoria existente
 
 ## Captura de tela
 
-![Lista de Itens do Menu Feeds de Notícias na aba de detalhes da Categoria](../../../ptbr/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-news-feeds-list-newsfeeds-in-a-category-details-tab.png)
+![Lista de Itens do Menu Feeds de Notícias na aba de detalhes da Categoria](../../../pt/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-details-tab.png)
 
 ## Campos de Formulário
 
 ### Aba de Opções de Exibição de Feed
 
-![Lista de Itens de Menu Feeds de Notícias em uma Categoria aba de detalhes](../../../ptbr/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
+![Lista de Itens de Menu Feeds de Notícias em uma Categoria aba de detalhes](../../../pt/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-feed-display-options-tab.png)
 
 - **Imagem do Feed** Mostrar ou esconder a imagem dos Feeds de Notícias.
 - **Descrição do Feed** Mostrar ou esconder a descrição do Feed de Notícias.

@@ -18,7 +18,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![opções de links da web](../../../ptbr/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
+![opções de links da web](../../../pt/images/weblinks/weblinks-options/01-web-link-tab.png)
 
 ### Aba de Link da Web
 

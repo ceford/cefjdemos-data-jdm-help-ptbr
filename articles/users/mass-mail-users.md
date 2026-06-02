@@ -16,7 +16,7 @@ Selecione **Usuários → Enviar Email em Massa para Usuários** no menu do Ad
 
 ## Captura de Tela
 
-![e-mail em massa para usuários](../../../ptbr/images/users/mass-mail-users/01-mass-mail-users.png)
+![e-mail em massa para usuários](../../../pt/images/users/mass-mail-users/01-mail-form.png)
 
 ## Detalhes e Mensagem
 

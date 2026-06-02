@@ -18,7 +18,7 @@ A página *Tours Guiados: Opções* é abordada em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Opções de tours guiados](../../../ptbr/images/guided-tours/guided-tours-options/01-guided-tours-options.png)
+![Opções de tours guiados](../../../pt/images/guided-tours/guided-tours-options/01-guided-tours-tab.png)
 
 Os itens na aba Tours Guiados são bem explicados na Ajuda Inline.
 

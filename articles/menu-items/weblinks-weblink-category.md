@@ -35,7 +35,7 @@ Para editar um item de menu existente **Listar Links da Web em uma Categoria**:
 
 ## Captura de Tela
 
-![Tipo de item de menu Lista de Links da Web em uma Categoria](../../../ptbr/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
+![Tipo de item de menu Lista de Links da Web em uma Categoria](../../../pt/images/menu-items/weblinks-weblink-category/01-details-tab.png)
 
 Todos os campos de entrada do formulário são abordados nos *Elementos Comuns*.
 

@@ -36,7 +36,7 @@ Para editar um item de menu Lista de Todas as Categorias de Contato existente:
 
 ## Captura de Tela
 
-![Item de Menu Lista de Contatos Todas as Categorias detalhes da árvore aba](../../../ptbr/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
+![Item de Menu Lista de Contatos Todas as Categorias detalhes da árvore aba](../../../pt/images/menu-items/contacts-list-all-contact-categories/01-details-tab.png)
 
 ## Campos de Formulário
 
@@ -44,7 +44,7 @@ Para editar um item de menu Lista de Todas as Categorias de Contato existente:
 
 As Opções de Categorias controlam a forma como as informações das categorias são exibidas no layout. Coisas que você pode modificar são:
 
-![Item de Menu Lista de Contatos Todas as Categorias aba de categorias em árvore](../../../ptbr/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
+![Item de Menu Lista de Contatos Todas as Categorias aba de categorias em árvore](../../../pt/images/menu-items/contacts-list-all-contact-categories/02-categories-tab.png)
 
 - **Descrição da Categoria de Nível Superior** Mostra ou oculta a descrição da categoria de nível superior ou opcionalmente substitui pelo texto do campo de descrição encontrado no item de menu. Se usar Root como categoria de nível superior, o campo de descrição precisa ser preenchido.
 - **Descrição Alternativa** Se você inserir algum texto neste campo, ele substituirá a Descrição da Categoria de Nível Superior, se houver uma.
@@ -57,7 +57,7 @@ As Opções de Categorias controlam a forma como as informações das categorias
 
 As Opções de Exibição de Contato controlam a aparência do layout da lista.
 
-![Item de Menu Lista de Contatos Todas as Categorias aba de opções de exibição de contato em árvore](../../../ptbr/images/menu-items/contacts-list-all-contact-categories/03-contacts-list-all-categories-tree-contact-display-options.png)
+![Item de Menu Lista de Contatos Todas as Categorias aba de opções de exibição de contato em árvore](../../../pt/images/menu-items/contacts-list-all-contact-categories/03-contact-display-options.png)
 
 - **Categoria de Contato** Mostra ou oculta a visualização da Categoria de Contatos.
     - *Usar Global* Usa o valor padrão da tela de opções de contatos.
@@ -89,7 +89,7 @@ As Opções de Exibição de Contato controlam a aparência do layout da lista.
 
 ### Aba Opções de Correio
 
-![Item de Menu Lista de Contatos Todas as Categorias aba opções de correio em árvore](../../../ptbr/images/menu-items/contacts-list-all-contact-categories/04-contacts-list-all-categories-tree-mail-options-tab.png)
+![Item de Menu Lista de Contatos Todas as Categorias aba opções de correio em árvore](../../../pt/images/menu-items/contacts-list-all-contact-categories/04-mail-options-tab.png)
 
 - **Formulário de Contato** Mostra ou oculta o *formulário de contato* do contato.
 - **Enviar Cópia para o Remetente** Mostra ou oculta uma caixa de seleção para permitir que o remetente envie uma cópia do email para si mesmo.

@@ -19,7 +19,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Banco de dados de manutenção](../../../ptbr/images/maintenance/maintenance-database/01-maintenance-database.png)
+![Banco de dados de manutenção](../../../pt/images/maintenance/maintenance-database/01-items-list.png)
 
 ## Cabeçalhos de Coluna
 

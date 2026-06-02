@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de Conteúdos em Diferentes Idiomas](../../../ptbr/images/languages/languages-content/01-languages-content.png)
+![Lista de Conteúdos em Diferentes Idiomas](../../../pt/images/languages/languages-content/01-languages-list.png)
 
 ## Cabeçalhos de Coluna
 

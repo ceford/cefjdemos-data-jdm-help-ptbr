@@ -24,7 +24,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![painel inicial](../../../ptbr/images/site/site-system-information/01-system-information-tab.png)
+![painel inicial](../../../pt/images/site/site-system-information/01-system-information-tab.png)
 
 ## Guias de Formulário
 
@@ -55,7 +55,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Guia de Configurações PHP
 
-![home dashboard](../../../ptbr/images/site/site-system-information/02-php-settings-tab.png)
+![home dashboard](../../../pt/images/site/site-system-information/02-php-settings-tab.png)
 
 Esta tela mostra as informações de Configurações PHP. Se alguma dessas
 configurações estiver destacada como incorreta, elas devem ser corrigidas.
@@ -80,7 +80,7 @@ configurações estiver destacada como incorreta, elas devem ser corrigidas.
 
 ### Guia de Arquivo de Configuração
 
-![home dashboard](../../../ptbr/images/site/site-system-information/03-configuration-file-tab.png)
+![home dashboard](../../../pt/images/site/site-system-information/03-configuration-file-tab.png)
 
 Esta guia mostra o conteúdo do arquivo *configuration.php* atual do Joomla!,
 que está armazenado no diretório `path-to-joomla-root`. Este arquivo é criado automaticamente
@@ -91,7 +91,7 @@ para ver mais informações sobre essas configurações e fazer alterações.
 
 ### Guia de Permissões de Pastas
 
-![home dashboard](../../../ptbr/images/site/site-system-information/04-folder-permissions-tab.png)
+![home dashboard](../../../pt/images/site/site-system-information/04-folder-permissions-tab.png)
 
 Esta guia mostra uma lista dos diretórios aos quais o servidor web deve
 ter acesso de gravação. Observe que todos os diretórios listados nesta
@@ -101,7 +101,7 @@ arquivo configuration.php está incluído e mostrado como **Não Gravável**.
 
 ### Guia de Informações do PHP
 
-![home dashboard](../../../ptbr/images/site/site-system-information/05-php-information-tab.png)
+![home dashboard](../../../pt/images/site/site-system-information/05-php-information-tab.png)
 
 Esta guia exibe as configurações de configuração da linguagem de script
 do lado do servidor PHP que o Joomla! utiliza, juntamente com todas as

@@ -25,7 +25,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![módulo de privacidade do painel de módulos](../../../pt/images/modules-admin/admin-modules-privacy-dashboard/01-modules-privacy-dashboard-module-tab.png)
+![módulo de privacidade do painel de módulos](../../../pt/images/modules-admin/admin-modules-privacy-dashboard/01-module-tab.png)
 
 ## Campos do Formulário
 

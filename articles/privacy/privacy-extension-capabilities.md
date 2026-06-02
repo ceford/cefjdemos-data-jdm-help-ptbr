@@ -16,7 +16,7 @@ Selecione **Usuários → Privacidade → Capacidades** no menu do Administr
 
 ## Captura de Tela
 
-![capacidades da extensão de privacidade](../../../ptbr/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
+![capacidades da extensão de privacidade](../../../pt/images/privacy/privacy-extension-capabilities/01-information.png)
 
 Não há ações do usuário nesta página, além de expandir e ler os relatórios individuais.
 *Traduzido por openai.com*

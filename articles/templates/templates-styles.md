@@ -22,7 +22,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![Lista de estilos do site de modelos](../../../ptbr/images/templates/templates-styles/01-templates-site-styles-list.png)
+![Lista de estilos do site de modelos](../../../pt/images/templates/templates-styles/01-styles-list.png)
 
 *Traduzido por openai.com*
 

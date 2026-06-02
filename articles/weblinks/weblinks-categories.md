@@ -22,7 +22,7 @@ Selecione **Componentes → Weblinks → Categorias** no menu do Administrad
 
 ## Captura de Tela
 
-![lista de links da web](../../../ptbr/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
+![lista de links da web](../../../pt/images/weblinks/weblinks-categories/01-categories-list.png)
 
 *Traduzido por openai.com*
 

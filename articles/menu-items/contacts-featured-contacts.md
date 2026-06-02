@@ -34,13 +34,13 @@ Para editar um item de menu de Contatos em Destaque existente:
 
 ## Captura de Tela
 
-![Detalhes da Aba de Contatos em Destaque](../../../ptbr/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
+![Detalhes da Aba de Contatos em Destaque](../../../pt/images/menu-items/contacts-featured-contacts/01-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba Formulário
 
-![Aba formulário dos Contatos em Destaque](../../../ptbr/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-form-tab.png)
+![Aba formulário dos Contatos em Destaque](../../../pt/images/menu-items/contacts-featured-contacts/02-form-tab.png)
 
 - **Tags** Mostrar ou ocultar as *Tags* do contato.
 - **Informações de Contato** Mostrar ou ocultar as *Informações de Contato* do contato.
@@ -55,7 +55,7 @@ Para editar um item de menu de Contatos em Destaque existente:
 
 As Opções de E-mail de Contato controlam a aparência do → *Formulário de Contato* se ele estiver habilitado.
 
-![Aba opções de e-mail dos Contatos em Destaque](../../../ptbr/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-mail-options-tab.png)
+![Aba opções de e-mail dos Contatos em Destaque](../../../pt/images/menu-items/contacts-featured-contacts/03-mail-options-tab.png)
 
 - **Formulário de Contato** Mostrar ou ocultar o *formulário de contato* do contato.
 - **Enviar Cópia ao Remetente** Mostrar ou ocultar uma caixa de seleção para permitir que um Remetente envie uma cópia do e-mail para si mesmo.

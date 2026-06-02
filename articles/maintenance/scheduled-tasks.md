@@ -23,7 +23,7 @@ A lista de Tarefas Agendadas inicial tem três itens.
 
 ## Captura de tela
 
-![scheduled tasks list](../../../ptbr/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
+![scheduled tasks list](../../../pt/images/maintenance/scheduled-tasks/01-tasks-list.png)
 
 ## Cabeçalhos de Coluna
 
@@ -39,13 +39,13 @@ Colunas exclusivas para tarefas agendadas:
 
 Selecione o botão na Barra de Ferramentas para ver uma lista de execuções de tarefas individuais.
 
-![task execution history list](../../../ptbr/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
+![task execution history list](../../../pt/images/maintenance/scheduled-tasks/02-execution-history.png)
 
 ## Tarefas Disponíveis
 
 A captura de tela a seguir mostra uma lista de tarefas disponíveis. Algumas são demonstrações, outras são úteis.
 
-![Scheduled Tasks Available](../../../ptbr/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../pt/images/maintenance/scheduled-tasks/03-task-types.png)
 
 Cada tarefa tem seus próprios parâmetros relacionados à tarefa que devem ser autoexplicativos. Por exemplo, a tarefa **Site Offline** só faz sentido se a **Editar Tarefa → Campos Básicos → Regra de Execução** estiver definida como **Execução Manual**.
 

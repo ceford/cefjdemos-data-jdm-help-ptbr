@@ -32,7 +32,7 @@ experiência em codificação para preparar substituições adequadas de templat
 
 Este exemplo é uma página de *Artigos: Editar Grupo de Campos*. *Contatos: Editar Grupo de Campos* e *Usuários: Editar Grupo de Campos* são semelhantes.
 
-![artigos editar grupo de campos](../../../ptbr/images/fields/field-groups-edit/01-articles-edit-field-group.png)
+![artigos editar grupo de campos](../../../pt/images/fields/field-groups-edit/01-edit-field-group.png)
 
 ## Campos do Formulário
 

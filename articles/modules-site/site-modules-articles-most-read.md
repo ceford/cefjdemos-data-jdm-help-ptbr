@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![módulo de artigos mais lidos](../../../ptbr/images/modules-site/site-modules-articles-most-read/01-modules-articles-most-read-module-tab.png)
+![módulo de artigos mais lidos](../../../pt/images/modules-site/site-modules-articles-most-read/01-module-tab.png)
 
 ## Campos do Formulário
 

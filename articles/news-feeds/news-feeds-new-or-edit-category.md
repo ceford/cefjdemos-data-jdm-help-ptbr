@@ -23,7 +23,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![Feeds de notícias editar categoria aba de categoria](../../../ptbr/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![Feeds de notícias editar categoria aba de categoria](../../../pt/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Campos do Formulário
 
@@ -33,7 +33,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ### Guia Opções
 
-![Editar categoria de notícias tab opções](../../../ptbr/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![Editar categoria de notícias tab opções](../../../pt/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Layout** Selecione um layout das opções disponíveis.
 - **Imagem** Escolha uma imagem para ser exibida com esta categoria no Frontend.

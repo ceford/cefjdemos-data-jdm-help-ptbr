@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![modulos frontend aba módulo link](../../../ptbr/images/modules-admin/admin-modules-frontend-link/01-modules-frontend-link-module-tab.png)
+![modulos frontend aba módulo link](../../../pt/images/modules-admin/admin-modules-frontend-link/01-module-tab.png)
 
 ## Campos do Formulário
 

@@ -24,7 +24,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![lista de notas do usuário](../../../ptbr/images/users/user-notes/01-users-user-notes-list.png)
+![lista de notas do usuário](../../../pt/images/users/user-notes/01-notes-list.png)
 
 ## Dicas
 

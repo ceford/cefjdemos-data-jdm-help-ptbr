@@ -17,7 +17,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![mensagens privadas escrever](../../../ptbr/images/private-messages/private-messages-write/01-private-messages-write.png)
+![mensagens privadas escrever](../../../pt/images/private-messages/private-messages-write/01-write-form.png)
 
 ## Campos do Formulário
 

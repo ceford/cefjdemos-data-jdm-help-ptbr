@@ -20,7 +20,7 @@ A página *Templates: Personalizar Fonte* é onde o código-fonte dos arquivos d
 
 ## Captura de Tela
 
-![Modelos personalizar aba do editor cassiopeia](../../../ptbr/images/templates/templates-customise-source/01-templates-customise-cassiopeia-edit-component-editor-tab.png)
+![Modelos personalizar aba do editor cassiopeia](../../../pt/images/templates/templates-customise-source/01-editor-tab.png)
 
 ## Campos do Formulário
 

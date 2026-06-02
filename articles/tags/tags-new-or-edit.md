@@ -19,7 +19,7 @@ Alguns aspectos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![tags edit tag details tab](../../../ptbr/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
+![tags edit tag details tab](../../../pt/images/tags/tags-new-or-edit/01-details-tab.png)
 
 ## Campos de Formulário
 
@@ -49,7 +49,7 @@ Alguns aspectos desta página estão cobertos em artigos de Ajuda separados:
 
 ### Aba de Opções
 
-![tags edit tag options tab](../../../ptbr/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
+![tags edit tag options tab](../../../pt/images/tags/tags-new-or-edit/02-options-tab.png)
 
 #### Painel de Opções
 
@@ -68,7 +68,7 @@ Alguns aspectos desta página estão cobertos em artigos de Ajuda separados:
 
 ### Aba de Publicação
 
-![tags edit tag publishing tab](../../../ptbr/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
+![tags edit tag publishing tab](../../../pt/images/tags/tags-new-or-edit/03-publishing-tab.png)
 
 #### Painel de Publicação
 

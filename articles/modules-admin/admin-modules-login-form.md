@@ -23,7 +23,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![módulos formulário de login módulo aba](../../../ptbr/images/modules-admin/admin-modules-login-form/01-modules-login-form-module-tab.png)
+![módulos formulário de login módulo aba](../../../pt/images/modules-admin/admin-modules-login-form/01-module-tab.png)
 
 ## Campos de Formulário
 

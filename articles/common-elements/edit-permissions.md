@@ -21,13 +21,13 @@ há um tutorial separado sobre [Controle de Acesso](jdocmanual?article=user/user
 
 Neste exemplo, usuários do grupo Oddjob receberam permissão Global para acessar a interface do Administrador, mas nada além disso.
 
-![Captura de Tela das Permissões](../../../ptbr/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
+![Captura de Tela das Permissões](../../../pt/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
 
 ## Permissões de Configuração de Componentes
 
 Para acessar um componente específico, as permissões devem ser configuradas nas opções do componente. Neste exemplo, as opções do componente Mídia.
 
-![Captura de Tela da Mídia](../../../ptbr/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
+![Captura de Tela da Mídia](../../../pt/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
 
 Você vai perceber que este componente possui menos Ações disponíveis e o grupo "Oddjob" tem permissões apenas suficientes para realizar o trabalho.
 
@@ -48,11 +48,11 @@ Para alterar as permissões deste componente:
 
 Após o login, um usuário no grupo Oddjob verá os módulos do Painel Inicial que têm o acesso **Especial** configurado e um link no Menu para o componente de Mídia.
 
-![Painel Inicial para Oddjob](../../../ptbr/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
+![Painel Inicial para Oddjob](../../../pt/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
 
 E a tela de Mídia para o usuário Oddjob é como esperado:
 
-![Tela de Mídia para Oddjob](../../../ptbr/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)
+![Tela de Mídia para Oddjob](../../../pt/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)
 
 *Traduzido por openai.com*
 

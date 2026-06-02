@@ -40,7 +40,7 @@ Om een bestaande Categorie te bewerken:
 
 ## Screenshot
 
-![Schermafbeelding van categorie bewerken](../../../ptbr/images/articles/articles-edit-category/01-articles-edit-category-category-tab.png)
+![Schermafbeelding van categorie bewerken](../../../pt/images/articles/articles-edit-category/01-category-tab.png)
 
 ## Formulier Velden
 

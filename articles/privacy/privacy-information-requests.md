@@ -27,7 +27,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![solicitações de informações de privacidade](../../../ptbr/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
+![solicitações de informações de privacidade](../../../pt/images/privacy/privacy-information-requests/01-requests-list.png)
 
 ## Cabeçalhos de Coluna
 

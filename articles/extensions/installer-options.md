@@ -19,7 +19,7 @@ Alguns aspectos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Opções do Instalador na aba de preferências](../../../ptbr/images/extensions/installer-options/01-installer-options-preferences-tab.png)
+![Opções do Instalador na aba de preferências](../../../pt/images/extensions/installer-options/01-preferences-tab.png)
 
 ## Campos do Formulário
 

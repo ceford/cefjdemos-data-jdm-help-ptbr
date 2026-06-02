@@ -11,7 +11,7 @@ Todos os itens do menu têm um layout semelhante, mas alguns dos campos do formu
 
 ## Captura de Tela
 
-![detalhes do item do menu](../../../ptbr/images/menu-items-common/menu-item-details/01-menu-item-details.png)
+![detalhes do item do menu](../../../pt/images/menu-items-common/menu-item-details/01-details-tab.png)
 
 As capturas de tela em cada uma das páginas de Ajuda dos tipos de itens diferem nos detalhes desta captura de tela.
 

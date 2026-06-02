@@ -18,7 +18,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![editar site de atualização](../../../ptbr/images/update-sites/edit-update-site/01-update-sites-edit-update-site.png)
+![editar site de atualização](../../../pt/images/update-sites/edit-update-site/01-update-site-form.png)
 
 ## Campos do Formulário
 

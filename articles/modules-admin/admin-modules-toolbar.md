@@ -24,7 +24,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![barra de ferramentas de módulos aba de módulo](../../../pt/images/modules-admin/admin-modules-toolbar/01-modules-toolbar-module-tab.png)
+![barra de ferramentas de módulos aba de módulo](../../../pt/images/modules-admin/admin-modules-toolbar/01-module-tab.png)
 
 ## Campos do Formulário
 

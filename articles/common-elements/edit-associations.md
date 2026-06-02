@@ -8,7 +8,7 @@ A aba de Associações faz isso no formulário de edição de vários componente
 
 ## Exemplo: Artigos: Aba Editar Associações
 
-![Aba de editar associações de artigo](../../../ptbr/images/common-elements/edit-associations/01-articles-edit-association-tab.png)
+![Aba de editar associações de artigo](../../../pt/images/common-elements/edit-associations/01-articles-edit-association-tab.png)
 
 Nesta ilustração, um artigo foi criado em alemão. É o que está sendo editado. A lista de associações mostra os idiomas disponíveis além do alemão. Foi feita uma associação com o mesmo artigo em inglês. Essa associação pode ser Editada ou Limpa. Associações com o mesmo artigo em outros idiomas podem ser feitas escolhendo um artigo dentre os já disponíveis ou criando um novo artigo.
 

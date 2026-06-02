@@ -22,7 +22,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de banners](../../../ptbr/images/banners/banners/01-banners-list.png)
+![Lista de banners](../../../pt/images/banners/banners/01-banners-list.png)
 
 ## Cabeçalhos de Coluna
 

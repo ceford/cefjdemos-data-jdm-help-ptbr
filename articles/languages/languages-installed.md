@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Lista de sites com idiomas instalados](../../../ptbr/images/languages/languages-installed/01-languages-installed-site.png)
+![Lista de sites com idiomas instalados](../../../pt/images/languages/languages-installed/01-languages-installed-list.png)
 
 ## Filtros de Lista
 

@@ -32,7 +32,7 @@ Para criar um novo usuário:
 
 ## Captura de Tela
 
-![editar detalhes do usuário](../../../ptbr/images/users/users-new-or-edit/01-users-edit-account-details-tab.png)
+![editar detalhes do usuário](../../../pt/images/users/users-new-or-edit/01-account-details-tab.png)
 
 ## Campos do Formulário
 
@@ -54,13 +54,13 @@ Para criar um novo usuário:
 
 ### Aba Grupos de Usuários Atribuídos
 
-![aba de grupos de usuários atribuídos ao editar usuário](../../../ptbr/images/users/users-new-or-edit/02-users-edit-assigned-user-groups-tab.png)
+![aba de grupos de usuários atribuídos ao editar usuário](../../../pt/images/users/users-new-or-edit/02-assigned-user-groups-tab.png)
 
 O padrão é *Registrado*, mas pode ser alterado na página *Usuário: Opções*.
 
 ### Configurações Básicas
 
-![aba de configurações básicas ao editar usuário](../../../ptbr/images/users/users-new-or-edit/03-users-edit-basic-settings-tab.png)
+![aba de configurações básicas ao editar usuário](../../../pt/images/users/users-new-or-edit/03-basic-settings-tab.png)
 
 - **Estilo do Template de Backend** Selecione um estilo de template para a interface de Backend do administrador. Isto afetará apenas este Usuário.
 - **Idioma do Backend** Selecione o idioma para a interface de Backend do administrador. Isto afetará apenas este Usuário.
@@ -70,7 +70,7 @@ O padrão é *Registrado*, mas pode ser alterado na página *Usuário: Opções*
 
 ### Configurações de Acessibilidade
 
-![aba de configurações de acessibilidade ao editar usuário](../../../ptbr/images/users/users-new-or-edit/04-users-edit-accessibility-settings-tab.png)
+![aba de configurações de acessibilidade ao editar usuário](../../../pt/images/users/users-new-or-edit/04-accessibility-settings-tab.png)
 
 - **Monocromático** Sim/Não
 - **Alto Contraste** Sim/Não
@@ -98,7 +98,7 @@ O token é visível apenas para sua própria conta.
 
 ### Autenticação Multi-fator
 
-![aba de autenticação multi-fator ao editar usuário](../../../ptbr/images/users/users-new-or-edit/05-users-edit-multi-factor-authentication-tab.png)
+![aba de autenticação multi-fator ao editar usuário](../../../pt/images/users/users-new-or-edit/05-multi-factor-authentication-tab.png)
 
 Esta aba permite que você configure um ou mais métodos para permitir acesso à sua conta após o login com Nome de Usuário e Senha. Está presente apenas ao editar seu próprio perfil. Há vários métodos disponíveis. Se você perder acesso a um método por qualquer motivo, pode escolher outro método na tela de verificação pós-login. Os métodos alternativos devem ter sido configurados com antecedência!
 

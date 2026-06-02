@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Banners Clientes](../../../ptbr/images/banners/banners-clients/01-banners-clients-list.png)
+![Banners Clientes](../../../pt/images/banners/banners-clients/01-clients-list.png)
 
 ## Cabeçalhos de Coluna
 

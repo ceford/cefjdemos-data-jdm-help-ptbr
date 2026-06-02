@@ -13,7 +13,7 @@ Todos os itens do menu possuem um layout semelhante, mas alguns dos campos de fo
 
 ## Captura de Tela
 
-![Item de Menu guia de layout do blog](../../../ptbr/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
+![Item de Menu guia de layout do blog](../../../pt/images/menu-items-common/menu-item-blog-layout/01-blog-layout-tab.png)
 
 ## Campos de Formulário
 

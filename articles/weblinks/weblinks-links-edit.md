@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![editar link da web, aba link da web](../../../ptbr/images/weblinks/weblinks-links-edit/01-web-link-edit-web-link-tab.png)
+![editar link da web, aba link da web](../../../pt/images/weblinks/weblinks-links-edit/01-edit-web-link-tab.png)
 
 ## Campos do Formulário
 
@@ -34,7 +34,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba de Imagens
 
-![aba de edição de imagens do link web](../../../ptbr/images/weblinks/weblinks-links-edit/02-web-link-edit-web-link-images-tab.png)
+![aba de edição de imagens do link web](../../../pt/images/weblinks/weblinks-links-edit/02-images-tab.png)
 
 - **Primeira Imagem** Clique em Selecionar para selecionar uma imagem para exibir
   com este item no frontend.
@@ -55,7 +55,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba de Publicação
 
-![aba de edição de publicação do link web](../../../ptbr/images/weblinks/weblinks-links-edit/03-web-link-edit-web-link-publishing-tab.png)
+![aba de edição de publicação do link web](../../../pt/images/weblinks/weblinks-links-edit/03-publishing-tab.png)
 
 - **Início da Publicação** Data e hora para começar a publicação. Use este
   campo se você deseja inserir o conteúdo com antecedência e depois publicá-lo
@@ -115,7 +115,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ### Aba de Opções
 
-![aba de opções de edição do link web](../../../ptbr/images/weblinks/weblinks-links-edit/04-web-link-edit-web-link-options-tab.png)
+![aba de opções de edição do link web](../../../pt/images/weblinks/weblinks-links-edit/04-options-tab.png)
 
 - **Destino** Como abrir o link. As opções são:
   - Abrir na janela pai. Abrir o link na janela do navegador atual,

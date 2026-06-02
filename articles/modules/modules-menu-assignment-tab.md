@@ -6,7 +6,7 @@ A aba *Módulo: Atribuição de Menu* é usada, com pequenas variações, em tod
 
 ## Captura de Tela
 
-![Aba avançada dos módulos](../../../ptbr/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
+![Aba avançada dos módulos](../../../pt/images/modules/modules-menu-assignment-tab/01-menu-assignment-tab.png)
 
 ## Campos de Formulário
 

@@ -8,15 +8,15 @@ Cabeçalhos de Colunas aparecem em visualizações de lista para indicar a natur
 
 ### Os Cabeçalhos das Colunas da Lista de Artigos
 
-![Cabeçalho da lista de artigos](../../../ptbr/images/common-elements/list-column-headers/01-articles-list-column-header.png)
+![Cabeçalho da lista de artigos](../../../pt/images/common-elements/list-column-headers/01-articles-list-column-header.png)
 
 ### Os Cabeçalhos das Colunas da Lista de Categorias
 
-![Cabeçalho da lista de categorias](../../../ptbr/images/common-elements/list-column-headers/02-categories-list-column-header.png)
+![Cabeçalho da lista de categorias](../../../pt/images/common-elements/list-column-headers/02-categories-list-column-header.png)
 
 ### Os Cabeçalhos das Colunas da Lista de Usuários
 
-![Cabeçalho da lista de usuários](../../../ptbr/images/common-elements/list-column-headers/03-users-list-column-header.png)
+![Cabeçalho da lista de usuários](../../../pt/images/common-elements/list-column-headers/03-users-list-column-header.png)
 
 ## Ordenar por Coluna
 

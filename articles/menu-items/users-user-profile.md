@@ -33,7 +33,7 @@ Para editar um item de menu *Perfil de Usuário* existente:
 
 ## Captura de Tela
 
-![Aba de detalhes do perfil do usuário](../../../ptbr/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
+![Aba de detalhes do perfil do usuário](../../../pt/images/menu-items/users-user-profile/01-details-tab.png)
 
 Todos os campos de entrada do formulário estão cobertos nos *Elementos Comuns*.
 

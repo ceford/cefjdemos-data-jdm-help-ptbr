@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![amostra de módulos na aba de dados do módulo](../../../pt/images/modules-admin/admin-modules-sample-data/01-modules-sample-data-module-tab.png)
+![amostra de módulos na aba de dados do módulo](../../../pt/images/modules-admin/admin-modules-sample-data/01-module-tab.png)
 
 ## Campos do Formulário
 

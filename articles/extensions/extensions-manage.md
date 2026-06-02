@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Lista de gerenciamento de extensões](../../../ptbr/images/extensions/extensions-manage/01-manage-list.png)
+![Lista de gerenciamento de extensões](../../../pt/images/extensions/extensions-manage/01-manage-list.png)
 
 ## Dicas
 

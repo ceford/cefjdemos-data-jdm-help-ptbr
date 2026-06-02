@@ -17,7 +17,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![Detalhes da guia de edição de idioma do conteúdo](../../../ptbr/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
+![Detalhes da guia de edição de idioma do conteúdo](../../../pt/images/languages/languages-edit-content-language/01-details-tab.png)
 
 ## Campos de Formulário
 
@@ -44,7 +44,7 @@ Alguns aspectos desta página são abordados em artigos de ajuda separados:
 
 ### Aba Opções
 
-![Opções de edição de conteúdo do idioma em Linguagens](../../../ptbr/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
+![Opções de edição de conteúdo do idioma em Linguagens](../../../pt/images/languages/languages-edit-content-language/02-options-tab.png)
 
 * O **Nome Personalizado do Site** pode ser diferente em diferentes idiomas!
 * A **Meta Descrição** deve ser diferente em diferentes idiomas!

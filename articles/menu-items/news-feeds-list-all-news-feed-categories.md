@@ -35,13 +35,13 @@ Para editar um item de menu Listar Todas as Categorias de Feeds de Notícias exi
 
 ## Captura de Tela
 
-![Lista de Itens do Menu contendo todas as Categorias de Feed de Notícias na aba de detalhes](../../../ptbr/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
+![Lista de Itens do Menu contendo todas as Categorias de Feed de Notícias na aba de detalhes](../../../pt/images/menu-items/news-feeds-list-all-news-feed-categories/01-details-tab.png)
 
 ## Campos do Formulário
 
 ### Aba Categorias
 
-![Menu Item listar todas as Categorias de Feed de Notícias aba categorias](../../../ptbr/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
+![Menu Item listar todas as Categorias de Feed de Notícias aba categorias](../../../pt/images/menu-items/news-feeds-list-all-news-feed-categories/02-categories-tab.png)
 
 - **Descrição da Categoria de Nível Superior** Mostrar ou ocultar a descrição da 
   categoria de nível superior. Note que esta descrição pode ser substituída para este 
@@ -60,7 +60,7 @@ Para editar um item de menu Listar Todas as Categorias de Feeds de Notícias exi
 
 ### Aba Opções de Exibição de Feed
 
-![Menu Item listar todas as Categorias de Feed de Notícias aba categorias](../../../ptbr/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Menu Item listar todas as Categorias de Feed de Notícias aba categorias](../../../pt/images/menu-items/news-feeds-list-all-news-feed-categories/03-feed-display-options-tab.png)
 
 - **Imagem do Feed** Mostrar ou ocultar a imagem dos Feeds de Notícias.
 - **Descrição do Feed** Mostrar ou ocultar as descrições dos Feeds de Notícias.

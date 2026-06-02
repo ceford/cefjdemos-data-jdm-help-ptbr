@@ -15,7 +15,7 @@ Por exemplo, o layout Opções de Categoria dos Artigos oferece:
 ```
 [A Fazer] Exemplos para mostrar a mudança na aparência com diferentes opções.
 
-![Aba de opções de edição de categoria de artigos](../../../ptbr/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
+![Aba de opções de edição de categoria de artigos](../../../pt/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Aba de Opções
 

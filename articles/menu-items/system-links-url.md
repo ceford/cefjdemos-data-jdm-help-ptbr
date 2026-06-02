@@ -32,7 +32,7 @@ Para editar um item de menu URL Externo existente:
 
 ## Captura de Tela
 
-![Alias do Item de Menu](../../../ptbr/images/menu-items/system-links-url/01-system-links-url-details-tab.png)
+![Alias do Item de Menu](../../../pt/images/menu-items/system-links-url/01-details-tab.png)
 
 Todos os campos de entrada do formulário são abordados nos *Elementos Comuns*.
 

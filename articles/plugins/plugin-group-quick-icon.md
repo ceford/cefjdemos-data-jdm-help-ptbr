@@ -4,7 +4,7 @@
 
 Os Ícones Rápidos aparecem nos painéis do Painel Inicial para fornecer acesso visual fácil aos recursos do Joomla como uma alternativa ao uso dos Menus do Administrador. Alguns dos Ícones Rápidos obtêm informações adicionais após a exibição inicial. Os plugins são usados para obter essas informações adicionais. Por exemplo, este é o painel de Verificações de Atualização mostrando que duas atualizações de Extensões estão disponíveis.
 
-![Painel de verificações de atualização do Home](../../../en/images/plugins/plugin-group-quick-icon/01-plugin-group-quick-icon-update-checks.png)
+![Painel de verificações de atualização do Home](../../../en/images/plugins/plugin-group-quick-icon/01-update-checks.png)
 
 Se você observar o carregamento ou recarregamento da página com atenção, verá os ícones mudarem de cor de azul para verde ou vermelho, indicando se estão atualizados ou não. Se você desativar um plugin, ele não aparecerá no Painel Inicial.
 
@@ -12,7 +12,7 @@ Se você observar o carregamento ou recarregamento da página com atenção, ver
 
 Verifica as atualizações das suas extensões de terceiros instaladas e notifica você quando você visita a página do Painel Inicial.
 
-![Formulário de edição de notificação de atualizações de extensões do Joomla](../../../en/images/plugins/plugin-group-quick-icon/02-plugin-group-quick-icon-extensions-updates-notification.png)
+![Formulário de edição de notificação de atualizações de extensões do Joomla](../../../en/images/plugins/plugin-group-quick-icon/02-extensions-updates-notification.png)
 
 - **Grupo** O grupo deste plugin (este valor é comparado com o grupo usado nos módulos Ícones Rápidos para injetar ícones).
 
@@ -30,7 +30,7 @@ Verifica as solicitações de privacidade que precisam ser tratadas e notifica v
 
 Verifica as atualizações do Joomla e notifica você quando você visita a página do Painel Inicial.
 
-![Formulário de edição de notificação de atualizações do Joomla](../../../en/images/plugins/plugin-group-quick-icon/03-plugin-group-quick-icon-joomla-update-notification.png)
+![Formulário de edição de notificação de atualizações do Joomla](../../../en/images/plugins/plugin-group-quick-icon/03-joomla-update-notification.png)
 
 - **Grupo** O grupo deste plugin (este valor é comparado com o grupo usado nos módulos Ícones Rápidos para injetar ícones).
 

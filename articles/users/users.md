@@ -30,7 +30,7 @@ Para editar um Usuário:
 
 ## Captura de Tela
 
-![lista de usuários](../../../ptbr/images/users/users/01-users-list.png)
+![lista de usuários](../../../pt/images/users/users/01-users-list.png)
 
 ## Cabeçalhos das Colunas
 

@@ -17,7 +17,7 @@ Selecione o botão **Opções** na Barra de Ferramentas de qualquer página da l
 
 ## Captura de Tela
 
-![Captura de tela das opções de artigos](../../../pt/images/articles/articles-options/01-articles-options-articles-tab.png)
+![Captura de tela das opções de artigos](../../../pt/images/articles/articles-options/01-articles-tab.png)
 
 ## Campos de Formulário
 
@@ -67,7 +67,7 @@ Essas configurações se aplicam aos layouts de artigos, a menos que sejam alter
 
 Estas opções controlam o layout da página de edição do artigo.
 
-![Opções de edição de layout de artigos](../../../ptbr/images/articles/articles-options/02-articles-options-editing-layout-tab.png)
+![Opções de edição de layout de artigos](../../../pt/images/articles/articles-options/02-editing-layout-tab.png)
 
 - **Permitir Captcha ao Enviar** Selecione o plugin captcha que será usado no formulário de envio do artigo. Se *Usar Global* estiver selecionado, certifique-se de que um plugin captcha esteja selecionado na Configuração Global.
 - **Opções de Publicação** Ocultar a aba Opções de Publicação no Backend ao editar Artigos. Isso significa que os usuários do Backend não poderão editar os campos nesta aba. Esses campos sempre serão definidos para seus valores padrão.
@@ -93,7 +93,7 @@ Estas opções controlam o layout da página de edição do artigo.
 
 Essas configurações se aplicam às Opções de Categoria de Artigos, a menos que sejam alteradas pela categoria individual ou pelas configurações do menu.
 
-![Opções de categoria de artigos](../../../ptbr/images/articles/articles-options/03-articles-options-category-tab.png)
+![Opções de categoria de artigos](../../../pt/images/articles/articles-options/03-category-tab.png)
 
 - **Escolher um Layout** Selecione o layout padrão a ser exibido quando um link da Categoria for selecionado.
 - **Título da Categoria** Mostrar o título da categoria.
@@ -111,7 +111,7 @@ Essas configurações se aplicam às Opções de Categoria de Artigos, a menos q
 
 Essas configurações se aplicam às Opções de Categorias de Artigos, a menos que sejam alteradas pela categoria individual ou pelas configurações do menu.
 
-![Opções de categorias de artigos](../../../ptbr/images/articles/articles-options/04-articles-options-categories-tab.png)
+![Opções de categorias de artigos](../../../pt/images/articles/articles-options/04-categories-tab.png)
 
 - **Descrição da Categoria do Nível Superior** Mostrar a descrição da categoria de nível superior.
 - **Níveis de Subcategoria** Controlar quantos níveis de subcategorias exibir.
@@ -123,7 +123,7 @@ Essas configurações se aplicam às Opções de Categorias de Artigos, a menos 
 
 Essas configurações se aplicam a layouts de blog ou destaque, a menos que sejam alteradas para um item de menu específico.
 
-![Opções de layout de blog e destaque de artigos](../../../ptbr/images/articles/articles-options/05-articles-options-blog-layouts-tab.png)
+![Opções de layout de blog e destaque de artigos](../../../pt/images/articles/articles-options/05-blog-layouts-tab.png)
 
 - **# Artigos Principais** Número de Artigos a serem exibidos utilizando a largura total da área principal de exibição. "0" significa que nenhum Artigo será exibido usando a largura total. Se um Artigo tiver uma quebra "Leia Mais...", apenas a parte do texto antes da quebra (o texto de introdução) será exibida.
 - **Classe do Artigo Principal** Adicione qualquer classe CSS para personalizar o layout. Adicione uma borda no topo com a classe boxed. Para a posição da imagem, utilize, por exemplo, image-left, image-right. Adicione image-alternate para ordenar alternadamente as imagens de introdução.
@@ -144,7 +144,7 @@ Essas configurações se aplicam a layouts de blog ou destaque, a menos que seja
 
 Essas configurações se aplicam às Opções de Layouts de Lista, a menos que sejam alteradas para um item de menu ou categoria específico.
 
-![Opções de layouts de lista de artigos](../../../ptbr/images/articles/articles-options/06-articles-options-list-layouts-tab.png)
+![Opções de layouts de lista de artigos](../../../pt/images/articles/articles-options/06-list-layouts-tab.png)
 
 - **Selecionar Exibição** Mostrar o controle Exibir \# que permite ao usuário selecionar o número de artigos a exibir.
 - **Campo de Filtro** Mostrar um campo de texto no Frontend onde um usuário pode filtrar os artigos. Opções no menu de edição do Backend.
@@ -168,7 +168,7 @@ Essas configurações se aplicam às Opções de Layouts de Lista, a menos que s
 
 Essas configurações se aplicam às Opções Compartilhadas em layouts de Lista, Blog e Destaque, a menos que sejam alteradas pelas configurações do menu.
 
-![Opções compartilhadas de artigos](../../../ptbr/images/articles/articles-options/07-articles-options-shared-tab.png)
+![Opções compartilhadas de artigos](../../../pt/images/articles/articles-options/07-shared-tab.png)
 
 - **Ordem da Categoria**
   - **Sem Ordem** Os artigos são ordenados apenas pela Ordem do Artigo, sem considerar a Categoria.
@@ -204,7 +204,7 @@ Essas configurações se aplicam às Opções Compartilhadas em layouts de Lista
 
 Essas configurações determinam como o Componente de Artigos se integrará com outras extensões.
 
-![Opções de integração de artigos](../../../ptbr/images/articles/articles-options/08-articles-options-integration-tab.png)
+![Opções de integração de artigos](../../../pt/images/articles/articles-options/08-integration-tab.png)
 
 #### Painel de Feeds de Notícias
 

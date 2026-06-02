@@ -10,7 +10,7 @@ Este plugin permite criar novos campos do tipo `calendar` em qualquer extensão 
 
 ### Campos - Caixas de Seleção
 
-![Formulário do plugin de caixas de seleção](../../../en/images/plugins/plugin-group-fields/01-plugin-group-fields-checkboxes.png)
+![Formulário do plugin de caixas de seleção](../../../en/images/plugins/plugin-group-fields/01-checkboxes.png)
 
 - **Valores das Caixas de Seleção** Os valores das caixas de seleção.
 
@@ -20,7 +20,7 @@ Este plugin permite criar novos campos do tipo `color` em qualquer extensão ond
 
 ### Campos - Editor
 
-![Formulário do plugin de editor](../../../en/images/plugins/plugin-group-fields/02-plugin-group-fields-editor.png)
+![Formulário do plugin de editor](../../../en/images/plugins/plugin-group-fields/02-editor.png)
 
 - **Mostrar Botões** Determina se os botões do plugin editors-xtd serão mostrados.
 - **Ocultar Botões** Selecionar algumas opções para ocultar.
@@ -30,7 +30,7 @@ Este plugin permite criar novos campos do tipo `color` em qualquer extensão ond
 
 ### Campos - Lista de Imagens
 
-![Formulário do plugin de lista de imagens](../../../en/images/plugins/plugin-group-fields/03-plugin-group-fields-imagelist.png)
+![Formulário do plugin de lista de imagens](../../../en/images/plugins/plugin-group-fields/03-imagelist.png)
 
 - **Diretório** O diretório com os arquivos de imagens a serem listados, relativo à pasta padrão de imagens (definida em Mídia > Opções).
 - **Múltiplo** Permite selecionar múltiplos valores.
@@ -38,7 +38,7 @@ Este plugin permite criar novos campos do tipo `color` em qualquer extensão ond
 
 ### Campos - Inteiro
 
-![Formulário do plugin de inteiro](../../../en/images/plugins/plugin-group-fields/04-plugin-group-fields-integer.png)
+![Formulário do plugin de inteiro](../../../en/images/plugins/plugin-group-fields/04-integer.png)
 
 - **Múltiplo** Permite selecionar múltiplos valores.
 - **Primeiro** Este valor é o mais baixo na lista.
@@ -47,14 +47,14 @@ Este plugin permite criar novos campos do tipo `color` em qualquer extensão ond
 
 ### Campos - Lista
 
-![Formulário do plugin de lista](../../../en/images/plugins/plugin-group-fields/05-plugin-group-fields-list.png)
+![Formulário do plugin de lista](../../../en/images/plugins/plugin-group-fields/05-list.png)
 
 - **Múltiplo** Permite selecionar múltiplos valores.
 - **Valores da Lista** Os valores da lista.
 
 ### Campos - Mídia
 
-![Formulário do plugin de mídia](../../../en/images/plugins/plugin-group-fields/06-plugin-group-fields-media.png)
+![Formulário do plugin de mídia](../../../en/images/plugins/plugin-group-fields/06-media.png)
 
 - **Diretório** O diretório com os arquivos de imagens a serem listados, relativo à pasta padrão de imagens (definida em Mídia > Opções).
 - **Pré-visualização** Mostrar ou ocultar a pré-visualização da imagem selecionada.
@@ -62,7 +62,7 @@ Este plugin permite criar novos campos do tipo `color` em qualquer extensão ond
 
 ### Campos - Rádio
 
-![Formulário do plugin de rádio](../../../en/images/plugins/plugin-group-fields/07-plugin-group-fields-radio.png)
+![Formulário do plugin de rádio](../../../en/images/plugins/plugin-group-fields/07-radio.png)
 
 - **Valores do Rádio** Os valores da lista de rádio.
 
@@ -72,21 +72,21 @@ Plugin para criar um formulário repetível com campos personalizáveis.
 
 ### Campos - SQL
 
-![Formulário do plugin SQL](../../../en/images/plugins/plugin-group-fields/08-plugin-group-fields-sql.png)
+![Formulário do plugin SQL](../../../en/images/plugins/plugin-group-fields/08-sql.png)
 
 - **Consulta** A consulta SQL que fornecerá os dados para a lista suspensa. A consulta deve retornar duas colunas; uma chamada `value`, que conterá os valores dos itens da lista; e outra chamada `text`, com o texto na lista suspensa.
 - **Múltiplo** Permite selecionar múltiplos valores.
 
 ### Campos - Texto
 
-![Formulário do plugin de texto](../../../en/images/plugins/plugin-group-fields/09-plugin-group-fields-text.png)
+![Formulário do plugin de texto](../../../en/images/plugins/plugin-group-fields/09-text.png)
 
 - **Filtro** Permite ao sistema salvar certas tags HTML ou dados brutos.
 - **Comprimento Máximo** O número máximo de caracteres que podem ser inseridos.
 
 ### Campos - Área de Texto
 
-![Formulário do plugin de área de texto](../../../en/images/plugins/plugin-group-fields/10-plugin-group-fields-textarea.png)
+![Formulário do plugin de área de texto](../../../en/images/plugins/plugin-group-fields/10-textarea.png)
 
 - **Linhas** A altura da área de texto visível em linhas. Se omitido, a altura é determinada pelo navegador. O valor não limita o número de linhas que podem ser inseridas.
 - **Colunas** A largura da área de texto visível em caracteres. Se omitido, a largura é determinada pelo navegador. O valor não limita o número de caracteres que podem ser inseridos.
@@ -95,7 +95,7 @@ Plugin para criar um formulário repetível com campos personalizáveis.
 
 ### Campos - URL
 
-![Formulário do plugin de URL](../../../en/images/plugins/plugin-group-fields/11-plugin-group-fields-url.png)
+![Formulário do plugin de URL](../../../en/images/plugins/plugin-group-fields/11-url.png)
 
 - **Esquemas** Os esquemas permitidos.
 - **Relativo** URLs relativas são permitidas.
@@ -106,7 +106,7 @@ Este plugin permite criar novos campos do tipo `user` em qualquer extensão onde
 
 ### Campos - Lista de Grupos de Usuários
 
-![Formulário do plugin de lista de grupos de usuários](../../../en/images/plugins/plugin-group-fields/12-plugin-group-fields-usergrouplist.png)
+![Formulário do plugin de lista de grupos de usuários](../../../en/images/plugins/plugin-group-fields/12-usergrouplist.png)
 
 - **Múltiplo** Permite selecionar múltiplos valores.
 

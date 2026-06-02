@@ -17,7 +17,7 @@ Alguns elementos desta página são abordados em artigos de ajuda separados:
 
 ## Captura de Tela
 
-![nova solicitação de informações sobre privacidade](../../../ptbr/images/privacy/privacy-new-information-request/01-privacy-new-information-request.png)
+![nova solicitação de informações sobre privacidade](../../../pt/images/privacy/privacy-new-information-request/01-form-fields.png)
 
 ## Campos de Formulário
 

@@ -36,7 +36,7 @@ Para editar um Item de Menu:
 
 ## Captura de Tela
 
-![Item de Menu Artigos - Aba de detalhes de artigo único](../../../ptbr/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
+![Item de Menu Artigos - Aba de detalhes de artigo único](../../../pt/images/menu-items/articles-single-article/01-details-tab.png)
 
 ## Campos de Formulário
 

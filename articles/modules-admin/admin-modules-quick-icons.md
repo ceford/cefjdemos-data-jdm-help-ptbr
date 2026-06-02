@@ -25,7 +25,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![módulos ícones rápidos aba do módulo](../../../ptbr/images/modules-admin/admin-modules-quick-icons/01-modules-quick-icons-module-tab.png)
+![módulos ícones rápidos aba do módulo](../../../pt/images/modules-admin/admin-modules-quick-icons/01-module-tab.png)
 
 ## Campos do Formulário
 

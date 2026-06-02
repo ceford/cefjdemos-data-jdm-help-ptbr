@@ -20,7 +20,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de feeds de notícias](../../../ptbr/images/news-feeds/news-feeds-categories/01-news-feeds-categories.png)
+![Lista de feeds de notícias](../../../pt/images/news-feeds/news-feeds-categories/01-categories-list.png)
 
 
 *Traduzido por openai.com*

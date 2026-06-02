@@ -4,7 +4,7 @@
 
 Os plugins editors-xtd adicionam botões à lista suspensa de Conteúdo do CMS no editor TinyMCE.
 
-![Renderização de exemplo dos botões no TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-plugin-group-editors-extended.png)
+![Renderização de exemplo dos botões no TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-cms-content-buttons.png)
 
 ### Botão - Artigo
 

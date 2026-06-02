@@ -20,7 +20,7 @@ Selecione **Componentes → Web Links → Links** no menu do Administrador.
 
 ## Captura de Tela
 
-![lista de links da web](../../../ptbr/images/weblinks/weblinks-links/01-weblinks-list.png)
+![lista de links da web](../../../pt/images/weblinks/weblinks-links/01-weblinks-list.png)
 
 *Traduzido por openai.com*
 

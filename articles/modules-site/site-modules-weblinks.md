@@ -23,7 +23,7 @@ No menu do Administrador:
 
 ## Captura de Tela
 
-![formulário de entrada de dados do módulo de links da web](../../../ptbr/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
+![formulário de entrada de dados do módulo de links da web](../../../pt/images/modules-site/site-modules-weblinks/01-module-tab.png)
 
 ## Campos de Formulário
 

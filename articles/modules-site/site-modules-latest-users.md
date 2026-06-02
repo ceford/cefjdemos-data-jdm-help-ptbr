@@ -29,7 +29,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de tela
 
-![guia do módulo de últimos usuários](../../../ptbr/images/modules-site/site-modules-latest-users/01-modules-latest-users-module-tab.png)
+![guia do módulo de últimos usuários](../../../pt/images/modules-site/site-modules-latest-users/01-module-tab.png)
 
 ## Campos do Formulário
 

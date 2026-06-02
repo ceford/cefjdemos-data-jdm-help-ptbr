@@ -8,7 +8,7 @@ Categorias são usadas por Artigos, Banners, Contatos e outros componentes para 
 
 Este exemplo de captura de tela usa o formulário Artigos: Editar Categoria.
 
-![Editar categoria aba categoria](../../../ptbr/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
+![Editar categoria aba categoria](../../../pt/images/common-elements/edit-category/01-category-tab.png)
 
 ## Campos do Formulário
 

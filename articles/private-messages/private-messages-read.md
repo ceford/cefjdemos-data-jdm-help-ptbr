@@ -20,7 +20,7 @@ Claro! Aqui está a tradução do texto Markdown para o Português do Brasil:
 
 ## Captura de Tela
 
-![visualização de mensagens privadas](../../../ptbr/images/private-messages/private-messages-read/01-private-messages-view.png)
+![visualização de mensagens privadas](../../../pt/images/private-messages/private-messages-read/01-messages-view.png)
 
 ## Detalhes
 

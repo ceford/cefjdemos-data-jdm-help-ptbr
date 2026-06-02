@@ -32,7 +32,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![lista básica de fluxo de trabalho de transições](../../../ptbr/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)
+![lista básica de fluxo de trabalho de transições](../../../pt/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)
 
 *Traduzido por openai.com*
 

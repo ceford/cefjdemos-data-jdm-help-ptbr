@@ -34,7 +34,7 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![lista de fluxo de trabalho básico por etapas](../../../ptbr/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)
+![lista de fluxo de trabalho básico por etapas](../../../pt/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)
 
 *Traduzido por openai.com*
 

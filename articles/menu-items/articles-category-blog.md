@@ -37,7 +37,7 @@ Para editar um Item de Menu:
 
 ## Captura de Tela
 
-![Categoria do Item de Menu Blog](../../../pt/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
+![Categoria do Item de Menu Blog](../../../pt/images/menu-items/articles-category-blog/01-details-tab.png)
 
 ## Campos do Formulário
 

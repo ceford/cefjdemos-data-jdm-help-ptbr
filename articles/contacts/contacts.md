@@ -29,7 +29,7 @@ Alguns elementos desta página estão cobertos em artigos de Ajuda separados:
 
 ## Captura de Tela
 
-![Lista de contatos](../../../ptbr/images/contacts/contacts/01-contacts-list.png)
+![Lista de contatos](../../../pt/images/contacts/contacts/01-contacts-list.png)
 
 *Traduzido por openai.com*
 
