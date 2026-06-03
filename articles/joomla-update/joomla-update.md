@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Joomla_Update  / Display title: Atualização do Joomla -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Joomla_Update",
+  "title": "Atualização do Joomla ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

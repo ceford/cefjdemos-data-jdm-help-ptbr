@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Private_Messages:_Write  / Display title: Mensagens Privadas: Escrever -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Private_Messages:_Write",
+  "title": "Mensagens Privadas: Escrever ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

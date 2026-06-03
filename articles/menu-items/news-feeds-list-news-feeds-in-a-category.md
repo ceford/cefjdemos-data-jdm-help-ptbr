@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_News_Feeds_in_a_Category  / Display title: Listar Feeds de Notícias em uma Categoria -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_News_Feeds_in_a_Category",
+  "title": "Listar Feeds de Notícias em uma Categoria ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

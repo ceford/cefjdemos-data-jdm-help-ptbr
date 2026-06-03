@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Permissions  / Display title: Editar Permissões -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Permissions",
+  "title": "Editar Permissões ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 

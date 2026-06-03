@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours:_New_or_Edit_Step  / Display title: Tours Guiadas: Editar Etapa -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_New_or_Edit_Step",
+  "title": "Tours Guiadas: Editar Etapa ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

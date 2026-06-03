@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Manage  / Display title: Extensões: Gerenciar -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Manage",
+  "title": "Extensões: Gerenciar ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

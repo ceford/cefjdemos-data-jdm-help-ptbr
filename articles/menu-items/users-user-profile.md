@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_User_Profile  / Display title: Perfil do Usuário -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_User_Profile",
+  "title": "Perfil do Usuário ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Featured_Contacts  / Display title: Contatos em Destaque -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts",
+  "title": "Contatos em Destaque ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

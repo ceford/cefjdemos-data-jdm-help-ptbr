@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Tagged_Items  / Display title: Itens Marcados -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Tagged_Items",
+  "title": "Itens Marcados ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

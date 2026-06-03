@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Login_Support_Information  / Display title: Módulos: Informações de Suporte de Login -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Support_Information",
+  "title": "Módulos: Informações de Suporte de Login ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

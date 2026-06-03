@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Compact_List_of_Tagged_Items  / Display title: Lista Compacta de Itens Etiquetados -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Compact_List_of_Tagged_Items",
+  "title": "Lista Compacta de Itens Etiquetados ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

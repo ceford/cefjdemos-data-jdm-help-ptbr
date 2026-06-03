@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Messages:_Options  / Display title: Mensagens: Opções -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Messages:_Options",
+  "title": "Mensagens: Opções ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

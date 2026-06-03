@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Heading  / Display title: Cabeçalho do Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
+  "title": "Cabeçalho do Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

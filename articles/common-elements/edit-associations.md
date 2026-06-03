@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Associations  / Display title: Editar Associações -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Associations",
+  "title": "Editar Associações ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 

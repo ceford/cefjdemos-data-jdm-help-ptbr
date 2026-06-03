@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_New_or_Edit_Filter  / Display title: Busca Inteligente: Novo ou Editar Filtro -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_New_or_Edit_Filter",
+  "title": "Busca Inteligente: Novo ou Editar Filtro ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

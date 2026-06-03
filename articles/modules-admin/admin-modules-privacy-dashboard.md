@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Privacy_Dashboard  / Display title: Módulos: Painel de Privacidade -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Dashboard",
+  "title": "Módulos: Painel de Privacidade ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

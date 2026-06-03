@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Password_Reset  / Display title: Redefinição de Senha -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Password_Reset",
+  "title": "Redefinição de Senha ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

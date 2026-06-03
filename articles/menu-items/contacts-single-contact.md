@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Single_Contact  / Display title: Contato Único -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_Contact",
+  "title": "Contato Único ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

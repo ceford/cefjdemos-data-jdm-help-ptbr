@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group  / Display title: Grupo de Registro de Ações -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group",
+  "title": "Grupo de Registro de Ações ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição do Grupo
 

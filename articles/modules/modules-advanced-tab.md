@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Advanced_Tab  / Display title: Módulos: Guia Avançado -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
+  "title": "Módulos: Guia Avançado ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

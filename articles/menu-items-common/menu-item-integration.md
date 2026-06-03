@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Integration  / Display title: Integração de Item de Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Integration",
+  "title": "Integração de Item de Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

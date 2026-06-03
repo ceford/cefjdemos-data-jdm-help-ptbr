@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:List_Column_Headers  / Display title: Listar Cabeçalhos das Colunas -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
+  "title": "Listar Cabeçalhos das Colunas ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 

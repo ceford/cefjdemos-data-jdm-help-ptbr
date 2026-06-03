@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Popular_Articles  / Display title: Módulos: Artigos Populares -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Popular_Articles",
+  "title": "Módulos: Artigos Populares ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

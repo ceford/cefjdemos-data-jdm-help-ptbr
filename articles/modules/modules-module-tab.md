@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Module_Tab  / Display title: Módulos: Aba Módulo -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Module_Tab",
+  "title": "Módulos: Aba Módulo ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Modules:_Options  / Display title: Módulo: Opções -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Modules:_Options",
+  "title": "Módulo: Opções ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

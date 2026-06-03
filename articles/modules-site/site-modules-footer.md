@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Footer  / Display title: Módulos: Rodapé -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Footer",
+  "title": "Módulos: Rodapé ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

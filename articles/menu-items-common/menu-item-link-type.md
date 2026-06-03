@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Link_Type  / Display title: Tipo de Link do Item de Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Link_Type",
+  "title": "Tipo de Link do Item de Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

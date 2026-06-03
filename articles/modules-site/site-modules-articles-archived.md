@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Archived  / Display title: Módulos: Artigos - Arquivados -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Archived",
+  "title": "Módulos: Artigos - Arquivados ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

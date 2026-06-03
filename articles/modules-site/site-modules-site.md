@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Site  / Display title: Módulos (Site) -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Site",
+  "title": "Módulos (Site) ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

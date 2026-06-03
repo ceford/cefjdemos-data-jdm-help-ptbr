@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Version_History  / Display title: Editar Histórico de Versões -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Version_History",
+  "title": "Editar Histórico de Versões ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

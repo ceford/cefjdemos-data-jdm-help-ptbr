@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Overrides  / Display title: Idiomas: Substituições -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Overrides",
+  "title": "Idiomas: Substituições ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

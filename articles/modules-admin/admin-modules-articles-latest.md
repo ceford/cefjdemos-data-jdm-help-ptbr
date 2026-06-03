@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Articles_-_Latest  / Display title: Módulos: Artigos - Últimos -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Articles_-_Latest",
+  "title": "Módulos: Artigos - Últimos ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

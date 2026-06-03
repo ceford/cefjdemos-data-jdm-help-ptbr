@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Workflows_List  / Display title: Fluxos de Trabalho -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Workflows_List",
+  "title": "Fluxos de Trabalho ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

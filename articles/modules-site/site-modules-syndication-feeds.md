@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Syndication_Feeds  / Display title: Módulos: Feeds de Sindicação -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Syndication_Feeds",
+  "title": "Módulos: Feeds de Sindicação ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

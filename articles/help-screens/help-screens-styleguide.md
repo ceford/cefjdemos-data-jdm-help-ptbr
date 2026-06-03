@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Help_screens_styleguide  / Display title: Guia de Estilo das Telas de Ajuda -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
+  "title": "Guia de Estilo das Telas de Ajuda ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Este guia de estilo é para a instalação do Joomla MediaWiki (docs.joomla.org).

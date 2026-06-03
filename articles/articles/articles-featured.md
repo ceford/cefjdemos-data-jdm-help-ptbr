@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Featured  / Display title: Artigos: Destaques -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
+  "title": "Artigos: Destaques ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

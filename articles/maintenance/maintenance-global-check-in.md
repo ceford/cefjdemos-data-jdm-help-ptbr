@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in  / Display title: Manutenção: Check-in Global -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
+  "title": "Manutenção: Check-in Global ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

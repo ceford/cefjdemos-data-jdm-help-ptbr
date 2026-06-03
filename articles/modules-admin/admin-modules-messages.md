@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Messages  / Display title: Módulos: Mensagens -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Messages",
+  "title": "Módulos: Mensagens ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

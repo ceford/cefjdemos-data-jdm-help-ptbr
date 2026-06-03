@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Edit_User_Profile  / Display title: Editar Perfil de Usuário -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Edit_User_Profile",
+  "title": "Editar Perfil de Usuário ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

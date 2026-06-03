@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Multilingual_Associations:_Edit  / Display title: Associações Multilíngues: Editar -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit",
+  "title": "Associações Multilíngues: Editar ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

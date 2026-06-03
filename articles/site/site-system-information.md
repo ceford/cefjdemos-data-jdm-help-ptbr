@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_System_Information  / Display title: Informações do Sistema -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_System_Information",
+  "title": "Informações do Sistema ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

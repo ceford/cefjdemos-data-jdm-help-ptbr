@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Post_Installation_Messages  / Display title: Módulos: Mensagens de Pós-instalação -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Post_Installation_Messages",
+  "title": "Módulos: Mensagens de Pós-instalação ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

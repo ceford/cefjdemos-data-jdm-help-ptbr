@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group  / Display title: Grupo de Privacidade -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group",
+  "title": "Grupo de Privacidade ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição do Grupo
 

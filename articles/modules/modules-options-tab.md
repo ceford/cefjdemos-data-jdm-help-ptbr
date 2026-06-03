@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Options_Tab  / Display title: Módulos: Guia de Opções -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Options_Tab",
+  "title": "Módulos: Guia de Opções ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

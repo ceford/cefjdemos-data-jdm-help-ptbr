@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Tours_Menu  / Display title: Módulos: Visitas Guiadas -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Tours_Menu",
+  "title": "Módulos: Visitas Guiadas ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

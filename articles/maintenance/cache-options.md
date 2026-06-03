@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Cache:_Options  / Display title: Cache: Opções -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Cache:_Options",
+  "title": "Cache: Opções ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

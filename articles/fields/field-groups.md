@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_Field_Groups  / Display title: Componente: Grupos de Campos -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_Field_Groups",
+  "title": "Componente: Grupos de Campos ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Viewing_Access_Levels  / Display title: Usuários: Visualizando Níveis de Acesso -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels",
+  "title": "Usuários: Visualizando Níveis de Acesso ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

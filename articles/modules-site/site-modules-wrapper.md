@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Wrapper  / Display title: Módulos: Invólucro -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Wrapper",
+  "title": "Módulos: Invólucro ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

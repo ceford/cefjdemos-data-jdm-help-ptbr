@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Related  / Display title: Módulos: Artigos - Relacionados -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Related",
+  "title": "Módulos: Artigos - Relacionados ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

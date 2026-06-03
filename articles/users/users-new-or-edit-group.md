@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_New_or_Edit_Group  / Display title: Usuários: Novo ou Editar Grupo -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group",
+  "title": "Usuários: Novo ou Editar Grupo ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

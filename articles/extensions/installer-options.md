@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Installer:_Options  / Display title: Instalador: Opções -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Installer:_Options",
+  "title": "Instalador: Opções ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Single_News_Feed  / Display title: Feed de Notícias Único -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_News_Feed",
+  "title": "Feed de Notícias Único ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

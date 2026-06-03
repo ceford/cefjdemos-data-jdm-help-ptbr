@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group  / Display title: Grupo de Comportamento -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group",
+  "title": "Grupo de Comportamento ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição do Grupo
 

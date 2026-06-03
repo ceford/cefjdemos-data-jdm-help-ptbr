@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Feed_Display  / Display title: Módulos: Exibição de Feed -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Feed_Display",
+  "title": "Módulos: Exibição de Feed ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_User_Menu  / Display title: Módulos: Menu do Usuário -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_User_Menu",
+  "title": "Módulos: Menu do Usuário ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Stages_List:_Basic_Workflow  / Display title: Etapas: Fluxo de Trabalho Básico -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
+  "title": "Etapas: Fluxo de Trabalho Básico ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

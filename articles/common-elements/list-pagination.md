@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Pagination  / Display title: Paginação de Lista -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Pagination",
+  "title": "Paginação de Lista ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito¶
 

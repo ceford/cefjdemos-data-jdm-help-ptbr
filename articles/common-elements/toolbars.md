@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Toolbars  / Display title: Barras de Ferramentas -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Toolbars",
+  "title": "Barras de Ferramentas ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 

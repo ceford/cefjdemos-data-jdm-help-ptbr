@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_New_or_Edit_Field_Group  / Display title: Componente: Editar Grupo de Campos -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_New_or_Edit_Field_Group",
+  "title": "Componente: Editar Grupo de Campos ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise_Source  / Display title: Modelos: Personalizar Fonte -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
+  "title": "Modelos: Personalizar Fonte ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Esta página aparece no índice das páginas de Ajuda, mas não é usada por meio de um botão de Ajuda.

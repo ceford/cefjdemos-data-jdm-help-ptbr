@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Site_Configuration_Options  / Display title: Opções de Configuração do Site -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Site_Configuration_Options",
+  "title": "Opções de Configuração do Site ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

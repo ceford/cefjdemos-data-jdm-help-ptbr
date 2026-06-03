@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Filters  / Display title: Filtros de Listas -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Filters",
+  "title": "Filtros de Listas ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito¶
 

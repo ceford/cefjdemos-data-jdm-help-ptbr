@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Plugin:_Options  / Display title: Plugin: Opções -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Plugin:_Options",
+  "title": "Plugin: Opções ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

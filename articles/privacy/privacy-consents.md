@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Consents  / Display title: Privacidade: Consentimentos -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Consents",
+  "title": "Privacidade: Consentimentos ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

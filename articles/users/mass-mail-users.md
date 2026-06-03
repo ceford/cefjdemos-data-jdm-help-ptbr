@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mass_Mail_Users  / Display title: Enviar E-mails em Massa para Usuários -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
+  "title": "Enviar E-mails em Massa para Usuários ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

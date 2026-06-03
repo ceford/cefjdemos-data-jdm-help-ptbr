@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Information:_Database  / Display title: Manutenção: Banco de Dados -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Information:_Database",
+  "title": "Manutenção: Banco de Dados ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 

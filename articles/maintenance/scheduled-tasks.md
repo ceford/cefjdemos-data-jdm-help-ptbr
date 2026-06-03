@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks / Display title: Tarefas agendadas -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
+  "title": "Tarefas agendadas ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrição
 
