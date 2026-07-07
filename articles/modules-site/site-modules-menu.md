@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Menu",
-  "title": "Módulos: Menu ",
+  "title": "Módulos: Menu",
   "description": "", 
   "author": ""
 }

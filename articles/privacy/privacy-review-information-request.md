@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Review_Information_Request",
-  "title": "Privacidade: Revisar Solicitação de Informação ",
+  "title": "Privacidade: Revisar Solicitação de Informação",
   "description": "", 
   "author": ""
 }

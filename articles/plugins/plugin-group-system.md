@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_System_Group",
-  "title": "Grupo de Sistemas ",
+  "title": "Grupo de Sistemas",
   "description": "", 
   "author": ""
 }

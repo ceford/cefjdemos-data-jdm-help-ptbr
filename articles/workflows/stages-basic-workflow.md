@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
-  "title": "Etapas: Fluxo de Trabalho Básico ",
+  "title": "Etapas: Fluxo de Trabalho Básico",
   "description": "", 
   "author": ""
 }

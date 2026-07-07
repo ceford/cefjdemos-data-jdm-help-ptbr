@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group",
-  "title": "Grupo de Autenticação de API ",
+  "title": "Grupo de Autenticação de API",
   "description": "", 
   "author": ""
 }

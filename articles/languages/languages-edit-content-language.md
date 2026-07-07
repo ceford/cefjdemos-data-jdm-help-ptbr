@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Content_Language",
-  "title": "Idiomas: Editar Idioma do Conteúdo ",
+  "title": "Idiomas: Editar Idioma do Conteúdo",
   "description": "", 
   "author": ""
 }

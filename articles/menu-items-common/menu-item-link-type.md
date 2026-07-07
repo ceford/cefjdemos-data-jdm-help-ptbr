@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Link_Type",
-  "title": "Tipo de Link do Item de Menu ",
+  "title": "Tipo de Link do Item de Menu",
   "description": "", 
   "author": ""
 }

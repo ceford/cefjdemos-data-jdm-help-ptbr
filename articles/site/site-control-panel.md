@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Control_Panel",
-  "title": "Painel Inicial ",
+  "title": "Painel Inicial",
   "description": "", 
   "author": ""
 }

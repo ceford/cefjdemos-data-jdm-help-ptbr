@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article",
-  "title": "Criar Artigo ",
+  "title": "Criar Artigo",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Consents",
-  "title": "Privacidade: Consentimentos ",
+  "title": "Privacidade: Consentimentos",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Alias",
-  "title": "Alias do Item de Menu ",
+  "title": "Alias do Item de Menu",
   "description": "", 
   "author": ""
 }

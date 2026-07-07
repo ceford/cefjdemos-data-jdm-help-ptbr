@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirects:_Links",
-  "title": "Redirecionamentos: Links ",
+  "title": "Redirecionamentos: Links",
   "description": "", 
   "author": ""
 }

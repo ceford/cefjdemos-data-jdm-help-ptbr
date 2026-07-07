@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
-  "title": "Componente: Campo de Edição ",
+  "title": "Componente: Campo de Edição",
   "description": "", 
   "author": ""
 }

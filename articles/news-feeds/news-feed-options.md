@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feed:_Options",
-  "title": "Feed de Notícias: Opções ",
+  "title": "Feed de Notícias: Opções",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Categories",
-  "title": "Feeds de Notícias: Categorias ",
+  "title": "Feeds de Notícias: Categorias",
   "description": "", 
   "author": ""
 }

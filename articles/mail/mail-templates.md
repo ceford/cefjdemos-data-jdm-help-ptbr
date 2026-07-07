@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mail_Templates",
-  "title": "Templates de E-mail ",
+  "title": "Templates de E-mail",
   "description": "", 
   "author": ""
 }

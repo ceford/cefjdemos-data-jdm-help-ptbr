@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Newsflash",
-  "title": "Módulos: Artigos - Notícia de Última Hora ",
+  "title": "Módulos: Artigos - Notícia de Última Hora",
   "description": "", 
   "author": ""
 }

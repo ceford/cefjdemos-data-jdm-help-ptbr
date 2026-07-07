@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Categories_Edit",
-  "title": "Links da Web: Editar Categoria ",
+  "title": "Links da Web: Editar Categoria",
   "description": "", 
   "author": ""
 }

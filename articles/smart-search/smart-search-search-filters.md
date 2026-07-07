@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters",
-  "title": "Pesquisa Inteligente: Filtros de Pesquisa ",
+  "title": "Pesquisa Inteligente: Filtros de Pesquisa",
   "description": "", 
   "author": ""
 }

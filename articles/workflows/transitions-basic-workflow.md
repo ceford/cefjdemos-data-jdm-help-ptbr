@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Transitions_List:_Basic_Workflow",
-  "title": "Transições: Fluxo de Trabalho Básico ",
+  "title": "Transições: Fluxo de Trabalho Básico",
   "description": "", 
   "author": ""
 }

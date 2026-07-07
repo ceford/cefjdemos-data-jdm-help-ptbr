@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
-  "title": "Modelos: Personalizar Fonte ",
+  "title": "Modelos: Personalizar Fonte",
   "description": "", 
   "author": ""
 }

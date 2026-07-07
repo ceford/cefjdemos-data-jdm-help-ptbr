@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
-  "title": "Módulos: Breadcrumbs ",
+  "title": "Módulos: Breadcrumbs",
   "description": "", 
   "author": ""
 }

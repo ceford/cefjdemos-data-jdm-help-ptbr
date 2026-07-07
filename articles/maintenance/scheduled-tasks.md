@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
-  "title": "Tarefas agendadas ",
+  "title": "Tarefas agendadas",
   "description": "", 
   "author": ""
 }

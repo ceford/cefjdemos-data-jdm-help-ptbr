@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
-  "title": "Layouts de Lista de Itens de Menu ",
+  "title": "Layouts de Lista de Itens de Menu",
   "description": "", 
   "author": ""
 }

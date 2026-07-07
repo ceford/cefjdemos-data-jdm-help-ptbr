@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations",
-  "title": "Associações Multilíngues ",
+  "title": "Associações Multilíngues: Introdução",
   "description": "", 
   "author": ""
 }

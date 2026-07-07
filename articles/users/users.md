@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users",
-  "title": "Usuários ",
+  "title": "Usuários: Introdução",
   "description": "", 
   "author": ""
 }

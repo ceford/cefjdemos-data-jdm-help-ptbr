@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Similar",
-  "title": "Módulos: Tags - Semelhantes ",
+  "title": "Módulos: Tags - Semelhantes",
   "description": "", 
   "author": ""
 }

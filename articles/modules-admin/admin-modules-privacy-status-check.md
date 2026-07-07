@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Status_Check",
-  "title": "Módulos: Verificação de Status de Privacidade ",
+  "title": "Módulos: Verificação de Status de Privacidade",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Extend_Consent",
-  "title": "Item do Menu: Estender Consentimento ",
+  "title": "Item do Menu: Estender Consentimento",
   "description": "", 
   "author": ""
 }

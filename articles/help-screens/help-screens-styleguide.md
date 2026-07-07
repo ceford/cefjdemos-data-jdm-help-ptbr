@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
-  "title": "Guia de Estilo das Telas de Ajuda ",
+  "title": "Guia de Estilo das Telas de Ajuda",
   "description": "", 
   "author": ""
 }

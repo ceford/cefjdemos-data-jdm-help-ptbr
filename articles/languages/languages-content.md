@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Content",
-  "title": "Idiomas: Conteúdo ",
+  "title": "Idiomas: Conteúdo",
   "description": "", 
   "author": ""
 }

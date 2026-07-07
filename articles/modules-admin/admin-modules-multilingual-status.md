@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Multilingual_Status",
-  "title": "Módulos: Status Multilíngue ",
+  "title": "Módulos: Status Multilíngue",
   "description": "", 
   "author": ""
 }

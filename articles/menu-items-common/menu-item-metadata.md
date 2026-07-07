@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Metadata",
-  "title": "Metadados de Item do Menu ",
+  "title": "Metadados de Item do Menu",
   "description": "", 
   "author": ""
 }

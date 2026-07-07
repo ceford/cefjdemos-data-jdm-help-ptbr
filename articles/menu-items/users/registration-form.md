@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Registration_Form",
-  "title": "Formulário de Registro ",
+  "title": "Formulário de Registro",
   "description": "", 
   "author": ""
 }

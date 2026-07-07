@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
-  "title": "Item de Menu: Criar Solicitação ",
+  "title": "Item de Menu: Criar Solicitação",
   "description": "", 
   "author": ""
 }

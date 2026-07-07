@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Login_Form",
-  "title": "Formulário de Login ",
+  "title": "Formulário de Login",
   "description": "", 
   "author": ""
 }

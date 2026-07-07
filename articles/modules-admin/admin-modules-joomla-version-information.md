@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Joomla_Version_Information",
-  "title": "Módulos: Informações da Versão do Joomla ",
+  "title": "Módulos: Informações da Versão do Joomla",
   "description": "", 
   "author": ""
 }

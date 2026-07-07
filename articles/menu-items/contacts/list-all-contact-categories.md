@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Contact_Categories",
-  "title": "Listar Todas as Categorias de Contato ",
+  "title": "Listar Todas as Categorias de Contato",
   "description": "", 
   "author": ""
 }

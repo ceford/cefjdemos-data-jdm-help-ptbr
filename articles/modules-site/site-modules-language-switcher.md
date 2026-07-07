@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Language_Switcher",
-  "title": "Módulos: Seletor de Idioma ",
+  "title": "Módulos: Seletor de Idioma",
   "description": "", 
   "author": ""
 }

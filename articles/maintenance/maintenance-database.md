@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Information:_Database",
-  "title": "Manutenção: Banco de Dados ",
+  "title": "Manutenção: Banco de Dados",
   "description": "", 
   "author": ""
 }

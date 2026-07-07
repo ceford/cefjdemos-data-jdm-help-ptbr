@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
-  "title": "Configuração de tarefas agendadas ",
+  "title": "Configuração de tarefas agendadas",
   "description": "", 
   "author": ""
 }

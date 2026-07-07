@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles:_Edit",
-  "title": "Artigos: Editar ",
+  "title": "Artigos: Editar",
   "description": "", 
   "author": ""
 }

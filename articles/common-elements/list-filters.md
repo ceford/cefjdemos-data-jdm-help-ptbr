@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Filters",
-  "title": "Filtros de Listas ",
+  "title": "Filtros de Listas",
   "description": "", 
   "author": ""
 }

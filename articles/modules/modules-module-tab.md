@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Module_Tab",
-  "title": "Módulos: Aba Módulo ",
+  "title": "Módulos: Aba Módulo",
   "description": "", 
   "author": ""
 }

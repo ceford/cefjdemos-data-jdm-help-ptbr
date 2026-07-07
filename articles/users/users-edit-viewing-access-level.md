@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level",
-  "title": "Usuários: Editar Nível de Acesso à Visualização ",
+  "title": "Usuários: Editar Nível de Acesso à Visualização",
   "description": "", 
   "author": ""
 }

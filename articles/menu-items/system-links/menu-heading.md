@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
-  "title": "Cabeçalho do Menu ",
+  "title": "Cabeçalho do Menu",
   "description": "", 
   "author": ""
 }

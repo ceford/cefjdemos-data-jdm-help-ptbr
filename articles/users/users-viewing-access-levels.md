@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels",
-  "title": "Usuários: Visualizando Níveis de Acesso ",
+  "title": "Usuários: Visualizando Níveis de Acesso",
   "description": "", 
   "author": ""
 }

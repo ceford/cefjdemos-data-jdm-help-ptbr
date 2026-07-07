@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Menu_Assignment_Tab",
-  "title": "Módulos: Aba de Atribuição de Menu ",
+  "title": "Módulos: Aba de Atribuição de Menu",
   "description": "", 
   "author": ""
 }

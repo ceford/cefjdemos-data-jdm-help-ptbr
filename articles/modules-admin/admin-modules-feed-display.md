@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Feed_Display",
-  "title": "Módulos: Exibição de Feed ",
+  "title": "Módulos: Exibição de Feed",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Frontend_Link",
-  "title": "Módulos: Link de Frontend ",
+  "title": "Módulos: Link de Frontend",
   "description": "", 
   "author": ""
 }

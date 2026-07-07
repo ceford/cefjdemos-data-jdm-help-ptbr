@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
-  "title": "Pesquisa Inteligente: Mapas de Conteúdo ",
+  "title": "Pesquisa Inteligente: Mapas de Conteúdo",
   "description": "", 
   "author": ""
 }

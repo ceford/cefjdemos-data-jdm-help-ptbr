@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Action_Logs_-_Latest",
-  "title": "Módulos: Registros de Ação - Mais Recentes ",
+  "title": "Módulos: Registros de Ação - Mais Recentes",
   "description": "", 
   "author": ""
 }

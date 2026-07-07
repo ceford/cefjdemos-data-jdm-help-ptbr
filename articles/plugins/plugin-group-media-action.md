@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group",
-  "title": "Grupo de Ação de Mídia ",
+  "title": "Grupo de Ação de Mídia",
   "description": "", 
   "author": ""
 }

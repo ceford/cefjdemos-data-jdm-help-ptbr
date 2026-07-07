@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group",
-  "title": "Grupo de Campos ",
+  "title": "Grupo de Campos",
   "description": "", 
   "author": ""
 }

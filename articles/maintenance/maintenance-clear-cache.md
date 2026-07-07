@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Clear_Cache",
-  "title": "Manutenção: Limpar Cache ",
+  "title": "Manutenção: Limpar Cache",
   "description": "", 
   "author": ""
 }

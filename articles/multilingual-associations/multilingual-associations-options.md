@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options",
-  "title": "Associações Multilíngues: Opções ",
+  "title": "Associações Multilíngues: Opções",
   "description": "", 
   "author": ""
 }

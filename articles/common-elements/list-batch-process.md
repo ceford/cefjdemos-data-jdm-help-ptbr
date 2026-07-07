@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
-  "title": "Listar Processo em Lote ",
+  "title": "Listar Processo em Lote",
   "description": "", 
   "author": ""
 }

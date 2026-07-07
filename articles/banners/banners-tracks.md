@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Tracks",
-  "title": "Banners: Faixas ",
+  "title": "Banners: Faixas",
   "description": "", 
   "author": ""
 }

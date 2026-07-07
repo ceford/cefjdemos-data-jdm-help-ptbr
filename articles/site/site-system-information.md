@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_System_Information",
-  "title": "Informações do Sistema ",
+  "title": "Informações do Sistema",
   "description": "", 
   "author": ""
 }
