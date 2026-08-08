@@ -55,6 +55,8 @@ Alguns elementos desta página são abordados em artigos de Ajuda separados:
   menu pop-up. Se nenhum item do menu for selecionado, os usuários permanecerão na mesma 
   página após o logout.
 - **Página de Registro** Selecione ou crie uma página para registro.
+- **Link para Redefinir Senha** Exibir ou ocultar o link para redefinir a senha (novidade na versão 6.2).
+- **Link para Recuperar Nome de Usuário** Exibir ou ocultar o link para recuperar o nome de usuário (novidade na versão 6.2).
 - **Saudação** Mostrar ou esconder o texto de saudação simples.
 - **Nome/Nome de usuário** Exibe o nome ou nome de usuário após o login.
 - **Link do perfil** Mostrar ou esconder um link para o perfil do usuário.
