@@ -1,72 +1,78 @@
 <!--
 {
-  "source": "https://docs.joomla.org/Help4.x:Joomla_Update",
-  "title": "Atualização do Joomla: Introdução",
-  "description": "", 
-  "author": ""
+    "source": "https://docs.joomla.org/Help4.x:Joomla_Update",
+    "title": "Atualiza\u00e7\u00e3o do Joomla: Introdu\u00e7\u00e3o",
+    "description": " ",
+    "author": ""
 }
 -->
 
 ## Descrição
 
-Esta página permite que o Joomla! seja atualizado usando um pacote de atualização do repositório de código do Joomla!. É melhor e mais seguro deixar que o Joomla! se atualize usando este método.
+Esta página permite atualizar o Joomla! usando um pacote de atualização do
+repositório de código do Joomla!. É melhor e mais seguro permitir que o Joomla
+se atualize usando este método.
 
 ## Como Acessar
 
-No **Painel Inicial → Painel de Notificações**, o ícone do Joomla terá uma das duas mensagens:
-- **Joomla está atualizado**
-- **X.Y.Z Disponível - Atualize agora!**
+No **Painel inicial → Painel de notificações**, o ícone do Joomla exibirá
+uma de duas mensagens:
+- **O Joomla está atualizado**
+- **X.Y.Z disponível - Atualize agora!**
 
 Selecione o ícone.
 
-Além disso, o **Sistema → Painel de Atualização → Joomla** exibirá um tique, o que significa que está atualizado, ou um número de versão, o que significa que uma nova versão está disponível.
+Além disso, o **Sistema → Painel de atualização → Joomla** exibirá uma marca
+de seleção, indicando que está atualizado, ou um número de versão, indicando
+que uma nova versão está disponível.
 
-## Captura de Tela
+## Captura de tela
 
 Se o seu site estiver atualizado, você verá esta tela:
 
-![Upload & Update](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
+![Upload e atualização atualizados](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
 
-Se uma atualização estiver disponível, você verá esta tela:
+Se houver uma atualização disponível, você verá esta tela:
 
-![Upload & Update](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
+![Upload e atualização disponível](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
 
-Se estiver atualizando uma versão principal ou secundária, você verá uma tela de verificação pré-atualização:
+Se estiver atualizando uma versão principal ou secundária, você verá uma tela
+de verificação pré-atualização:
 
-![pre update check](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
+![Upload e atualização: verificação pré-atualização](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
 
-Selecione cada um dos três itens do menu para verificar se há algo que precise de atenção.
+Selecione cada um dos três itens de menu para verificar se algo precisa de atenção.
 
-## Iniciar Atualização
+## Iniciar atualização
 
-Se você não estiver na versão mais recente do Joomla, pode instalar a
-atualização mais recente a partir desta página. Para isso, certifique-se de que fez um backup
-e marque a caixa de seleção **Estou ciente...** para indicar que fez isso. Em seguida,
-selecione o botão **Iniciar Atualização** e o Joomla instalará a versão mais recente.
+Se você não estiver usando a versão mais recente do Joomla, poderá instalar a
+atualização mais recente nesta página. Para isso, certifique-se de ter feito
+um backup e marque a caixa de seleção **Estou ciente...** para indicar que
+você fez isso. Em seguida, selecione o botão **Iniciar atualização** e o Joomla
+instalará a versão mais recente.
 
-A tela de atualização exibe uma barra de progresso enquanto a atualização está em andamento.
+A tela de atualização mostra uma barra de progresso enquanto a atualização está em andamento.
 
-### Enviar e Atualizar
+### Enviar e atualizar
 
-Você pode usar este botão para atualizar o Joomla se o seu servidor estiver atrás de um
-firewall ou de outra forma incapaz de contatar os servidores de atualização. Primeiro,
-baixe o Pacote de Atualização do Joomla em formato ZIP da página oficial
-de download do Joomla.
+Você pode usar este botão para atualizar o Joomla se o seu servidor estiver
+atrás de um firewall ou, de outra forma, não conseguir entrar em contato com
+os servidores de atualização. Primeiro, baixe o Pacote de atualização do Joomla
+em formato ZIP na página oficial de downloads do Joomla.
 
-Você deve ter suas configurações PHP *upload_max_filesize* e *post_max_size* definidas para 64Mb
-e o limite de memória PHP definido para 256 Mb. Caso contrário, a atualização pode falhar. Uma
-boa razão para fazer aquele backup!
+Você deve definir *upload_max_filesize* e *post_max_size* do PHP como 64 Mb
+e o limite de memória do PHP como 256 Mb. Caso contrário, a atualização poderá
+falhar. Um bom motivo para fazer aquele backup!
 
-![upload e instalar](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
+![Enviar e atualizar: enviar e instalar](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
 
-## Opções de Atualização
+## Opções de atualização
 
-O botão Opções da Barra de Ferramentas permite selecionar o tipo de atualização:
+O botão Opções da barra de ferramentas permite selecionar o tipo de atualização:
 
-- **Padrão** Este é utilizado para sites configurados para permanecer com a versão instalada.
-- **Próximo Joomla** Este é utilizado para sites que normalmente migram para a próxima versão principal assim que uma versão estável é lançada.
-- **URL Personalizado** Para Desenvolvedores selecionarem uma fonte de atualização.
-
+- **Padrão** É usado para sites configurados para permanecer na versão instalada.
+- **Joomla Next** É usado para sites que normalmente passam para a próxima versão
+  principal assim que uma versão estável é lançada.
+- **URL personalizada** Para desenvolvedores selecionarem uma fonte de atualização.
 
 *Traduzido por openai.com*
-

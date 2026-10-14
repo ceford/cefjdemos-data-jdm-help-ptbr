@@ -36,11 +36,10 @@ Para editar um item de menu *Opções de Configuração do Site* existente, sele
 
 ## Captura de tela
 
-![Opções de configuração do site no item de menu](../../../../en/images/menu-items/configuration/site-configuration-options/01-details-tab.png)
+![Opções de configuração do site no item de menu](../../../../ptbr/images/menu-items/configuration/site-configuration-options/01-details-tab.png)
 
 ## Captura de Tela do Front End
 
-![Formulário de opções de configuração do site no front end](../../../../en/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
+![Formulário de opções de configuração do site no front end](../../../../ptbr/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
 
 *Traduzido por openai.com*
-

@@ -44,7 +44,6 @@ Para editar um item de menu existente de Opções de Modelo de Display:
 
 ## Captura de Tela do Front End
 
-![Exibir opções de template do formulário de front end](../../../../en/images/menu-items/configuration/display-template-options/02-frontend.png)
+![Exibir opções de template do formulário de front end](../../../../pt/images/menu-items/configuration/display-template-options/02-frontend.png)
 
 *Traduzido por openai.com*
-

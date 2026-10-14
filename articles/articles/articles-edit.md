@@ -93,7 +93,7 @@ Painel Inicial.
 permissões de administrador. Ela permite a exibição de imagens e links em artigos usando
 layouts padronizados.
 
-![Aba de edição de imagens e links dos artigos](../../../en/images/articles/articles-edit/02-images-tab.png)
+![Aba de edição de imagens e links dos artigos](../../../en/images/articles/articles-edit/02-images-and-links-tab.png)
 
 #### Imagem de Introdução
 
@@ -231,7 +231,7 @@ aparecerá como uma aba separada.
 **Nota:** Esta aba pode ser ocultada por um usuário com permissões de administrador nas
 Opções do Artigo.
 
-![Aba de configuração da tela de edição](../../../en/images/articles/articles-edit/05-editor-tab.png)
+![Aba de configuração da tela de edição](../../../en/images/articles/articles-edit/05-configure-edit-screen-tab.png)
 
 - **Opções de Publicação** Se Ocultar, a aba Opções de Publicação
   não será exibida no Backend. Isso significa que os usuários do Backend não
