@@ -25,7 +25,7 @@ O conjunto 2 da barra de ferramentas fornece uma linha de botões, conforme
 mostrado abaixo. O conjunto é atribuído por padrão ao grupo de usuários
 Público.
 
-![Barra de ferramentas 2 do TinyMCE](../../../en/images/editors/editors/01-set-2.png)
+![Barra de ferramentas 2 do TinyMCE](../../../ptbr/images/editors/editors/01-set-2.png)
 
 - Os botões permitem formatar o texto como: negrito, sublinhado ou tachado.
 - Desfazer e Refazer.
@@ -41,7 +41,7 @@ O conjunto 1 da barra de ferramentas fornece duas linhas de botões, conforme
 mostrado abaixo. O conjunto é atribuído por padrão aos grupos de usuários
 Gerente e Registrado.
 
-![Barra de ferramentas 1 do TinyMCE](../../../en/images/editors/editors/02-set-1.png)
+![Barra de ferramentas 1 do TinyMCE](../../../ptbr/images/editors/editors/02-set-1.png)
 
 Essa opção fornece todos os mesmos botões documentados acima na barra de
 ferramentas do conjunto 2. Além disso, as seguintes opções estão disponíveis.
@@ -54,7 +54,7 @@ ferramentas do conjunto 2. Além disso, as seguintes opções estão disponívei
 Artigo: o exemplo mostra como criar facilmente um link para qualquer artigo no
 site atual.
 
-![Janela modal do seletor de links do TinyMCE](../../../en/images/editors/editors/03-link-button.png)
+![Janela modal do seletor de links do TinyMCE](../../../ptbr/images/editors/editors/03-link-button.png)
 
 Para criar um link para o artigo desejado:
 
@@ -73,7 +73,7 @@ artigo. Uma quebra de página permite a navegação entre páginas quando o arti
 exibido em um layout. Isso é útil para artigos longos. Quando este botão é
 pressionado, uma janela é exibida conforme mostrado abaixo:
 
-![Formulário de quebra de página do TinyMCE](../../../en/images/editors/editors/04-pagebreak-button.png)
+![Formulário de quebra de página do TinyMCE](../../../ptbr/images/editors/editors/04-pagebreak-button.png)
 
 - **Título da página**. Insira o título a ser exibido para a nova página (por
   exemplo, “Página 2”).
@@ -141,7 +141,7 @@ O conjunto de ferramentas 0 fornece as opções de edição mais abrangentes, co
 abaixo. O conjunto é atribuído por padrão aos grupos de usuários Administrador, Editor e
 Superusuários.
 
-![Conjunto de dados 0 do TinyMCE](../../../en/images/editors/editors/05-set-0.png)
+![Conjunto de dados 0 do TinyMCE](../../../ptbr/images/editors/editors/05-set-0.png)
 
 Essa opção fornece todos os mesmos botões documentados na barra de ferramentas do Conjunto 1
 acima. Além disso, as seguintes opções estão disponíveis.
@@ -218,7 +218,7 @@ O 'Editor - CodeMirror' foi desenvolvido para facilitar a inserção de código 
 em um artigo ou descrição. O CodeMirror oferece realce de sintaxe
 e preenchimento automático, conforme mostrado nesta captura de tela.
 
-![formulário de edição do CodeMirror](../../../en/images/editors/editors/06-codemirror.png)
+![formulário de edição do CodeMirror](../../../ptbr/images/editors/editors/06-codemirror.png)
 
 - Os botões exibidos abaixo da janela de edição permitem acessar links para qualquer
   item do site.
